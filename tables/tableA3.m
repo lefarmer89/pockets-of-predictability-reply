@@ -1,0 +1,43 @@
+function tableA3()
+%TABLEA3  Render Table A.3: transaction-cost panels (0, 5, 10 bps).
+%
+% Each panel reports alpha / t(alpha) / Sharpe ratio for the Fixed,
+% Adaptive (min RMSE), and Adaptive (max alpha) columns under a different
+% per-trade transaction cost.
+%
+% Reads:  results/aggregates/tabA3Results.mat
+% Writes: stdout (LatexTableFull captured by saveTableScript).
+
+load('results/aggregates/tabA3Results.mat', ...
+    'econMatFixed', 'econMatFixed5', 'econMatFixed10', ...
+    'alphMatAdaptive',   'tStatAlphMatAdaptive',   'SRAdaptive', ...
+    'alphMatAdaptive5',  'tStatAlphMatAdaptive5',  'SRAdaptive5', ...
+    'alphMatAdaptive10', 'tStatAlphMatAdaptive10', 'SRAdaptive10');
+
+useInd1 = 1:9;
+useInd2 = [1:6, 8:10];   % econMatFixed* are 10-row (with erL); drop it
+
+tabA3.panelA = [econMatFixed(useInd2, :), ...
+    alphMatAdaptive(1, useInd1)',   tStatAlphMatAdaptive(1, useInd1)',   SRAdaptive(1, useInd1)', ...
+    alphMatAdaptive(2, useInd1)',   tStatAlphMatAdaptive(2, useInd1)',   SRAdaptive(2, useInd1)'];
+tabA3.panelB = [econMatFixed5(useInd2, :), ...
+    alphMatAdaptive5(1, useInd1)',  tStatAlphMatAdaptive5(1, useInd1)',  SRAdaptive5(1, useInd1)', ...
+    alphMatAdaptive5(2, useInd1)',  tStatAlphMatAdaptive5(2, useInd1)',  SRAdaptive5(2, useInd1)'];
+tabA3.panelC = [econMatFixed10(useInd2, :), ...
+    alphMatAdaptive10(1, useInd1)', tStatAlphMatAdaptive10(1, useInd1)', SRAdaptive10(1, useInd1)', ...
+    alphMatAdaptive10(2, useInd1)', tStatAlphMatAdaptive10(2, useInd1)', SRAdaptive10(2, useInd1)'];
+
+pval.panelA = ones(9);  pval.panelA(:, [1 4 7]) = normcdf(-abs(tabA3.panelA(:, [2 5 8])));
+pval.panelB = ones(9);  pval.panelB(:, [1 4 7]) = normcdf(-abs(tabA3.panelB(:, [2 5 8])));
+pval.panelC = ones(9);  pval.panelC(:, [1 4 7]) = normcdf(-abs(tabA3.panelC(:, [2 5 8])));
+
+rowLabels = {'dp', 'tbl', 'tsp', 'rvar', 'mv', 'pc', 'comb1', 'comb2', 'comb3'};
+colLabels = {'Variables', ...
+    '$\hat{\alpha}$', '$t_{\hat{\alpha}}$', 'Sharpe Ratio', ...
+    '$\hat{\alpha}$', '$t_{\hat{\alpha}}$', 'Sharpe Ratio', ...
+    '$\hat{\alpha}$', '$t_{\hat{\alpha}}$', 'Sharpe Ratio'};
+
+LatexTableFull(tabA3.panelA, colLabels, rowLabels, '9.2f', pval.panelA, 0)
+LatexTableFull(tabA3.panelB, colLabels, rowLabels, '9.2f', pval.panelB, 0)
+LatexTableFull(tabA3.panelC, colLabels, rowLabels, '9.2f', pval.panelC, 0)
+end

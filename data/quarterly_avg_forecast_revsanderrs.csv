@@ -1,0 +1,2380 @@
+timeseq,forvar,forvarN,ind_fe,ind_fr,yyyy,qq,tm
+37,"3tb","3tb, 3 month t-bills interest rate",,,1969,1,1969
+37,"aaa","aaa, interest rate",,,1969,1,1969
+37,"c","c, consumption",,,1969,1,1969
+37,"cpi","cpi, cpi inflation",,,1969,1,1969
+37,"gf","gf, federal government spending",,,1969,1,1969
+37,"gs","gs, state government spending",,,1969,1,1969
+37,"gy","gy (growth rate of output)",-1.29307,-.3549266,1969,1,1969
+37,"hs","hs (housing starts)",-.059052,-.0139555,1969,1,1969
+37,"ip","ip (industrial production)",.620034,-.2990753,1969,1,1969
+37,"nri","nri, non-residential investment",,,1969,1,1969
+37,"pi","pi (inflation)",2.01972,.1502373,1969,1,1969
+37,"ri","ri, residential investment",,,1969,1,1969
+37,"ue","ue (unemployment rate)",-.271858,-.1839113,1969,1,1969
+38,"3tb","3tb, 3 month t-bills interest rate",,,1969,2,1969.25
+38,"aaa","aaa, interest rate",,,1969,2,1969.25
+38,"c","c, consumption",,,1969,2,1969.25
+38,"cpi","cpi, cpi inflation",,,1969,2,1969.25
+38,"gf","gf, federal government spending",,,1969,2,1969.25
+38,"gs","gs, state government spending",,,1969,2,1969.25
+38,"gy","gy (growth rate of output)",-2.46535,-.5632253,1969,2,1969.25
+38,"hs","hs (housing starts)",-.135169,-.020072,1969,2,1969.25
+38,"ip","ip (industrial production)",-2.94728,-.8487491,1969,2,1969.25
+38,"nri","nri, non-residential investment",,,1969,2,1969.25
+38,"pi","pi (inflation)",2.53303,.2565998,1969,2,1969.25
+38,"ri","ri, residential investment",,,1969,2,1969.25
+38,"ue","ue (unemployment rate)",-.025694,-.1878416,1969,2,1969.25
+39,"3tb","3tb, 3 month t-bills interest rate",,,1969,3,1969.5
+39,"aaa","aaa, interest rate",,,1969,3,1969.5
+39,"c","c, consumption",,,1969,3,1969.5
+39,"cpi","cpi, cpi inflation",,,1969,3,1969.5
+39,"gf","gf, federal government spending",,,1969,3,1969.5
+39,"gs","gs, state government spending",,,1969,3,1969.5
+39,"gy","gy (growth rate of output)",-1.8236,-1.068098,1969,3,1969.5
+39,"hs","hs (housing starts)",-.083116,-.1198017,1969,3,1969.5
+39,"ip","ip (industrial production)",-3.19946,-.4563514,1969,3,1969.5
+39,"nri","nri, non-residential investment",,,1969,3,1969.5
+39,"pi","pi (inflation)",1.69285,.931646,1969,3,1969.5
+39,"ri","ri, residential investment",,,1969,3,1969.5
+39,"ue","ue (unemployment rate)",.17247,.0046297,1969,3,1969.5
+40,"3tb","3tb, 3 month t-bills interest rate",,,1969,4,1969.75
+40,"aaa","aaa, interest rate",,,1969,4,1969.75
+40,"c","c, consumption",,,1969,4,1969.75
+40,"cpi","cpi, cpi inflation",,,1969,4,1969.75
+40,"gf","gf, federal government spending",,,1969,4,1969.75
+40,"gs","gs, state government spending",,,1969,4,1969.75
+40,"gy","gy (growth rate of output)",-2.53241,-1.635943,1969,4,1969.75
+40,"hs","hs (housing starts)",.037885,-.1191937,1969,4,1969.75
+40,"ip","ip (industrial production)",-5.21574,-2.257889,1969,4,1969.75
+40,"nri","nri, non-residential investment",,,1969,4,1969.75
+40,"pi","pi (inflation)",1.48375,.9851089,1969,4,1969.75
+40,"ri","ri, residential investment",,,1969,4,1969.75
+40,"ue","ue (unemployment rate)",.469455,.2208441,1969,4,1969.75
+41,"3tb","3tb, 3 month t-bills interest rate",,,1970,1,1970
+41,"aaa","aaa, interest rate",,,1970,1,1970
+41,"c","c, consumption",,,1970,1,1970
+41,"cpi","cpi, cpi inflation",,,1970,1,1970
+41,"gf","gf, federal government spending",,,1970,1,1970
+41,"gs","gs, state government spending",,,1970,1,1970
+41,"gy","gy (growth rate of output)",-2.73993,-.1521487,1970,1,1970
+41,"hs","hs (housing starts)",.085072,-.0492611,1970,1,1970
+41,"ip","ip (industrial production)",-6.33548,-.1543154,1970,1,1970
+41,"nri","nri, non-residential investment",,,1970,1,1970
+41,"pi","pi (inflation)",1.79859,.0247217,1970,1,1970
+41,"ri","ri, residential investment",,,1970,1,1970
+41,"ue","ue (unemployment rate)",.700144,-.0454468,1970,1,1970
+42,"3tb","3tb, 3 month t-bills interest rate",,,1970,2,1970.25
+42,"aaa","aaa, interest rate",,,1970,2,1970.25
+42,"c","c, consumption",,,1970,2,1970.25
+42,"cpi","cpi, cpi inflation",,,1970,2,1970.25
+42,"gf","gf, federal government spending",,,1970,2,1970.25
+42,"gs","gs, state government spending",,,1970,2,1970.25
+42,"gy","gy (growth rate of output)",-.317817,-.7698707,1970,2,1970.25
+42,"hs","hs (housing starts)",.165142,-.0093052,1970,2,1970.25
+42,"ip","ip (industrial production)",-2.9124,-.9002325,1970,2,1970.25
+42,"nri","nri, non-residential investment",,,1970,2,1970.25
+42,"pi","pi (inflation)",1.05633,.8480868,1970,2,1970.25
+42,"ri","ri, residential investment",,,1970,2,1970.25
+42,"ue","ue (unemployment rate)",.86381,.3383142,1970,2,1970.25
+43,"3tb","3tb, 3 month t-bills interest rate",,,1970,3,1970.5
+43,"aaa","aaa, interest rate",,,1970,3,1970.5
+43,"c","c, consumption",,,1970,3,1970.5
+43,"cpi","cpi, cpi inflation",,,1970,3,1970.5
+43,"gf","gf, federal government spending",,,1970,3,1970.5
+43,"gs","gs, state government spending",,,1970,3,1970.5
+43,"gy","gy (growth rate of output)",-.874966,.2051586,1970,3,1970.5
+43,"hs","hs (housing starts)",.202775,.0131643,1970,3,1970.5
+43,"ip","ip (industrial production)",-2.73804,-.5572231,1970,3,1970.5
+43,"nri","nri, non-residential investment",,,1970,3,1970.5
+43,"pi","pi (inflation)",1.4379,-.3844827,1970,3,1970.5
+43,"ri","ri, residential investment",,,1970,3,1970.5
+43,"ue","ue (unemployment rate)",.78465,.3794674,1970,3,1970.5
+44,"3tb","3tb, 3 month t-bills interest rate",,,1970,4,1970.75
+44,"aaa","aaa, interest rate",,,1970,4,1970.75
+44,"c","c, consumption",,,1970,4,1970.75
+44,"cpi","cpi, cpi inflation",,,1970,4,1970.75
+44,"gf","gf, federal government spending",,,1970,4,1970.75
+44,"gs","gs, state government spending",,,1970,4,1970.75
+44,"gy","gy (growth rate of output)",.316148,-.4796507,1970,4,1970.75
+44,"hs","hs (housing starts)",.181379,.0631049,1970,4,1970.75
+44,"ip","ip (industrial production)",-1.1161,-.3702381,1970,4,1970.75
+44,"nri","nri, non-residential investment",,,1970,4,1970.75
+44,"pi","pi (inflation)",.449182,.3832105,1970,4,1970.75
+44,"ri","ri, residential investment",,,1970,4,1970.75
+44,"ue","ue (unemployment rate)",.352754,.6541212,1970,4,1970.75
+45,"3tb","3tb, 3 month t-bills interest rate",,,1971,1,1971
+45,"aaa","aaa, interest rate",,,1971,1,1971
+45,"c","c, consumption",,,1971,1,1971
+45,"cpi","cpi, cpi inflation",,,1971,1,1971
+45,"gf","gf, federal government spending",,,1971,1,1971
+45,"gs","gs, state government spending",,,1971,1,1971
+45,"gy","gy (growth rate of output)",.860257,.4732227,1971,1,1971
+45,"hs","hs (housing starts)",.124267,.1000355,1971,1,1971
+45,"ip","ip (industrial production)",.696121,.9770997,1971,1,1971
+45,"nri","nri, non-residential investment",,,1971,1,1971
+45,"pi","pi (inflation)",.177183,.2502584,1971,1,1971
+45,"ri","ri, residential investment",,,1971,1,1971
+45,"ue","ue (unemployment rate)",.193333,.2464172,1971,1,1971
+46,"3tb","3tb, 3 month t-bills interest rate",,,1971,2,1971.25
+46,"aaa","aaa, interest rate",,,1971,2,1971.25
+46,"c","c, consumption",,,1971,2,1971.25
+46,"cpi","cpi, cpi inflation",,,1971,2,1971.25
+46,"gf","gf, federal government spending",,,1971,2,1971.25
+46,"gs","gs, state government spending",,,1971,2,1971.25
+46,"gy","gy (growth rate of output)",1.02162,.379234,1971,2,1971.25
+46,"hs","hs (housing starts)",.143458,.0061967,1971,2,1971.25
+46,"ip","ip (industrial production)",1.10105,1.049748,1971,2,1971.25
+46,"nri","nri, non-residential investment",,,1971,2,1971.25
+46,"pi","pi (inflation)",-.503314,.1422778,1971,2,1971.25
+46,"ri","ri, residential investment",,,1971,2,1971.25
+46,"ue","ue (unemployment rate)",.204561,.0833577,1971,2,1971.25
+47,"3tb","3tb, 3 month t-bills interest rate",,,1971,3,1971.5
+47,"aaa","aaa, interest rate",,,1971,3,1971.5
+47,"c","c, consumption",,,1971,3,1971.5
+47,"cpi","cpi, cpi inflation",,,1971,3,1971.5
+47,"gf","gf, federal government spending",,,1971,3,1971.5
+47,"gs","gs, state government spending",,,1971,3,1971.5
+47,"gy","gy (growth rate of output)",.336882,1.231584,1971,3,1971.5
+47,"hs","hs (housing starts)",.117479,.0503768,1971,3,1971.5
+47,"ip","ip (industrial production)",.903901,1.58019,1971,3,1971.5
+47,"nri","nri, non-residential investment",,,1971,3,1971.5
+47,"pi","pi (inflation)",-.30871,-.4431419,1971,3,1971.5
+47,"ri","ri, residential investment",,,1971,3,1971.5
+47,"ue","ue (unemployment rate)",.305312,-.0188842,1971,3,1971.5
+48,"3tb","3tb, 3 month t-bills interest rate",,,1971,4,1971.75
+48,"aaa","aaa, interest rate",,,1971,4,1971.75
+48,"c","c, consumption",,,1971,4,1971.75
+48,"cpi","cpi, cpi inflation",,,1971,4,1971.75
+48,"gf","gf, federal government spending",,,1971,4,1971.75
+48,"gs","gs, state government spending",,,1971,4,1971.75
+48,"gy","gy (growth rate of output)",1.74467,-.4098278,1971,4,1971.75
+48,"hs","hs (housing starts)",.114193,.0281906,1971,4,1971.75
+48,"ip","ip (industrial production)",3.54501,.0407456,1971,4,1971.75
+48,"nri","nri, non-residential investment",,,1971,4,1971.75
+48,"pi","pi (inflation)",-.360319,.0514572,1971,4,1971.75
+48,"ri","ri, residential investment",,,1971,4,1971.75
+48,"ue","ue (unemployment rate)",.06693,.2742184,1971,4,1971.75
+49,"3tb","3tb, 3 month t-bills interest rate",,,1972,1,1972
+49,"aaa","aaa, interest rate",,,1972,1,1972
+49,"c","c, consumption",,,1972,1,1972
+49,"cpi","cpi, cpi inflation",,,1972,1,1972
+49,"gf","gf, federal government spending",,,1972,1,1972
+49,"gs","gs, state government spending",,,1972,1,1972
+49,"gy","gy (growth rate of output)",1.86704,.2758415,1972,1,1972
+49,"hs","hs (housing starts)",.098734,.0373429,1972,1,1972
+49,"ip","ip (industrial production)",3.34818,.3755659,1972,1,1972
+49,"nri","nri, non-residential investment",,,1972,1,1972
+49,"pi","pi (inflation)",.255963,.1693434,1972,1,1972
+49,"ri","ri, residential investment",,,1972,1,1972
+49,"ue","ue (unemployment rate)",-.073304,.0827752,1972,1,1972
+50,"3tb","3tb, 3 month t-bills interest rate",,,1972,2,1972.25
+50,"aaa","aaa, interest rate",,,1972,2,1972.25
+50,"c","c, consumption",,,1972,2,1972.25
+50,"cpi","cpi, cpi inflation",,,1972,2,1972.25
+50,"gf","gf, federal government spending",,,1972,2,1972.25
+50,"gs","gs, state government spending",,,1972,2,1972.25
+50,"gy","gy (growth rate of output)",.954919,.3716427,1972,2,1972.25
+50,"hs","hs (housing starts)",.064111,.0338253,1972,2,1972.25
+50,"ip","ip (industrial production)",.603757,.2008495,1972,2,1972.25
+50,"nri","nri, non-residential investment",,,1972,2,1972.25
+50,"pi","pi (inflation)",.701585,.0378616,1972,2,1972.25
+50,"ri","ri, residential investment",,,1972,2,1972.25
+50,"ue","ue (unemployment rate)",-.122985,.0196425,1972,2,1972.25
+51,"3tb","3tb, 3 month t-bills interest rate",,,1972,3,1972.5
+51,"aaa","aaa, interest rate",,,1972,3,1972.5
+51,"c","c, consumption",,,1972,3,1972.5
+51,"cpi","cpi, cpi inflation",,,1972,3,1972.5
+51,"gf","gf, federal government spending",,,1972,3,1972.5
+51,"gs","gs, state government spending",,,1972,3,1972.5
+51,"gy","gy (growth rate of output)",-.057497,.1190215,1972,3,1972.5
+51,"hs","hs (housing starts)",.072919,-.0097999,1972,3,1972.5
+51,"ip","ip (industrial production)",.683589,-.0052775,1972,3,1972.5
+51,"nri","nri, non-residential investment",,,1972,3,1972.5
+51,"pi","pi (inflation)",1.88004,.0860057,1972,3,1972.5
+51,"ri","ri, residential investment",,,1972,3,1972.5
+51,"ue","ue (unemployment rate)",-.186177,.0051517,1972,3,1972.5
+52,"3tb","3tb, 3 month t-bills interest rate",,,1972,4,1972.75
+52,"aaa","aaa, interest rate",,,1972,4,1972.75
+52,"c","c, consumption",,,1972,4,1972.75
+52,"cpi","cpi, cpi inflation",,,1972,4,1972.75
+52,"gf","gf, federal government spending",,,1972,4,1972.75
+52,"gs","gs, state government spending",,,1972,4,1972.75
+52,"gy","gy (growth rate of output)",-.774661,.5427876,1972,4,1972.75
+52,"hs","hs (housing starts)",-.028356,.0497727,1972,4,1972.75
+52,"ip","ip (industrial production)",1.68688,.0569328,1972,4,1972.75
+52,"nri","nri, non-residential investment",,,1972,4,1972.75
+52,"pi","pi (inflation)",3.14556,-.176986,1972,4,1972.75
+52,"ri","ri, residential investment",,,1972,4,1972.75
+52,"ue","ue (unemployment rate)",-.157778,-.0793159,1972,4,1972.75
+53,"3tb","3tb, 3 month t-bills interest rate",,,1973,1,1973
+53,"aaa","aaa, interest rate",,,1973,1,1973
+53,"c","c, consumption",,,1973,1,1973
+53,"cpi","cpi, cpi inflation",,,1973,1,1973
+53,"gf","gf, federal government spending",,,1973,1,1973
+53,"gs","gs, state government spending",,,1973,1,1973
+53,"gy","gy (growth rate of output)",-2.93066,-.2898639,1973,1,1973
+53,"hs","hs (housing starts)",-.101039,.0266207,1973,1,1973
+53,"ip","ip (industrial production)",-1.52431,.8046833,1973,1,1973
+53,"nri","nri, non-residential investment",,,1973,1,1973
+53,"pi","pi (inflation)",4.43857,.3102303,1973,1,1973
+53,"ri","ri, residential investment",,,1973,1,1973
+53,"ue","ue (unemployment rate)",.004624,-.1345046,1973,1,1973
+54,"3tb","3tb, 3 month t-bills interest rate",,,1973,2,1973.25
+54,"aaa","aaa, interest rate",,,1973,2,1973.25
+54,"c","c, consumption",,,1973,2,1973.25
+54,"cpi","cpi, cpi inflation",,,1973,2,1973.25
+54,"gf","gf, federal government spending",,,1973,2,1973.25
+54,"gs","gs, state government spending",,,1973,2,1973.25
+54,"gy","gy (growth rate of output)",-4.17208,-.3298703,1973,2,1973.25
+54,"hs","hs (housing starts)",-.166543,.0107285,1973,2,1973.25
+54,"ip","ip (industrial production)",-2.90177,.3795438,1973,2,1973.25
+54,"nri","nri, non-residential investment",,,1973,2,1973.25
+54,"pi","pi (inflation)",4.77154,.6662536,1973,2,1973.25
+54,"ri","ri, residential investment",,,1973,2,1973.25
+54,"ue","ue (unemployment rate)",.098229,-.0209299,1973,2,1973.25
+55,"3tb","3tb, 3 month t-bills interest rate",,,1973,3,1973.5
+55,"aaa","aaa, interest rate",,,1973,3,1973.5
+55,"c","c, consumption",,,1973,3,1973.5
+55,"cpi","cpi, cpi inflation",,,1973,3,1973.5
+55,"gf","gf, federal government spending",,,1973,3,1973.5
+55,"gs","gs, state government spending",,,1973,3,1973.5
+55,"gy","gy (growth rate of output)",-3.41625,-1.544847,1973,3,1973.5
+55,"hs","hs (housing starts)",-.195427,-.0787871,1973,3,1973.5
+55,"ip","ip (industrial production)",-1.80079,-1.550626,1973,3,1973.5
+55,"nri","nri, non-residential investment",,,1973,3,1973.5
+55,"pi","pi (inflation)",5.39803,.6860046,1973,3,1973.5
+55,"ri","ri, residential investment",,,1973,3,1973.5
+55,"ue","ue (unemployment rate)",.091556,.1151736,1973,3,1973.5
+56,"3tb","3tb, 3 month t-bills interest rate",,,1973,4,1973.75
+56,"aaa","aaa, interest rate",,,1973,4,1973.75
+56,"c","c, consumption",,,1973,4,1973.75
+56,"cpi","cpi, cpi inflation",,,1973,4,1973.75
+56,"gf","gf, federal government spending",,,1973,4,1973.75
+56,"gs","gs, state government spending",,,1973,4,1973.75
+56,"gy","gy (growth rate of output)",-4.55523,-1.310892,1973,4,1973.75
+56,"hs","hs (housing starts)",-.206455,-.1399047,1973,4,1973.75
+56,"ip","ip (industrial production)",-3.25449,-2.628178,1973,4,1973.75
+56,"nri","nri, non-residential investment",,,1973,4,1973.75
+56,"pi","pi (inflation)",5.49291,1.468696,1973,4,1973.75
+56,"ri","ri, residential investment",,,1973,4,1973.75
+56,"ue","ue (unemployment rate)",.075439,.2273391,1973,4,1973.75
+57,"3tb","3tb, 3 month t-bills interest rate",,,1974,1,1974
+57,"aaa","aaa, interest rate",,,1974,1,1974
+57,"c","c, consumption",,,1974,1,1974
+57,"cpi","cpi, cpi inflation",,,1974,1,1974
+57,"gf","gf, federal government spending",,,1974,1,1974
+57,"gs","gs, state government spending",,,1974,1,1974
+57,"gy","gy (growth rate of output)",-7.24586,-.0477554,1974,1,1974
+57,"hs","hs (housing starts)",-.278347,-.0511587,1974,1,1974
+57,"ip","ip (industrial production)",-10.1875,-.2530718,1974,1,1974
+57,"nri","nri, non-residential investment",,,1974,1,1974
+57,"pi","pi (inflation)",4.77541,1.155019,1974,1,1974
+57,"ri","ri, residential investment",,,1974,1,1974
+57,"ue","ue (unemployment rate)",.46881,.1248906,1974,1,1974
+58,"3tb","3tb, 3 month t-bills interest rate",,,1974,2,1974.25
+58,"aaa","aaa, interest rate",,,1974,2,1974.25
+58,"c","c, consumption",,,1974,2,1974.25
+58,"cpi","cpi, cpi inflation",,,1974,2,1974.25
+58,"gf","gf, federal government spending",,,1974,2,1974.25
+58,"gs","gs, state government spending",,,1974,2,1974.25
+58,"gy","gy (growth rate of output)",-6.20362,-.3182376,1974,2,1974.25
+58,"hs","hs (housing starts)",-.395501,-.01879,1974,2,1974.25
+58,"ip","ip (industrial production)",-12.2694,-.910469,1974,2,1974.25
+58,"nri","nri, non-residential investment",,,1974,2,1974.25
+58,"pi","pi (inflation)",2.90384,1.031242,1974,2,1974.25
+58,"ri","ri, residential investment",,,1974,2,1974.25
+58,"ue","ue (unemployment rate)",1.33652,-.2160206,1974,2,1974.25
+59,"3tb","3tb, 3 month t-bills interest rate",,,1974,3,1974.5
+59,"aaa","aaa, interest rate",,,1974,3,1974.5
+59,"c","c, consumption",,,1974,3,1974.5
+59,"cpi","cpi, cpi inflation",,,1974,3,1974.5
+59,"gf","gf, federal government spending",,,1974,3,1974.5
+59,"gs","gs, state government spending",,,1974,3,1974.5
+59,"gy","gy (growth rate of output)",-5.81853,-1.631118,1974,3,1974.5
+59,"hs","hs (housing starts)",-.394752,-.0932791,1974,3,1974.5
+59,"ip","ip (industrial production)",-14.9455,-1.115375,1974,3,1974.5
+59,"nri","nri, non-residential investment",,,1974,3,1974.5
+59,"pi","pi (inflation)",1.96417,1.422065,1974,3,1974.5
+59,"ri","ri, residential investment",,,1974,3,1974.5
+59,"ue","ue (unemployment rate)",1.65463,.0629008,1974,3,1974.5
+60,"3tb","3tb, 3 month t-bills interest rate",,,1974,4,1974.75
+60,"aaa","aaa, interest rate",,,1974,4,1974.75
+60,"c","c, consumption",,,1974,4,1974.75
+60,"cpi","cpi, cpi inflation",,,1974,4,1974.75
+60,"gf","gf, federal government spending",,,1974,4,1974.75
+60,"gs","gs, state government spending",,,1974,4,1974.75
+60,"gy","gy (growth rate of output)",-.705093,-3.806324,1974,4,1974.75
+60,"hs","hs (housing starts)",-.152333,-.3017645,1974,4,1974.75
+60,"ip","ip (industrial production)",-5.54075,-7.03459,1974,4,1974.75
+60,"nri","nri, non-residential investment",,,1974,4,1974.75
+60,"pi","pi (inflation)",.113087,1.721933,1974,4,1974.75
+60,"ri","ri, residential investment",,,1974,4,1974.75
+60,"ue","ue (unemployment rate)",1.16868,1.048649,1974,4,1974.75
+61,"3tb","3tb, 3 month t-bills interest rate",,,1975,1,1975
+61,"aaa","aaa, interest rate",,,1975,1,1975
+61,"c","c, consumption",,,1975,1,1975
+61,"cpi","cpi, cpi inflation",,,1975,1,1975
+61,"gf","gf, federal government spending",,,1975,1,1975
+61,"gs","gs, state government spending",,,1975,1,1975
+61,"gy","gy (growth rate of output)",2.54699,-1.708587,1975,1,1975
+61,"hs","hs (housing starts)",-.063399,-.118394,1975,1,1975
+61,"ip","ip (industrial production)",-.65293,-2.676823,1975,1,1975
+61,"nri","nri, non-residential investment",,,1975,1,1975
+61,"pi","pi (inflation)",-1.30082,.3115125,1975,1,1975
+61,"ri","ri, residential investment",,,1975,1,1975
+61,"ue","ue (unemployment rate)",.183138,1.118575,1975,1,1975
+62,"3tb","3tb, 3 month t-bills interest rate",,,1975,2,1975.25
+62,"aaa","aaa, interest rate",,,1975,2,1975.25
+62,"c","c, consumption",,,1975,2,1975.25
+62,"cpi","cpi, cpi inflation",,,1975,2,1975.25
+62,"gf","gf, federal government spending",,,1975,2,1975.25
+62,"gs","gs, state government spending",,,1975,2,1975.25
+62,"gy","gy (growth rate of output)",2.64596,.36744,1975,2,1975.25
+62,"hs","hs (housing starts)",-.043301,-.0512046,1975,2,1975.25
+62,"ip","ip (industrial production)",-.135037,1.031624,1975,2,1975.25
+62,"nri","nri, non-residential investment",,,1975,2,1975.25
+62,"pi","pi (inflation)",-.647989,-.5022482,1975,2,1975.25
+62,"ri","ri, residential investment",,,1975,2,1975.25
+62,"ue","ue (unemployment rate)",-.563333,.6945901,1975,2,1975.25
+63,"3tb","3tb, 3 month t-bills interest rate",,,1975,3,1975.5
+63,"aaa","aaa, interest rate",,,1975,3,1975.5
+63,"c","c, consumption",,,1975,3,1975.5
+63,"cpi","cpi, cpi inflation",,,1975,3,1975.5
+63,"gf","gf, federal government spending",,,1975,3,1975.5
+63,"gs","gs, state government spending",,,1975,3,1975.5
+63,"gy","gy (growth rate of output)",.736038,.7940909,1975,3,1975.5
+63,"hs","hs (housing starts)",-.012869,-.0445567,1975,3,1975.5
+63,"ip","ip (industrial production)",-.749175,-.2446411,1975,3,1975.5
+63,"nri","nri, non-residential investment",,,1975,3,1975.5
+63,"pi","pi (inflation)",-.629709,.0960703,1975,3,1975.5
+63,"ri","ri, residential investment",,,1975,3,1975.5
+63,"ue","ue (unemployment rate)",-.370526,-.232923,1975,3,1975.5
+64,"3tb","3tb, 3 month t-bills interest rate",,,1975,4,1975.75
+64,"aaa","aaa, interest rate",,,1975,4,1975.75
+64,"c","c, consumption",,,1975,4,1975.75
+64,"cpi","cpi, cpi inflation",,,1975,4,1975.75
+64,"gf","gf, federal government spending",,,1975,4,1975.75
+64,"gs","gs, state government spending",,,1975,4,1975.75
+64,"gy","gy (growth rate of output)",-.532567,-.7327824,1975,4,1975.75
+64,"hs","hs (housing starts)",.016575,-.0277776,1975,4,1975.75
+64,"ip","ip (industrial production)",-1.28357,-.5282907,1975,4,1975.75
+64,"nri","nri, non-residential investment",,,1975,4,1975.75
+64,"pi","pi (inflation)",-1.18992,.3316104,1975,4,1975.75
+64,"ri","ri, residential investment",,,1975,4,1975.75
+64,"ue","ue (unemployment rate)",-.118723,-.1933792,1975,4,1975.75
+65,"3tb","3tb, 3 month t-bills interest rate",,,1976,1,1976
+65,"aaa","aaa, interest rate",,,1976,1,1976
+65,"c","c, consumption",,,1976,1,1976
+65,"cpi","cpi, cpi inflation",,,1976,1,1976
+65,"gf","gf, federal government spending",,,1976,1,1976
+65,"gs","gs, state government spending",,,1976,1,1976
+65,"gy","gy (growth rate of output)",.153832,.2116665,1976,1,1976
+65,"hs","hs (housing starts)",.005651,.0127963,1976,1,1976
+65,"ip","ip (industrial production)",-1.02977,.4136977,1976,1,1976
+65,"nri","nri, non-residential investment",,,1976,1,1976
+65,"pi","pi (inflation)",-1.51253,.1968548,1976,1,1976
+65,"ri","ri, residential investment",,,1976,1,1976
+65,"ue","ue (unemployment rate)",.092083,-.1804854,1976,1,1976
+66,"3tb","3tb, 3 month t-bills interest rate",,,1976,2,1976.25
+66,"aaa","aaa, interest rate",,,1976,2,1976.25
+66,"c","c, consumption",,,1976,2,1976.25
+66,"cpi","cpi, cpi inflation",,,1976,2,1976.25
+66,"gf","gf, federal government spending",,,1976,2,1976.25
+66,"gs","gs, state government spending",,,1976,2,1976.25
+66,"gy","gy (growth rate of output)",-.154824,.067224,1976,2,1976.25
+66,"hs","hs (housing starts)",.01599,.0141922,1976,2,1976.25
+66,"ip","ip (industrial production)",-.700268,-.0414425,1976,2,1976.25
+66,"nri","nri, non-residential investment",,,1976,2,1976.25
+66,"pi","pi (inflation)",-.769586,-.2303989,1976,2,1976.25
+66,"ri","ri, residential investment",,,1976,2,1976.25
+66,"ue","ue (unemployment rate)",.4875,-.3359375,1976,2,1976.25
+67,"3tb","3tb, 3 month t-bills interest rate",,,1976,3,1976.5
+67,"aaa","aaa, interest rate",,,1976,3,1976.5
+67,"c","c, consumption",,,1976,3,1976.5
+67,"cpi","cpi, cpi inflation",,,1976,3,1976.5
+67,"gf","gf, federal government spending",,,1976,3,1976.5
+67,"gs","gs, state government spending",,,1976,3,1976.5
+67,"gy","gy (growth rate of output)",-.126247,.4384764,1976,3,1976.5
+67,"hs","hs (housing starts)",.102139,-.0464846,1976,3,1976.5
+67,"ip","ip (industrial production)",.648516,-.7531525,1976,3,1976.5
+67,"nri","nri, non-residential investment",,,1976,3,1976.5
+67,"pi","pi (inflation)",-.294306,-.6390527,1976,3,1976.5
+67,"ri","ri, residential investment",,,1976,3,1976.5
+67,"ue","ue (unemployment rate)",.461524,.0648363,1976,3,1976.5
+68,"3tb","3tb, 3 month t-bills interest rate",,,1976,4,1976.75
+68,"aaa","aaa, interest rate",,,1976,4,1976.75
+68,"c","c, consumption",,,1976,4,1976.75
+68,"cpi","cpi, cpi inflation",,,1976,4,1976.75
+68,"gf","gf, federal government spending",,,1976,4,1976.75
+68,"gs","gs, state government spending",,,1976,4,1976.75
+68,"gy","gy (growth rate of output)",-.224955,.0650405,1976,4,1976.75
+68,"hs","hs (housing starts)",.098799,.0399094,1976,4,1976.75
+68,"ip","ip (industrial production)",.983827,-.3727602,1976,4,1976.75
+68,"nri","nri, non-residential investment",,,1976,4,1976.75
+68,"pi","pi (inflation)",.087079,-.3249788,1976,4,1976.75
+68,"ri","ri, residential investment",,,1976,4,1976.75
+68,"ue","ue (unemployment rate)",-.171532,.6036872,1976,4,1976.75
+69,"3tb","3tb, 3 month t-bills interest rate",,,1977,1,1977
+69,"aaa","aaa, interest rate",,,1977,1,1977
+69,"c","c, consumption",,,1977,1,1977
+69,"cpi","cpi, cpi inflation",,,1977,1,1977
+69,"gf","gf, federal government spending",,,1977,1,1977
+69,"gs","gs, state government spending",,,1977,1,1977
+69,"gy","gy (growth rate of output)",-.32653,.0577742,1977,1,1977
+69,"hs","hs (housing starts)",.044625,.0445061,1977,1,1977
+69,"ip","ip (industrial production)",-1.32483,.7555404,1977,1,1977
+69,"nri","nri, non-residential investment",,,1977,1,1977
+69,"pi","pi (inflation)",.545859,-.089476,1977,1,1977
+69,"ri","ri, residential investment",,,1977,1,1977
+69,"ue","ue (unemployment rate)",-.495965,.2131222,1977,1,1977
+70,"3tb","3tb, 3 month t-bills interest rate",,,1977,2,1977.25
+70,"aaa","aaa, interest rate",,,1977,2,1977.25
+70,"c","c, consumption",,,1977,2,1977.25
+70,"cpi","cpi, cpi inflation",,,1977,2,1977.25
+70,"gf","gf, federal government spending",,,1977,2,1977.25
+70,"gs","gs, state government spending",,,1977,2,1977.25
+70,"gy","gy (growth rate of output)",-.271554,.00668,1977,2,1977.25
+70,"hs","hs (housing starts)",.034109,.0347703,1977,2,1977.25
+70,"ip","ip (industrial production)",.252066,-.9689945,1977,2,1977.25
+70,"nri","nri, non-residential investment",,,1977,2,1977.25
+70,"pi","pi (inflation)",.794927,1.004422,1977,2,1977.25
+70,"ri","ri, residential investment",,,1977,2,1977.25
+70,"ue","ue (unemployment rate)",-.296748,-.3349326,1977,2,1977.25
+71,"3tb","3tb, 3 month t-bills interest rate",,,1977,3,1977.5
+71,"aaa","aaa, interest rate",,,1977,3,1977.5
+71,"c","c, consumption",,,1977,3,1977.5
+71,"cpi","cpi, cpi inflation",,,1977,3,1977.5
+71,"gf","gf, federal government spending",,,1977,3,1977.5
+71,"gs","gs, state government spending",,,1977,3,1977.5
+71,"gy","gy (growth rate of output)",-.027862,-.4175907,1977,3,1977.5
+71,"hs","hs (housing starts)",.062885,-.0179758,1977,3,1977.5
+71,"ip","ip (industrial production)",.006351,-.9245597,1977,3,1977.5
+71,"nri","nri, non-residential investment",,,1977,3,1977.5
+71,"pi","pi (inflation)",.698887,.3113213,1977,3,1977.5
+71,"ri","ri, residential investment",,,1977,3,1977.5
+71,"ue","ue (unemployment rate)",-.383063,-.0406724,1977,3,1977.5
+72,"3tb","3tb, 3 month t-bills interest rate",,,1977,4,1977.75
+72,"aaa","aaa, interest rate",,,1977,4,1977.75
+72,"c","c, consumption",,,1977,4,1977.75
+72,"cpi","cpi, cpi inflation",,,1977,4,1977.75
+72,"gf","gf, federal government spending",,,1977,4,1977.75
+72,"gs","gs, state government spending",,,1977,4,1977.75
+72,"gy","gy (growth rate of output)",.055042,.138258,1977,4,1977.75
+72,"hs","hs (housing starts)",.069077,.0076283,1977,4,1977.75
+72,"ip","ip (industrial production)",1.21156,-.5461074,1977,4,1977.75
+72,"nri","nri, non-residential investment",,,1977,4,1977.75
+72,"pi","pi (inflation)",1.80527,-.522016,1977,4,1977.75
+72,"ri","ri, residential investment",,,1977,4,1977.75
+72,"ue","ue (unemployment rate)",-.656748,.1419414,1977,4,1977.75
+73,"3tb","3tb, 3 month t-bills interest rate",,,1978,1,1978
+73,"aaa","aaa, interest rate",,,1978,1,1978
+73,"c","c, consumption",,,1978,1,1978
+73,"cpi","cpi, cpi inflation",,,1978,1,1978
+73,"gf","gf, federal government spending",,,1978,1,1978
+73,"gs","gs, state government spending",,,1978,1,1978
+73,"gy","gy (growth rate of output)",-.056324,-.270238,1978,1,1978
+73,"hs","hs (housing starts)",.003101,.0427666,1978,1,1978
+73,"ip","ip (industrial production)",1.33881,.5017717,1978,1,1978
+73,"nri","nri, non-residential investment",,,1978,1,1978
+73,"pi","pi (inflation)",2.46674,.3549583,1978,1,1978
+73,"ri","ri, residential investment",,,1978,1,1978
+73,"ue","ue (unemployment rate)",-.345833,-.4165397,1978,1,1978
+74,"3tb","3tb, 3 month t-bills interest rate",,,1978,2,1978.25
+74,"aaa","aaa, interest rate",,,1978,2,1978.25
+74,"c","c, consumption",,,1978,2,1978.25
+74,"cpi","cpi, cpi inflation",,,1978,2,1978.25
+74,"gf","gf, federal government spending",,,1978,2,1978.25
+74,"gs","gs, state government spending",,,1978,2,1978.25
+74,"gy","gy (growth rate of output)",-.329165,.2824177,1978,2,1978.25
+74,"hs","hs (housing starts)",.05418,-.0222795,1978,2,1978.25
+74,"ip","ip (industrial production)",.989058,.990115,1978,2,1978.25
+74,"nri","nri, non-residential investment",,,1978,2,1978.25
+74,"pi","pi (inflation)",2.31832,.659054,1978,2,1978.25
+74,"ri","ri, residential investment",,,1978,2,1978.25
+74,"ue","ue (unemployment rate)",-.175429,-.2809523,1978,2,1978.25
+75,"3tb","3tb, 3 month t-bills interest rate",,,1978,3,1978.5
+75,"aaa","aaa, interest rate",,,1978,3,1978.5
+75,"c","c, consumption",,,1978,3,1978.5
+75,"cpi","cpi, cpi inflation",,,1978,3,1978.5
+75,"gf","gf, federal government spending",,,1978,3,1978.5
+75,"gs","gs, state government spending",,,1978,3,1978.5
+75,"gy","gy (growth rate of output)",.498761,-1.224688,1978,3,1978.5
+75,"hs","hs (housing starts)",.042559,.0109461,1978,3,1978.5
+75,"ip","ip (industrial production)",-.821868,-.400968,1978,3,1978.5
+75,"nri","nri, non-residential investment",,,1978,3,1978.5
+75,"pi","pi (inflation)",.61885,1.516336,1978,3,1978.5
+75,"ri","ri, residential investment",,,1978,3,1978.5
+75,"ue","ue (unemployment rate)",-.282051,.0370052,1978,3,1978.5
+76,"3tb","3tb, 3 month t-bills interest rate",,,1978,4,1978.75
+76,"aaa","aaa, interest rate",,,1978,4,1978.75
+76,"c","c, consumption",,,1978,4,1978.75
+76,"cpi","cpi, cpi inflation",,,1978,4,1978.75
+76,"gf","gf, federal government spending",,,1978,4,1978.75
+76,"gs","gs, state government spending",,,1978,4,1978.75
+76,"gy","gy (growth rate of output)",.262734,.4425336,1978,4,1978.75
+76,"hs","hs (housing starts)",.006762,.0232977,1978,4,1978.75
+76,"ip","ip (industrial production)",.842526,-1.386098,1978,4,1978.75
+76,"nri","nri, non-residential investment",,,1978,4,1978.75
+76,"pi","pi (inflation)",1.42259,-.44592,1978,4,1978.75
+76,"ri","ri, residential investment",,,1978,4,1978.75
+76,"ue","ue (unemployment rate)",-.444,.0387822,1978,4,1978.75
+77,"3tb","3tb, 3 month t-bills interest rate",,,1979,1,1979
+77,"aaa","aaa, interest rate",,,1979,1,1979
+77,"c","c, consumption",,,1979,1,1979
+77,"cpi","cpi, cpi inflation",,,1979,1,1979
+77,"gf","gf, federal government spending",,,1979,1,1979
+77,"gs","gs, state government spending",,,1979,1,1979
+77,"gy","gy (growth rate of output)",.510103,-.4909486,1979,1,1979
+77,"hs","hs (housing starts)",-.079639,.0177758,1979,1,1979
+77,"ip","ip (industrial production)",.859611,-.7384237,1979,1,1979
+77,"nri","nri, non-residential investment",,,1979,1,1979
+77,"pi","pi (inflation)",1.27092,.5320452,1979,1,1979
+77,"ri","ri, residential investment",,,1979,1,1979
+77,"ue","ue (unemployment rate)",-.39697,-.1487122,1979,1,1979
+78,"3tb","3tb, 3 month t-bills interest rate",,,1979,2,1979.25
+78,"aaa","aaa, interest rate",,,1979,2,1979.25
+78,"c","c, consumption",,,1979,2,1979.25
+78,"cpi","cpi, cpi inflation",,,1979,2,1979.25
+78,"gf","gf, federal government spending",,,1979,2,1979.25
+78,"gs","gs, state government spending",,,1979,2,1979.25
+78,"gy","gy (growth rate of output)",-1.39926,-.1699799,1979,2,1979.25
+78,"hs","hs (housing starts)",-.110497,-.0476722,1979,2,1979.25
+78,"ip","ip (industrial production)",-2.25962,-.2988025,1979,2,1979.25
+78,"nri","nri, non-residential investment",,,1979,2,1979.25
+78,"pi","pi (inflation)",1.0269,.5110202,1979,2,1979.25
+78,"ri","ri, residential investment",,,1979,2,1979.25
+78,"ue","ue (unemployment rate)",-.154777,-.1474375,1979,2,1979.25
+79,"3tb","3tb, 3 month t-bills interest rate",,,1979,3,1979.5
+79,"aaa","aaa, interest rate",,,1979,3,1979.5
+79,"c","c, consumption",,,1979,3,1979.5
+79,"cpi","cpi, cpi inflation",,,1979,3,1979.5
+79,"gf","gf, federal government spending",,,1979,3,1979.5
+79,"gs","gs, state government spending",,,1979,3,1979.5
+79,"gy","gy (growth rate of output)",.228708,-1.346503,1979,3,1979.5
+79,"hs","hs (housing starts)",-.164631,-.0043739,1979,3,1979.5
+79,"ip","ip (industrial production)",-3.24788,-1.164389,1979,3,1979.5
+79,"nri","nri, non-residential investment",,,1979,3,1979.5
+79,"pi","pi (inflation)",.378379,1.044899,1979,3,1979.5
+79,"ri","ri, residential investment",,,1979,3,1979.5
+79,"ue","ue (unemployment rate)",-.122718,.1418293,1979,3,1979.5
+80,"3tb","3tb, 3 month t-bills interest rate",,,1979,4,1979.75
+80,"aaa","aaa, interest rate",,,1979,4,1979.75
+80,"c","c, consumption",,,1979,4,1979.75
+80,"cpi","cpi, cpi inflation",,,1979,4,1979.75
+80,"gf","gf, federal government spending",,,1979,4,1979.75
+80,"gs","gs, state government spending",,,1979,4,1979.75
+80,"gy","gy (growth rate of output)",.619851,-1.823016,1979,4,1979.75
+80,"hs","hs (housing starts)",-.109479,-.092286,1979,4,1979.75
+80,"ip","ip (industrial production)",.592352,-3.330497,1979,4,1979.75
+80,"nri","nri, non-residential investment",,,1979,4,1979.75
+80,"pi","pi (inflation)",1.05814,.1775253,1979,4,1979.75
+80,"ri","ri, residential investment",,,1979,4,1979.75
+80,"ue","ue (unemployment rate)",-.044086,-.0225632,1979,4,1979.75
+81,"3tb","3tb, 3 month t-bills interest rate",,,1980,1,1980
+81,"aaa","aaa, interest rate",,,1980,1,1980
+81,"c","c, consumption",,,1980,1,1980
+81,"cpi","cpi, cpi inflation",,,1980,1,1980
+81,"gf","gf, federal government spending",,,1980,1,1980
+81,"gs","gs, state government spending",,,1980,1,1980
+81,"gy","gy (growth rate of output)",1.56296,-.7549559,1980,1,1980
+81,"hs","hs (housing starts)",-.073609,-.0514412,1980,1,1980
+81,"ip","ip (industrial production)",.104974,-1.324146,1980,1,1980
+81,"nri","nri, non-residential investment",,,1980,1,1980
+81,"pi","pi (inflation)",.874564,.8642526,1980,1,1980
+81,"ri","ri, residential investment",,,1980,1,1980
+81,"ue","ue (unemployment rate)",.357215,-.4021207,1980,1,1980
+82,"3tb","3tb, 3 month t-bills interest rate",,,1980,2,1980.25
+82,"aaa","aaa, interest rate",,,1980,2,1980.25
+82,"c","c, consumption",,,1980,2,1980.25
+82,"cpi","cpi, cpi inflation",,,1980,2,1980.25
+82,"gf","gf, federal government spending",,,1980,2,1980.25
+82,"gs","gs, state government spending",,,1980,2,1980.25
+82,"gy","gy (growth rate of output)",1.31654,-1.616495,1980,2,1980.25
+82,"hs","hs (housing starts)",.123544,-.2502866,1980,2,1980.25
+82,"ip","ip (industrial production)",1.2797,-3.345751,1980,2,1980.25
+82,"nri","nri, non-residential investment",,,1980,2,1980.25
+82,"pi","pi (inflation)",.308003,.1800363,1980,2,1980.25
+82,"ri","ri, residential investment",,,1980,2,1980.25
+82,"ue","ue (unemployment rate)",-.238333,.6029999,1980,2,1980.25
+83,"3tb","3tb, 3 month t-bills interest rate",,,1980,3,1980.5
+83,"aaa","aaa, interest rate",,,1980,3,1980.5
+83,"c","c, consumption",,,1980,3,1980.5
+83,"cpi","cpi, cpi inflation",,,1980,3,1980.5
+83,"gf","gf, federal government spending",,,1980,3,1980.5
+83,"gs","gs, state government spending",,,1980,3,1980.5
+83,"gy","gy (growth rate of output)",1.95796,.1510784,1980,3,1980.5
+83,"hs","hs (housing starts)",-.0517,.0809622,1980,3,1980.5
+83,"ip","ip (industrial production)",1.11001,.1602176,1980,3,1980.5
+83,"nri","nri, non-residential investment",,,1980,3,1980.5
+83,"pi","pi (inflation)",.847811,-.3805034,1980,3,1980.5
+83,"ri","ri, residential investment",,,1980,3,1980.5
+83,"ue","ue (unemployment rate)",-.781739,.4450994,1980,3,1980.5
+84,"3tb","3tb, 3 month t-bills interest rate",,,1980,4,1980.75
+84,"aaa","aaa, interest rate",,,1980,4,1980.75
+84,"c","c, consumption",,,1980,4,1980.75
+84,"cpi","cpi, cpi inflation",,,1980,4,1980.75
+84,"gf","gf, federal government spending",,,1980,4,1980.75
+84,"gs","gs, state government spending",,,1980,4,1980.75
+84,"gy","gy (growth rate of output)",-1.13315,.077495,1980,4,1980.75
+84,"hs","hs (housing starts)",-.220288,.0087989,1980,4,1980.75
+84,"ip","ip (industrial production)",-3.81413,-.3650324,1980,4,1980.75
+84,"nri","nri, non-residential investment",,,1980,4,1980.75
+84,"pi","pi (inflation)",-.075333,1.060418,1980,4,1980.75
+84,"ri","ri, residential investment",,,1980,4,1980.75
+84,"ue","ue (unemployment rate)",-.115699,-.5658835,1980,4,1980.75
+85,"3tb","3tb, 3 month t-bills interest rate",,,1981,1,1981
+85,"aaa","aaa, interest rate",,,1981,1,1981
+85,"c","c, consumption",,,1981,1,1981
+85,"cpi","cpi, cpi inflation",,,1981,1,1981
+85,"gf","gf, federal government spending",,,1981,1,1981
+85,"gs","gs, state government spending",,,1981,1,1981
+85,"gy","gy (growth rate of output)",-2.88895,-.6980281,1981,1,1981
+85,"hs","hs (housing starts)",-.375381,.0064941,1981,1,1981
+85,"ip","ip (industrial production)",-6.76302,-2.337142,1981,1,1981
+85,"nri","nri, non-residential investment",,,1981,1,1981
+85,"pi","pi (inflation)",-1.306,.5242603,1981,1,1981
+85,"ri","ri, residential investment",,,1981,1,1981
+85,"ue","ue (unemployment rate)",.322424,-.0814517,1981,1,1981
+86,"3tb","3tb, 3 month t-bills interest rate",,,1981,2,1981.25
+86,"aaa","aaa, interest rate",,,1981,2,1981.25
+86,"c","c, consumption",,,1981,2,1981.25
+86,"cpi","cpi, cpi inflation",,,1981,2,1981.25
+86,"gf","gf, federal government spending",,,1981,2,1981.25
+86,"gs","gs, state government spending",,,1981,2,1981.25
+86,"gy","gy (growth rate of output)",-4.02471,-.6673283,1981,2,1981.25
+86,"hs","hs (housing starts)",-.415789,-.0903473,1981,2,1981.25
+86,"ip","ip (industrial production)",-8.07808,-.5949768,1981,2,1981.25
+86,"nri","nri, non-residential investment",,,1981,2,1981.25
+86,"pi","pi (inflation)",-1.91203,-.126345,1981,2,1981.25
+86,"ri","ri, residential investment",,,1981,2,1981.25
+86,"ue","ue (unemployment rate)",.978097,-.1909258,1981,2,1981.25
+87,"3tb","3tb, 3 month t-bills interest rate",-1.59801,,1981,3,1981.5
+87,"aaa","aaa, interest rate",-.139793,,1981,3,1981.5
+87,"c","c, consumption",-2.23038,,1981,3,1981.5
+87,"cpi","cpi, cpi inflation",-1.2634,,1981,3,1981.5
+87,"gf","gf, federal government spending",5.01055,,1981,3,1981.5
+87,"gs","gs, state government spending",-1.25839,,1981,3,1981.5
+87,"gy","gy (growth rate of output)",-3.96251,-.699649,1981,3,1981.5
+87,"hs","hs (housing starts)",-.292734,-.1975483,1981,3,1981.5
+87,"ip","ip (industrial production)",-8.51744,-2.753521,1981,3,1981.5
+87,"nri","nri, non-residential investment",-5.01656,,1981,3,1981.5
+87,"pi","pi (inflation)",-1.46069,-1.063433,1981,3,1981.5
+87,"ri","ri, residential investment",-21.7963,,1981,3,1981.5
+87,"ue","ue (unemployment rate)",1.36526,.172475,1981,3,1981.5
+88,"3tb","3tb, 3 month t-bills interest rate",-.818294,-2.018363,1981,4,1981.75
+88,"aaa","aaa, interest rate",-.604909,.1698484,1981,4,1981.75
+88,"c","c, consumption",-1.20935,-1.244771,1981,4,1981.75
+88,"cpi","cpi, cpi inflation",-3.17884,.2390665,1981,4,1981.75
+88,"gf","gf, federal government spending",6.36343,.5187634,1981,4,1981.75
+88,"gs","gs, state government spending",.212153,-1.281245,1981,4,1981.75
+88,"gy","gy (growth rate of output)",-3.60983,-2.363777,1981,4,1981.75
+88,"hs","hs (housing starts)",-.104604,-.22689,1981,4,1981.75
+88,"ip","ip (industrial production)",-8.29191,-5.232985,1981,4,1981.75
+88,"nri","nri, non-residential investment",-7.84096,-2.89632,1981,4,1981.75
+88,"pi","pi (inflation)",-2.47242,-.0224353,1981,4,1981.75
+88,"ri","ri, residential investment",-10.061,-5.572366,1981,4,1981.75
+88,"ue","ue (unemployment rate)",1.24328,.805097,1981,4,1981.75
+89,"3tb","3tb, 3 month t-bills interest rate",-2.24323,.8560295,1982,1,1982
+89,"aaa","aaa, interest rate",-1.77779,.9617338,1982,1,1982
+89,"c","c, consumption",-.298109,-.2694893,1982,1,1982
+89,"cpi","cpi, cpi inflation",-2.64598,-1.605789,1982,1,1982
+89,"gf","gf, federal government spending",.581381,-2.561251,1982,1,1982
+89,"gs","gs, state government spending",.44169,-1.023073,1982,1,1982
+89,"gy","gy (growth rate of output)",-3.02422,-.6693763,1982,1,1982
+89,"hs","hs (housing starts)",.003931,-.0684553,1982,1,1982
+89,"ip","ip (industrial production)",-7.78705,-1.357261,1982,1,1982
+89,"nri","nri, non-residential investment",-6.85374,-3.618038,1982,1,1982
+89,"pi","pi (inflation)",-2.13003,-.9149007,1982,1,1982
+89,"ri","ri, residential investment",3.27891,-6.128442,1982,1,1982
+89,"ue","ue (unemployment rate)",.998579,.7210636,1982,1,1982
+90,"3tb","3tb, 3 month t-bills interest rate",-2.67617,-.2239292,1982,2,1982.25
+90,"aaa","aaa, interest rate",-1.87886,-.2879276,1982,2,1982.25
+90,"c","c, consumption",1.31824,-.5311012,1982,2,1982.25
+90,"cpi","cpi, cpi inflation",-1.57789,-1.076917,1982,2,1982.25
+90,"gf","gf, federal government spending",.90588,-.3744453,1982,2,1982.25
+90,"gs","gs, state government spending",.286585,.1205242,1982,2,1982.25
+90,"gy","gy (growth rate of output)",-.073564,-1.689292,1982,2,1982.25
+90,"hs","hs (housing starts)",.142254,-.0916924,1982,2,1982.25
+90,"ip","ip (industrial production)",-5.4806,-2.902566,1982,2,1982.25
+90,"nri","nri, non-residential investment",-2.31359,-5.200296,1982,2,1982.25
+90,"pi","pi (inflation)",-1.06143,-1.387803,1982,2,1982.25
+90,"ri","ri, residential investment",16.5663,-4.198607,1982,2,1982.25
+90,"ue","ue (unemployment rate)",.88381,.4801502,1982,2,1982.25
+91,"3tb","3tb, 3 month t-bills interest rate",-1.5497,-1.7401,1982,3,1982.5
+91,"aaa","aaa, interest rate",-1.75949,-.2488236,1982,3,1982.5
+91,"c","c, consumption",1.06468,-.1473264,1982,3,1982.5
+91,"cpi","cpi, cpi inflation",-2.57322,.2100155,1982,3,1982.5
+91,"gf","gf, federal government spending",1.04149,.1006773,1982,3,1982.5
+91,"gs","gs, state government spending",.787514,-.4642787,1982,3,1982.5
+91,"gy","gy (growth rate of output)",.649229,-.6082305,1982,3,1982.5
+91,"hs","hs (housing starts)",.220144,-.0191217,1982,3,1982.5
+91,"ip","ip (industrial production)",-2.44481,-1.575558,1982,3,1982.5
+91,"nri","nri, non-residential investment",3.39935,-3.303521,1982,3,1982.5
+91,"pi","pi (inflation)",-1.86779,.2904053,1982,3,1982.5
+91,"ri","ri, residential investment",21.1612,-4.631925,1982,3,1982.5
+91,"ue","ue (unemployment rate)",.652381,.3458331,1982,3,1982.5
+92,"3tb","3tb, 3 month t-bills interest rate",.332857,-2.000579,1982,4,1982.75
+92,"aaa","aaa, interest rate",-.088583,-1.7408,1982,4,1982.75
+92,"c","c, consumption",2.30379,-.2048521,1982,4,1982.75
+92,"cpi","cpi, cpi inflation",-2.3937,-.6009045,1982,4,1982.75
+92,"gf","gf, federal government spending",-6.16655,.2403134,1982,4,1982.75
+92,"gs","gs, state government spending",.414087,-.3352865,1982,4,1982.75
+92,"gy","gy (growth rate of output)",1.7204,-.2664676,1982,4,1982.75
+92,"hs","hs (housing starts)",.225392,.0244538,1982,4,1982.75
+92,"ip","ip (industrial production)",1.56229,-2.47784,1982,4,1982.75
+92,"nri","nri, non-residential investment",9.52007,-1.075393,1982,4,1982.75
+92,"pi","pi (inflation)",-1.20549,-.5533438,1982,4,1982.75
+92,"ri","ri, residential investment",21.6682,4.404089,1982,4,1982.75
+92,"ue","ue (unemployment rate)",-.27614,.8487473,1982,4,1982.75
+93,"3tb","3tb, 3 month t-bills interest rate",.853364,-.3227143,1983,1,1983
+93,"aaa","aaa, interest rate",.511625,-.4090624,1983,1,1983
+93,"c","c, consumption",2.30621,.0292166,1983,1,1983
+93,"cpi","cpi, cpi inflation",-.144834,-1.76788,1983,1,1983
+93,"gf","gf, federal government spending",-11.3854,-.0668899,1983,1,1983
+93,"gs","gs, state government spending",.759579,.391993,1983,1,1983
+93,"gy","gy (growth rate of output)",3.05382,.4836813,1983,1,1983
+93,"hs","hs (housing starts)",.172955,.0995813,1983,1,1983
+93,"ip","ip (industrial production)",2.33227,1.663206,1983,1,1983
+93,"nri","nri, non-residential investment",13.4305,-2.405848,1983,1,1983
+93,"pi","pi (inflation)",-.507946,-.6451083,1983,1,1983
+93,"ri","ri, residential investment",14.3168,4.33566,1983,1,1983
+93,"ue","ue (unemployment rate)",-.952596,.2833569,1983,1,1983
+94,"3tb","3tb, 3 month t-bills interest rate",1.08059,.0924703,1983,2,1983.25
+94,"aaa","aaa, interest rate",1.1221,-.2557602,1983,2,1983.25
+94,"c","c, consumption",2.63534,.5121681,1983,2,1983.25
+94,"cpi","cpi, cpi inflation",.136392,.0432936,1983,2,1983.25
+94,"gf","gf, federal government spending",-1.2757,-.673921,1983,2,1983.25
+94,"gs","gs, state government spending",1.07365,.4920442,1983,2,1983.25
+94,"gy","gy (growth rate of output)",3.12542,.8204449,1983,2,1983.25
+94,"hs","hs (housing starts)",.074122,.0908481,1983,2,1983.25
+94,"ip","ip (industrial production)",1.7907,.9442494,1983,2,1983.25
+94,"nri","nri, non-residential investment",15.0595,-.569088,1983,2,1983.25
+94,"pi","pi (inflation)",-.942222,-.2034758,1983,2,1983.25
+94,"ri","ri, residential investment",7.86714,-.3725951,1983,2,1983.25
+94,"ue","ue (unemployment rate)",-1.06848,-.270134,1983,2,1983.25
+95,"3tb","3tb, 3 month t-bills interest rate",.506645,.9963728,1983,3,1983.5
+95,"aaa","aaa, interest rate",.662615,.849586,1983,3,1983.5
+95,"c","c, consumption",.521267,.4491338,1983,3,1983.5
+95,"cpi","cpi, cpi inflation",-.094291,-.1867921,1983,3,1983.5
+95,"gf","gf, federal government spending",-1.1258,.9395738,1983,3,1983.5
+95,"gs","gs, state government spending",1.21069,.5122591,1983,3,1983.5
+95,"gy","gy (growth rate of output)",1.77961,-.0540128,1983,3,1983.5
+95,"hs","hs (housing starts)",.078702,-.0293159,1983,3,1983.5
+95,"ip","ip (industrial production)",.870521,.8549408,1983,3,1983.5
+95,"nri","nri, non-residential investment",14.5588,-.2686933,1983,3,1983.5
+95,"pi","pi (inflation)",-.973825,-.0750808,1983,3,1983.5
+95,"ri","ri, residential investment",1.26186,-5.554001,1983,3,1983.5
+95,"ue","ue (unemployment rate)",-.961458,-.4450891,1983,3,1983.5
+96,"3tb","3tb, 3 month t-bills interest rate",.640375,-.2023437,1983,4,1983.75
+96,"aaa","aaa, interest rate",.519259,.1839781,1983,4,1983.75
+96,"c","c, consumption",.877068,-.1177575,1983,4,1983.75
+96,"cpi","cpi, cpi inflation",-.827072,.512486,1983,4,1983.75
+96,"gf","gf, federal government spending",4.11906,-.6146127,1983,4,1983.75
+96,"gs","gs, state government spending",.150093,.3992051,1983,4,1983.75
+96,"gy","gy (growth rate of output)",1.34861,.5090246,1983,4,1983.75
+96,"hs","hs (housing starts)",.024573,.0277295,1983,4,1983.75
+96,"ip","ip (industrial production)",.007389,-.046066,1983,4,1983.75
+96,"nri","nri, non-residential investment",9.67633,2.996826,1983,4,1983.75
+96,"pi","pi (inflation)",-1.33074,.1663457,1983,4,1983.75
+96,"ri","ri, residential investment",-.600501,-2.177078,1983,4,1983.75
+96,"ue","ue (unemployment rate)",-.832778,-.3416665,1983,4,1983.75
+97,"3tb","3tb, 3 month t-bills interest rate",.300335,.1683648,1984,1,1984
+97,"aaa","aaa, interest rate",.046468,.4437037,1984,1,1984
+97,"c","c, consumption",.707796,.3737609,1984,1,1984
+97,"cpi","cpi, cpi inflation",-.228656,-.7418818,1984,1,1984
+97,"gf","gf, federal government spending",3.46298,.5881573,1984,1,1984
+97,"gs","gs, state government spending",.333677,.0748973,1984,1,1984
+97,"gy","gy (growth rate of output)",1.17531,.2317933,1984,1,1984
+97,"hs","hs (housing starts)",.025967,.0034124,1984,1,1984
+97,"ip","ip (industrial production)",-.705961,.3046995,1984,1,1984
+97,"nri","nri, non-residential investment",5.1289,.5023676,1984,1,1984
+97,"pi","pi (inflation)",-1.33497,-.3949051,1984,1,1984
+97,"ri","ri, residential investment",-.606605,-.0159041,1984,1,1984
+97,"ue","ue (unemployment rate)",-.295454,-.6502465,1984,1,1984
+98,"3tb","3tb, 3 month t-bills interest rate",-1.12559,.9910403,1984,2,1984.25
+98,"aaa","aaa, interest rate",-1.17261,1.056899,1984,2,1984.25
+98,"c","c, consumption",.686016,.1737888,1984,2,1984.25
+98,"cpi","cpi, cpi inflation",-1.26269,.4099405,1984,2,1984.25
+98,"gf","gf, federal government spending",1.47825,3.95433,1984,2,1984.25
+98,"gs","gs, state government spending",.687928,.5647613,1984,2,1984.25
+98,"gy","gy (growth rate of output)",.084417,-.2104926,1984,2,1984.25
+98,"hs","hs (housing starts)",-.006378,.0202551,1984,2,1984.25
+98,"ip","ip (industrial production)",-2.2415,.5118294,1984,2,1984.25
+98,"nri","nri, non-residential investment",4.10009,.7220144,1984,2,1984.25
+98,"pi","pi (inflation)",-1.782,.0158794,1984,2,1984.25
+98,"ri","ri, residential investment",-1.00383,-.9659041,1984,2,1984.25
+98,"ue","ue (unemployment rate)",-.114286,-.1765604,1984,2,1984.25
+99,"3tb","3tb, 3 month t-bills interest rate",-2.13777,.3291641,1984,3,1984.5
+99,"aaa","aaa, interest rate",-1.98623,.3055571,1984,3,1984.5
+99,"c","c, consumption",-.004567,.6396455,1984,3,1984.5
+99,"cpi","cpi, cpi inflation",-1.43519,-.403065,1984,3,1984.5
+99,"gf","gf, federal government spending",3.02074,-1.150469,1984,3,1984.5
+99,"gs","gs, state government spending",.450898,.9312401,1984,3,1984.5
+99,"gy","gy (growth rate of output)",-.403709,.4753304,1984,3,1984.5
+99,"hs","hs (housing starts)",.011728,-.0185643,1984,3,1984.5
+99,"ip","ip (industrial production)",-3.33051,1.074649,1984,3,1984.5
+99,"nri","nri, non-residential investment",-1.66393,3.637062,1984,3,1984.5
+99,"pi","pi (inflation)",-1.47318,-.7013698,1984,3,1984.5
+99,"ri","ri, residential investment",6.83127,-5.271122,1984,3,1984.5
+99,"ue","ue (unemployment rate)",.322564,-.4079945,1984,3,1984.5
+100,"3tb","3tb, 3 month t-bills interest rate",-1.7738,-1.161397,1984,4,1984.75
+100,"aaa","aaa, interest rate",-1.1999,-1.364872,1984,4,1984.75
+100,"c","c, consumption",.172079,.4969028,1984,4,1984.75
+100,"cpi","cpi, cpi inflation",-.93258,-.7761442,1984,4,1984.75
+100,"gf","gf, federal government spending",6.45319,.3621469,1984,4,1984.75
+100,"gs","gs, state government spending",.094926,-.3642157,1984,4,1984.75
+100,"gy","gy (growth rate of output)",.050494,-.0014192,1984,4,1984.75
+100,"hs","hs (housing starts)",.031859,.007902,1984,4,1984.75
+100,"ip","ip (industrial production)",-2.31034,-.6902711,1984,4,1984.75
+100,"nri","nri, non-residential investment",-.333244,-.3554797,1984,4,1984.75
+100,"pi","pi (inflation)",-1.35408,-.420063,1984,4,1984.75
+100,"ri","ri, residential investment",6.57522,2.997342,1984,4,1984.75
+100,"ue","ue (unemployment rate)",-.070538,.3921837,1984,4,1984.75
+101,"3tb","3tb, 3 month t-bills interest rate",-1.22006,-1.070643,1985,1,1985
+101,"aaa","aaa, interest rate",-1.34571,-.4367262,1985,1,1985
+101,"c","c, consumption",-.282512,.8615025,1985,1,1985
+101,"cpi","cpi, cpi inflation",-.671595,-.7776666,1985,1,1985
+101,"gf","gf, federal government spending",-2.40804,.222529,1985,1,1985
+101,"gs","gs, state government spending",-.013415,1.059855,1985,1,1985
+101,"gy","gy (growth rate of output)",-.742335,.8068374,1985,1,1985
+101,"hs","hs (housing starts)",.031863,.0382685,1985,1,1985
+101,"ip","ip (industrial production)",-2.77352,.7644793,1985,1,1985
+101,"nri","nri, non-residential investment",-4.02759,-.3574499,1985,1,1985
+101,"pi","pi (inflation)",-.869072,-.6431139,1985,1,1985
+101,"ri","ri, residential investment",4.20662,5.199236,1985,1,1985
+101,"ue","ue (unemployment rate)",.157143,-.2263442,1985,1,1985
+102,"3tb","3tb, 3 month t-bills interest rate",-1.17147,-.6578768,1985,2,1985.25
+102,"aaa","aaa, interest rate",-1.82874,-.2119368,1985,2,1985.25
+102,"c","c, consumption",.782239,-.4142582,1985,2,1985.25
+102,"cpi","cpi, cpi inflation",-2.23405,.1963296,1985,2,1985.25
+102,"gf","gf, federal government spending",2.44908,-2.640352,1985,2,1985.25
+102,"gs","gs, state government spending",1.77691,.3472034,1985,2,1985.25
+102,"gy","gy (growth rate of output)",-.987583,-.1675223,1985,2,1985.25
+102,"hs","hs (housing starts)",.004889,.0412519,1985,2,1985.25
+102,"ip","ip (industrial production)",-2.6099,-.2090385,1985,2,1985.25
+102,"nri","nri, non-residential investment",-3.2936,-.2705493,1985,2,1985.25
+102,"pi","pi (inflation)",-1.29533,-.0176953,1985,2,1985.25
+102,"ri","ri, residential investment",4.96602,2.665197,1985,2,1985.25
+102,"ue","ue (unemployment rate)",-.009171,.2178624,1985,2,1985.25
+103,"3tb","3tb, 3 month t-bills interest rate",-1.05499,-.6406057,1985,3,1985.5
+103,"aaa","aaa, interest rate",-1.69695,-.712887,1985,3,1985.5
+103,"c","c, consumption",2.19783,-.3087537,1985,3,1985.5
+103,"cpi","cpi, cpi inflation",-2.36131,-.2951854,1985,3,1985.5
+103,"gf","gf, federal government spending",1.5556,-.4512288,1985,3,1985.5
+103,"gs","gs, state government spending",2.09156,-.6038402,1985,3,1985.5
+103,"gy","gy (growth rate of output)",-.412027,-.3547705,1985,3,1985.5
+103,"hs","hs (housing starts)",.025372,-.0076553,1985,3,1985.5
+103,"ip","ip (industrial production)",-2.33483,.2391356,1985,3,1985.5
+103,"nri","nri, non-residential investment",-4.79449,-.8196786,1985,3,1985.5
+103,"pi","pi (inflation)",-1.1884,-.287137,1985,3,1985.5
+103,"ri","ri, residential investment",7.46335,1.006117,1985,3,1985.5
+103,"ue","ue (unemployment rate)",-.167484,.1099027,1985,3,1985.5
+104,"3tb","3tb, 3 month t-bills interest rate",-.94712,-.5598053,1985,4,1985.75
+104,"aaa","aaa, interest rate",-1.55536,-.6301003,1985,4,1985.75
+104,"c","c, consumption",1.83013,-.6160263,1985,4,1985.75
+104,"cpi","cpi, cpi inflation",-1.80597,-.7631412,1985,4,1985.75
+104,"gf","gf, federal government spending",2.84053,-3.401968,1985,4,1985.75
+104,"gs","gs, state government spending",1.27416,.2435048,1985,4,1985.75
+104,"gy","gy (growth rate of output)",-.862816,-.0366561,1985,4,1985.75
+104,"hs","hs (housing starts)",.027354,-.0003633,1985,4,1985.75
+104,"ip","ip (industrial production)",-1.19636,-.0631992,1985,4,1985.75
+104,"nri","nri, non-residential investment",-3.30895,.1236681,1985,4,1985.75
+104,"pi","pi (inflation)",-1.32222,-.5429913,1985,4,1985.75
+104,"ri","ri, residential investment",6.62718,-.0460041,1985,4,1985.75
+104,"ue","ue (unemployment rate)",-.083733,-.1506128,1985,4,1985.75
+105,"3tb","3tb, 3 month t-bills interest rate",-1.16255,-.1420999,1986,1,1986
+105,"aaa","aaa, interest rate",-1.20367,-.7510225,1986,1,1986
+105,"c","c, consumption",.409058,.8058786,1986,1,1986
+105,"cpi","cpi, cpi inflation",-1.48382,-.4594656,1986,1,1986
+105,"gf","gf, federal government spending",-2.80269,-4.400497,1986,1,1986
+105,"gs","gs, state government spending",1.76423,.8275245,1986,1,1986
+105,"gy","gy (growth rate of output)",-.525668,.3173988,1986,1,1986
+105,"hs","hs (housing starts)",-.007364,.0348522,1986,1,1986
+105,"ip","ip (industrial production)",-1.27867,1.216443,1986,1,1986
+105,"nri","nri, non-residential investment",-7.93361,-.0607008,1986,1,1986
+105,"pi","pi (inflation)",-1.17327,-.3985185,1986,1,1986
+105,"ri","ri, residential investment",1.56283,3.903875,1986,1,1986
+105,"ue","ue (unemployment rate)",.176062,-.341077,1986,1,1986
+106,"3tb","3tb, 3 month t-bills interest rate",-.690787,-.7984484,1986,2,1986.25
+106,"aaa","aaa, interest rate",-.317329,-1.048214,1986,2,1986.25
+106,"c","c, consumption",.22718,.311008,1986,2,1986.25
+106,"cpi","cpi, cpi inflation",-.00172,-1.403241,1986,2,1986.25
+106,"gf","gf, federal government spending",.178499,2.726089,1986,2,1986.25
+106,"gs","gs, state government spending",2.21971,-.2598164,1986,2,1986.25
+106,"gy","gy (growth rate of output)",-.86432,.3246404,1986,2,1986.25
+106,"hs","hs (housing starts)",-.099696,.0668438,1986,2,1986.25
+106,"ip","ip (industrial production)",.620152,-.3616533,1986,2,1986.25
+106,"nri","nri, non-residential investment",-2.72105,.1283229,1986,2,1986.25
+106,"pi","pi (inflation)",-.221391,-.9913344,1986,2,1986.25
+106,"ri","ri, residential investment",-1.6979,2.482379,1986,2,1986.25
+106,"ue","ue (unemployment rate)",-.082839,.1511897,1986,2,1986.25
+107,"3tb","3tb, 3 month t-bills interest rate",-.01125,-.7744458,1986,3,1986.5
+107,"aaa","aaa, interest rate",.310667,-.5782083,1986,3,1986.5
+107,"c","c, consumption",.185351,-.2205419,1986,3,1986.5
+107,"cpi","cpi, cpi inflation",.499136,-.0141543,1986,3,1986.5
+107,"gf","gf, federal government spending",1.59068,-1.226954,1986,3,1986.5
+107,"gs","gs, state government spending",.449283,.3126763,1986,3,1986.5
+107,"gy","gy (growth rate of output)",-.070557,-.2587461,1986,3,1986.5
+107,"hs","hs (housing starts)",-.082129,-.0347294,1986,3,1986.5
+107,"ip","ip (industrial production)",2.42227,-.7870653,1986,3,1986.5
+107,"nri","nri, non-residential investment",4.27285,-2.522265,1986,3,1986.5
+107,"pi","pi (inflation)",.397164,-.8106109,1986,3,1986.5
+107,"ri","ri, residential investment",-3.56469,-.9774409,1986,3,1986.5
+107,"ue","ue (unemployment rate)",-.409167,.163118,1986,3,1986.5
+108,"3tb","3tb, 3 month t-bills interest rate",.427478,-.3927809,1986,4,1986.75
+108,"aaa","aaa, interest rate",.3106,.2460176,1986,4,1986.75
+108,"c","c, consumption",-1.10739,-.6940979,1986,4,1986.75
+108,"cpi","cpi, cpi inflation",.537696,-.0062253,1986,4,1986.75
+108,"gf","gf, federal government spending",2.20369,-.5897732,1986,4,1986.75
+108,"gs","gs, state government spending",.98507,-.3131871,1986,4,1986.75
+108,"gy","gy (growth rate of output)",1.01361,-.3808757,1986,4,1986.75
+108,"hs","hs (housing starts)",-.060131,-.0449399,1986,4,1986.75
+108,"ip","ip (industrial production)",3.97838,-.9203016,1986,4,1986.75
+108,"nri","nri, non-residential investment",4.64141,-1.046465,1986,4,1986.75
+108,"pi","pi (inflation)",-.34219,.1152488,1986,4,1986.75
+108,"ri","ri, residential investment",-3.11911,-1.202846,1986,4,1986.75
+108,"ue","ue (unemployment rate)",-.604167,.0166668,1986,4,1986.75
+109,"3tb","3tb, 3 month t-bills interest rate",.1646,.2549999,1987,1,1987
+109,"aaa","aaa, interest rate",.526301,-.103986,1987,1,1987
+109,"c","c, consumption",.210403,-1.049307,1987,1,1987
+109,"cpi","cpi, cpi inflation",.475013,-.0167261,1987,1,1987
+109,"gf","gf, federal government spending",-3.4953,.2493927,1987,1,1987
+109,"gs","gs, state government spending",.298182,1.078847,1987,1,1987
+109,"gy","gy (growth rate of output)",1.52005,.0119291,1987,1,1987
+109,"hs","hs (housing starts)",-.07187,-.0166329,1987,1,1987
+109,"ip","ip (industrial production)",3.55259,.1583443,1987,1,1987
+109,"nri","nri, non-residential investment",4.42393,.8124046,1987,1,1987
+109,"pi","pi (inflation)",-.615669,.269796,1987,1,1987
+109,"ri","ri, residential investment",-4.75676,.2534888,1987,1,1987
+109,"ue","ue (unemployment rate)",-.659364,-.1462121,1987,1,1987
+110,"3tb","3tb, 3 month t-bills interest rate",-.128308,.2983636,1987,2,1987.25
+110,"aaa","aaa, interest rate",.417014,.2595184,1987,2,1987.25
+110,"c","c, consumption",-.118575,1.126795,1987,2,1987.25
+110,"cpi","cpi, cpi inflation",-.284147,.6238691,1987,2,1987.25
+110,"gf","gf, federal government spending",-.523017,.1518614,1987,2,1987.25
+110,"gs","gs, state government spending",.499825,-.7187684,1987,2,1987.25
+110,"gy","gy (growth rate of output)",1.32503,.0302592,1987,2,1987.25
+110,"hs","hs (housing starts)",-.104076,-.0016551,1987,2,1987.25
+110,"ip","ip (industrial production)",3.84446,-.7207968,1987,2,1987.25
+110,"nri","nri, non-residential investment",8.58365,1.080085,1987,2,1987.25
+110,"pi","pi (inflation)",-.664417,.1801113,1987,2,1987.25
+110,"ri","ri, residential investment",-2.96778,-.9428628,1987,2,1987.25
+110,"ue","ue (unemployment rate)",-.615238,-.2471753,1987,2,1987.25
+111,"3tb","3tb, 3 month t-bills interest rate",.038033,-.0297437,1987,3,1987.5
+111,"aaa","aaa, interest rate",-.138203,.5965642,1987,3,1987.5
+111,"c","c, consumption",.076442,.2165438,1987,3,1987.5
+111,"cpi","cpi, cpi inflation",-.390612,.1377976,1987,3,1987.5
+111,"gf","gf, federal government spending",-4.56025,1.827682,1987,3,1987.5
+111,"gs","gs, state government spending",-.061861,.5749257,1987,3,1987.5
+111,"gy","gy (growth rate of output)",1.28589,.0700392,1987,3,1987.5
+111,"hs","hs (housing starts)",-.071882,-.0428798,1987,3,1987.5
+111,"ip","ip (industrial production)",2.08994,.1975346,1987,3,1987.5
+111,"nri","nri, non-residential investment",6.72711,.6282977,1987,3,1987.5
+111,"pi","pi (inflation)",-.938093,.4310899,1987,3,1987.5
+111,"ri","ri, residential investment",-1.99418,.5506908,1987,3,1987.5
+111,"ue","ue (unemployment rate)",-.316407,-.4378248,1987,3,1987.5
+112,"3tb","3tb, 3 month t-bills interest rate",.516464,-.2748592,1987,4,1987.75
+112,"aaa","aaa, interest rate",-.3576,.0330523,1987,4,1987.75
+112,"c","c, consumption",.939905,-.8808091,1987,4,1987.75
+112,"cpi","cpi, cpi inflation",-.135427,-.3619679,1987,4,1987.75
+112,"gf","gf, federal government spending",.145851,-.4343584,1987,4,1987.75
+112,"gs","gs, state government spending",.826035,.184931,1987,4,1987.75
+112,"gy","gy (growth rate of output)",1.64085,-.6992918,1987,4,1987.75
+112,"hs","hs (housing starts)",-.040774,-.0366242,1987,4,1987.75
+112,"ip","ip (industrial production)",2.54818,-.6010706,1987,4,1987.75
+112,"nri","nri, non-residential investment",1.76405,-.7334557,1987,4,1987.75
+112,"pi","pi (inflation)",.067469,-.9218552,1987,4,1987.75
+112,"ri","ri, residential investment",1.31291,-.7384824,1987,4,1987.75
+112,"ue","ue (unemployment rate)",-.547368,.1047508,1987,4,1987.75
+113,"3tb","3tb, 3 month t-bills interest rate",1.2005,-.2155484,1988,1,1988
+113,"aaa","aaa, interest rate",-.150952,-.3895714,1988,1,1988
+113,"c","c, consumption",1.26484,.1661662,1988,1,1988
+113,"cpi","cpi, cpi inflation",.014996,-.1270833,1988,1,1988
+113,"gf","gf, federal government spending",.566998,-.7824415,1988,1,1988
+113,"gs","gs, state government spending",.235206,.1907855,1988,1,1988
+113,"gy","gy (growth rate of output)",1.44404,-.3562808,1988,1,1988
+113,"hs","hs (housing starts)",-.02799,-.0173991,1988,1,1988
+113,"ip","ip (industrial production)",1.01473,-.1496049,1988,1,1988
+113,"nri","nri, non-residential investment",1.83475,1.782827,1988,1,1988
+113,"pi","pi (inflation)",.173842,-.0179137,1988,1,1988
+113,"ri","ri, residential investment",.616348,-1.893519,1988,1,1988
+113,"ue","ue (unemployment rate)",-.577778,-.1463451,1988,1,1988
+114,"3tb","3tb, 3 month t-bills interest rate",1.01867,.5872396,1988,2,1988.25
+114,"aaa","aaa, interest rate",-.6056,.3196668,1988,2,1988.25
+114,"c","c, consumption",.625167,.5065061,1988,2,1988.25
+114,"cpi","cpi, cpi inflation",.408984,.1388889,1988,2,1988.25
+114,"gf","gf, federal government spending",2.6152,2.095462,1988,2,1988.25
+114,"gs","gs, state government spending",.537164,-.3912154,1988,2,1988.25
+114,"gy","gy (growth rate of output)",.791037,.1594022,1988,2,1988.25
+114,"hs","hs (housing starts)",-.010318,-.0363755,1988,2,1988.25
+114,"ip","ip (industrial production)",-1.05048,1.368698,1988,2,1988.25
+114,"nri","nri, non-residential investment",1.91042,.905426,1988,2,1988.25
+114,"pi","pi (inflation)",.562158,-.0717275,1988,2,1988.25
+114,"ri","ri, residential investment",-.95614,-.2134472,1988,2,1988.25
+114,"ue","ue (unemployment rate)",-.18,-.5364765,1988,2,1988.25
+115,"3tb","3tb, 3 month t-bills interest rate",.648375,.5451666,1988,3,1988.5
+115,"aaa","aaa, interest rate",-1.01053,.0871669,1988,3,1988.5
+115,"c","c, consumption",.966007,.1105374,1988,3,1988.5
+115,"cpi","cpi, cpi inflation",-.295213,.3197712,1988,3,1988.5
+115,"gf","gf, federal government spending",-.320607,2.076786,1988,3,1988.5
+115,"gs","gs, state government spending",.187133,.1648465,1988,3,1988.5
+115,"gy","gy (growth rate of output)",.012851,.5074452,1988,3,1988.5
+115,"hs","hs (housing starts)",-.004153,-.0184239,1988,3,1988.5
+115,"ip","ip (industrial production)",-2.50606,.8558904,1988,3,1988.5
+115,"nri","nri, non-residential investment",-1.11532,1.474285,1988,3,1988.5
+115,"pi","pi (inflation)",-.026012,.1613468,1988,3,1988.5
+115,"ri","ri, residential investment",-2.39921,.6802333,1988,3,1988.5
+115,"ue","ue (unemployment rate)",-.214902,-.0516255,1988,3,1988.5
+116,"3tb","3tb, 3 month t-bills interest rate",.417857,.2847767,1988,4,1988.75
+116,"aaa","aaa, interest rate",-1.032,-.3056211,1988,4,1988.75
+116,"c","c, consumption",.004418,.3889316,1988,4,1988.75
+116,"cpi","cpi, cpi inflation",-.449358,-.0906513,1988,4,1988.75
+116,"gf","gf, federal government spending",2.15659,1.022724,1988,4,1988.75
+116,"gs","gs, state government spending",1.11088,-.2210098,1988,4,1988.75
+116,"gy","gy (growth rate of output)",-.366349,.0338914,1988,4,1988.75
+116,"hs","hs (housing starts)",-.027818,.0150542,1988,4,1988.75
+116,"ip","ip (industrial production)",-2.13073,1.031651,1988,4,1988.75
+116,"nri","nri, non-residential investment",-2.63855,1.043043,1988,4,1988.75
+116,"pi","pi (inflation)",-.442531,.2973737,1988,4,1988.75
+116,"ri","ri, residential investment",-3.61926,.4674059,1988,4,1988.75
+116,"ue","ue (unemployment rate)",-.190667,-.0908823,1988,4,1988.75
+117,"3tb","3tb, 3 month t-bills interest rate",-.466243,.9067541,1989,1,1989
+117,"aaa","aaa, interest rate",-1.044,-.1714393,1989,1,1989
+117,"c","c, consumption",-.008321,-.300165,1989,1,1989
+117,"cpi","cpi, cpi inflation",.089497,-.0691964,1989,1,1989
+117,"gf","gf, federal government spending",-1.52016,-.7452933,1989,1,1989
+117,"gs","gs, state government spending",.971465,-.2287635,1989,1,1989
+117,"gy","gy (growth rate of output)",-.109033,-.2591051,1989,1,1989
+117,"hs","hs (housing starts)",-.053649,.0162434,1989,1,1989
+117,"ip","ip (industrial production)",-1.28717,.0848024,1989,1,1989
+117,"nri","nri, non-residential investment",.902013,-.1621029,1989,1,1989
+117,"pi","pi (inflation)",-.498381,.0854324,1989,1,1989
+117,"ri","ri, residential investment",-1.74234,.0606357,1989,1,1989
+117,"ue","ue (unemployment rate)",-.192451,-.062353,1989,1,1989
+118,"3tb","3tb, 3 month t-bills interest rate",-.266219,-.2816367,1989,2,1989.25
+118,"aaa","aaa, interest rate",-.684788,-.4533333,1989,2,1989.25
+118,"c","c, consumption",-1.1191,.9026121,1989,2,1989.25
+118,"cpi","cpi, cpi inflation",-.33819,.3038542,1989,2,1989.25
+118,"gf","gf, federal government spending",2.53811,.94867,1989,2,1989.25
+118,"gs","gs, state government spending",-.321741,.5251297,1989,2,1989.25
+118,"gy","gy (growth rate of output)",-.436222,.2370448,1989,2,1989.25
+118,"hs","hs (housing starts)",-.079184,-.0108908,1989,2,1989.25
+118,"ip","ip (industrial production)",-.518896,.0111504,1989,2,1989.25
+118,"nri","nri, non-residential investment",-.88486,.5723162,1989,2,1989.25
+118,"pi","pi (inflation)",-.273196,-.1726297,1989,2,1989.25
+118,"ri","ri, residential investment",-4.59477,1.3242,1989,2,1989.25
+118,"ue","ue (unemployment rate)",-.169608,-.070956,1989,2,1989.25
+119,"3tb","3tb, 3 month t-bills interest rate",-.009867,-.3276072,1989,3,1989.5
+119,"aaa","aaa, interest rate",.019231,-.7064976,1989,3,1989.5
+119,"c","c, consumption",-.459041,-.2270111,1989,3,1989.5
+119,"cpi","cpi, cpi inflation",.693438,-.808791,1989,3,1989.5
+119,"gf","gf, federal government spending",.996598,-.3801582,1989,3,1989.5
+119,"gs","gs, state government spending",-.181655,-.491846,1989,3,1989.5
+119,"gy","gy (growth rate of output)",-.902077,.216154,1989,3,1989.5
+119,"hs","hs (housing starts)",-.105228,-.0137179,1989,3,1989.5
+119,"ip","ip (industrial production)",-.112254,.3864182,1989,3,1989.5
+119,"nri","nri, non-residential investment",-.392191,.3701379,1989,3,1989.5
+119,"pi","pi (inflation)",-.120295,-.2842659,1989,3,1989.5
+119,"ri","ri, residential investment",-7.93862,.1972944,1989,3,1989.5
+119,"ue","ue (unemployment rate)",-.06,-.0758332,1989,3,1989.5
+120,"3tb","3tb, 3 month t-bills interest rate",.124375,-.237323,1989,4,1989.75
+120,"aaa","aaa, interest rate",.441179,-.3815383,1989,4,1989.75
+120,"c","c, consumption",-1.7112,-.3340275,1989,4,1989.75
+120,"cpi","cpi, cpi inflation",1.57593,-.1977678,1989,4,1989.75
+120,"gf","gf, federal government spending",4.21457,-1.387963,1989,4,1989.75
+120,"gs","gs, state government spending",.87842,-.4664745,1989,4,1989.75
+120,"gy","gy (growth rate of output)",-1.43982,-.4083845,1989,4,1989.75
+120,"hs","hs (housing starts)",-.150266,-.0204626,1989,4,1989.75
+120,"ip","ip (industrial production)",-.775827,-.2384022,1989,4,1989.75
+120,"nri","nri, non-residential investment",-.769249,-.7530189,1989,4,1989.75
+120,"pi","pi (inflation)",-.134031,-.2363599,1989,4,1989.75
+120,"ri","ri, residential investment",-11.9739,.2943062,1989,4,1989.75
+120,"ue","ue (unemployment rate)",.010196,.0720588,1989,4,1989.75
+121,"3tb","3tb, 3 month t-bills interest rate",-.442833,.3141146,1990,1,1990
+121,"aaa","aaa, interest rate",-.199,.6443267,1990,1,1990
+121,"c","c, consumption",-3.26687,1.020924,1990,1,1990
+121,"cpi","cpi, cpi inflation",.965214,.3496393,1990,1,1990
+121,"gf","gf, federal government spending",6.82711,.6235778,1990,1,1990
+121,"gs","gs, state government spending",-.244207,-.2740885,1990,1,1990
+121,"gy","gy (growth rate of output)",-2.20863,-.0353998,1990,1,1990
+121,"hs","hs (housing starts)",-.210288,-.0289508,1990,1,1990
+121,"ip","ip (industrial production)",-2.76257,-.5722954,1990,1,1990
+121,"nri","nri, non-residential investment",-5.13547,1.290599,1990,1,1990
+121,"pi","pi (inflation)",.035546,.0283124,1990,1,1990
+121,"ri","ri, residential investment",-16.1921,-.5093704,1990,1,1990
+121,"ue","ue (unemployment rate)",.291905,-.0872899,1990,1,1990
+122,"3tb","3tb, 3 month t-bills interest rate",-.93375,.0879167,1990,2,1990.25
+122,"aaa","aaa, interest rate",-.467238,.1612857,1990,2,1990.25
+122,"c","c, consumption",-2.20829,-1.077671,1990,2,1990.25
+122,"cpi","cpi, cpi inflation",.47896,-.4240598,1990,2,1990.25
+122,"gf","gf, federal government spending",6.47377,.7524217,1990,2,1990.25
+122,"gs","gs, state government spending",-1.96787,.7049415,1990,2,1990.25
+122,"gy","gy (growth rate of output)",-2.36646,-.0530942,1990,2,1990.25
+122,"hs","hs (housing starts)",-.238263,-.054056,1990,2,1990.25
+122,"ip","ip (industrial production)",-3.66784,.0816154,1990,2,1990.25
+122,"nri","nri, non-residential investment",-5.28342,-1.628816,1990,2,1990.25
+122,"pi","pi (inflation)",-.280762,-.0002989,1990,2,1990.25
+122,"ri","ri, residential investment",-15.1983,-4.074756,1990,2,1990.25
+122,"ue","ue (unemployment rate)",.66,-.1001985,1990,2,1990.25
+123,"3tb","3tb, 3 month t-bills interest rate",-.834333,-.4443751,1990,3,1990.5
+123,"aaa","aaa, interest rate",-.295744,-.2229395,1990,3,1990.5
+123,"c","c, consumption",-1.67174,-.4842405,1990,3,1990.5
+123,"cpi","cpi, cpi inflation",-.089833,.4902564,1990,3,1990.5
+123,"gf","gf, federal government spending",3.40153,-1.566729,1990,3,1990.5
+123,"gs","gs, state government spending",-1.12393,-.8215201,1990,3,1990.5
+123,"gy","gy (growth rate of output)",-1.53329,-.8545533,1990,3,1990.5
+123,"hs","hs (housing starts)",-.190229,-.0925343,1990,3,1990.5
+123,"ip","ip (industrial production)",-1.83412,-1.22192,1990,3,1990.5
+123,"nri","nri, non-residential investment",-3.67585,-1.491079,1990,3,1990.5
+123,"pi","pi (inflation)",-.750255,.0170003,1990,3,1990.5
+123,"ri","ri, residential investment",-10.5946,-.724548,1990,3,1990.5
+123,"ue","ue (unemployment rate)",.705897,.207906,1990,3,1990.5
+124,"3tb","3tb, 3 month t-bills interest rate",-1.14427,-.1470962,1990,4,1990.75
+124,"aaa","aaa, interest rate",-.272667,-.1119516,1990,4,1990.75
+124,"c","c, consumption",-.992786,-1.645523,1990,4,1990.75
+124,"cpi","cpi, cpi inflation",-1.46984,1.13508,1990,4,1990.75
+124,"gf","gf, federal government spending",1.02402,.0605089,1990,4,1990.75
+124,"gs","gs, state government spending",-.64802,-.7018386,1990,4,1990.75
+124,"gy","gy (growth rate of output)",-.570283,-1.723398,1990,4,1990.75
+124,"hs","hs (housing starts)",-.093706,-.1342981,1990,4,1990.75
+124,"ip","ip (industrial production)",-.832808,-1.920138,1990,4,1990.75
+124,"nri","nri, non-residential investment",-4.06267,-2.04599,1990,4,1990.75
+124,"pi","pi (inflation)",-1.06175,.1297179,1990,4,1990.75
+124,"ri","ri, residential investment",-2.37161,-5.748466,1990,4,1990.75
+124,"ue","ue (unemployment rate)",.391333,.4816025,1990,4,1990.75
+125,"3tb","3tb, 3 month t-bills interest rate",-.841704,-.8973452,1991,1,1991
+125,"aaa","aaa, interest rate",.021778,-.4226854,1991,1,1991
+125,"c","c, consumption",.122442,-.221449,1991,1,1991
+125,"cpi","cpi, cpi inflation",-.720719,-1.012881,1991,1,1991
+125,"gf","gf, federal government spending",-.632094,1.806808,1991,1,1991
+125,"gs","gs, state government spending",-.064132,-.7768139,1991,1,1991
+125,"gy","gy (growth rate of output)",-.410797,-.1232547,1991,1,1991
+125,"hs","hs (housing starts)",-.058254,-.0353351,1991,1,1991
+125,"ip","ip (industrial production)",-.526074,-.7776444,1991,1,1991
+125,"nri","nri, non-residential investment",-4.20691,-1.879852,1991,1,1991
+125,"pi","pi (inflation)",-.408673,-.3086823,1991,1,1991
+125,"ri","ri, residential investment",3.51762,-2.393648,1991,1,1991
+125,"ue","ue (unemployment rate)",.273676,.2474048,1991,1,1991
+126,"3tb","3tb, 3 month t-bills interest rate",-1.19046,-.1567762,1991,2,1991.25
+126,"aaa","aaa, interest rate",-.291158,.2045556,1991,2,1991.25
+126,"c","c, consumption",-.461169,.1201232,1991,2,1991.25
+126,"cpi","cpi, cpi inflation",-.72395,.028186,1991,2,1991.25
+126,"gf","gf, federal government spending",-2.7456,1.400597,1991,2,1991.25
+126,"gs","gs, state government spending",.303712,-.493652,1991,2,1991.25
+126,"gy","gy (growth rate of output)",-.543656,.0119587,1991,2,1991.25
+126,"hs","hs (housing starts)",-.02472,-.0398819,1991,2,1991.25
+126,"ip","ip (industrial production)",-.02039,.2336958,1991,2,1991.25
+126,"nri","nri, non-residential investment",.377167,-.6985042,1991,2,1991.25
+126,"pi","pi (inflation)",-.574894,-.0693585,1991,2,1991.25
+126,"ri","ri, residential investment",4.71849,2.270993,1991,2,1991.25
+126,"ue","ue (unemployment rate)",.391128,.0594543,1991,2,1991.25
+127,"3tb","3tb, 3 month t-bills interest rate",-1.64384,-.1766856,1991,3,1991.5
+127,"aaa","aaa, interest rate",-.554485,.0559691,1991,3,1991.5
+127,"c","c, consumption",-.387274,.1234085,1991,3,1991.5
+127,"cpi","cpi, cpi inflation",-.627437,-.1939894,1991,3,1991.5
+127,"gf","gf, federal government spending",-.757799,-.764931,1991,3,1991.5
+127,"gs","gs, state government spending",.627082,-.3347511,1991,3,1991.5
+127,"gy","gy (growth rate of output)",-.886086,.2026355,1991,3,1991.5
+127,"hs","hs (housing starts)",-.027399,-.0121229,1991,3,1991.5
+127,"ip","ip (industrial production)",-1.58923,.4208923,1991,3,1991.5
+127,"nri","nri, non-residential investment",-.788297,-.1727335,1991,3,1991.5
+127,"pi","pi (inflation)",-.75907,-.0812782,1991,3,1991.5
+127,"ri","ri, residential investment",1.48315,.3508377,1991,3,1991.5
+127,"ue","ue (unemployment rate)",.644561,-.025987,1991,3,1991.5
+128,"3tb","3tb, 3 month t-bills interest rate",-1.27082,-.9741003,1991,4,1991.75
+128,"aaa","aaa, interest rate",-.265982,-.4732861,1991,4,1991.75
+128,"c","c, consumption",.511267,-.2643936,1991,4,1991.75
+128,"cpi","cpi, cpi inflation",-.384948,-.3193001,1991,4,1991.75
+128,"gf","gf, federal government spending",-1.15566,.5021259,1991,4,1991.75
+128,"gs","gs, state government spending",.633183,-.7531697,1991,4,1991.75
+128,"gy","gy (growth rate of output)",.366344,-.4647326,1991,4,1991.75
+128,"hs","hs (housing starts)",.016947,-.0487331,1991,4,1991.75
+128,"ip","ip (industrial production)",-.585248,-1.245033,1991,4,1991.75
+128,"nri","nri, non-residential investment",2.401,-3.020096,1991,4,1991.75
+128,"pi","pi (inflation)",-.374438,-.340602,1991,4,1991.75
+128,"ri","ri, residential investment",7.39146,-3.529785,1991,4,1991.75
+128,"ue","ue (unemployment rate)",.692308,.1511495,1991,4,1991.75
+129,"3tb","3tb, 3 month t-bills interest rate",-.801201,-.9,1992,1,1992
+129,"aaa","aaa, interest rate",-.264182,-.1646931,1992,1,1992
+129,"c","c, consumption",.656303,-.3145617,1992,1,1992
+129,"cpi","cpi, cpi inflation",-.233814,-.3660256,1992,1,1992
+129,"gf","gf, federal government spending",-2.7131,.5582379,1992,1,1992
+129,"gs","gs, state government spending",.213907,-.1016399,1992,1,1992
+129,"gy","gy (growth rate of output)",.41251,-.3771042,1992,1,1992
+129,"hs","hs (housing starts)",-.019024,.013104,1992,1,1992
+129,"ip","ip (industrial production)",-.104805,-.8137805,1992,1,1992
+129,"nri","nri, non-residential investment",5.30524,-1.333686,1992,1,1992
+129,"pi","pi (inflation)",-.212182,-.140625,1992,1,1992
+129,"ri","ri, residential investment",3.85159,1.73035,1992,1,1992
+129,"ue","ue (unemployment rate)",.515179,.2749279,1992,1,1992
+130,"3tb","3tb, 3 month t-bills interest rate",-.971518,-.180224,1992,2,1992.25
+130,"aaa","aaa, interest rate",-.541685,.0527262,1992,2,1992.25
+130,"c","c, consumption",.210054,-.1557772,1992,2,1992.25
+130,"cpi","cpi, cpi inflation",-.397788,.0316679,1992,2,1992.25
+130,"gf","gf, federal government spending",-1.52984,.0811425,1992,2,1992.25
+130,"gs","gs, state government spending",-.049006,.035257,1992,2,1992.25
+130,"gy","gy (growth rate of output)",-.41085,.1844973,1992,2,1992.25
+130,"hs","hs (housing starts)",-.104637,.0580527,1992,2,1992.25
+130,"ip","ip (industrial production)",-1.58053,.8814104,1992,2,1992.25
+130,"nri","nri, non-residential investment",6.08712,.2796877,1992,2,1992.25
+130,"pi","pi (inflation)",-.417655,-.0300456,1992,2,1992.25
+130,"ri","ri, residential investment",-1.80489,-.0087443,1992,2,1992.25
+130,"ue","ue (unemployment rate)",.453514,.1192243,1992,2,1992.25
+131,"3tb","3tb, 3 month t-bills interest rate",-.4112,-.8717507,1992,3,1992.5
+131,"aaa","aaa, interest rate",-.396104,-.4696068,1992,3,1992.5
+131,"c","c, consumption",1.05098,-.2509191,1992,3,1992.5
+131,"cpi","cpi, cpi inflation",-.427367,-.3444322,1992,3,1992.5
+131,"gf","gf, federal government spending",-.88219,-.7146138,1992,3,1992.5
+131,"gs","gs, state government spending",.662653,-.1654617,1992,3,1992.5
+131,"gy","gy (growth rate of output)",.209203,-.5052217,1992,3,1992.5
+131,"hs","hs (housing starts)",-.051383,-.0449455,1992,3,1992.5
+131,"ip","ip (industrial production)",-1.57642,-1.309184,1992,3,1992.5
+131,"nri","nri, non-residential investment",5.84203,-1.033475,1992,3,1992.5
+131,"pi","pi (inflation)",-.350275,-.4857295,1992,3,1992.5
+131,"ri","ri, residential investment",-.980032,-.7461379,1992,3,1992.5
+131,"ue","ue (unemployment rate)",-.072778,.5121995,1992,3,1992.5
+132,"3tb","3tb, 3 month t-bills interest rate",-.252973,-.3047394,1992,4,1992.75
+132,"aaa","aaa, interest rate",-.691294,.0515856,1992,4,1992.75
+132,"c","c, consumption",.967648,.0540402,1992,4,1992.75
+132,"cpi","cpi, cpi inflation",-.372635,-.0960806,1992,4,1992.75
+132,"gf","gf, federal government spending",-4.00703,.5784528,1992,4,1992.75
+132,"gs","gs, state government spending",.507823,.2619269,1992,4,1992.75
+132,"gy","gy (growth rate of output)",.651243,-.1634004,1992,4,1992.75
+132,"hs","hs (housing starts)",-.034335,.0014991,1992,4,1992.75
+132,"ip","ip (industrial production)",-.410858,-1.142286,1992,4,1992.75
+132,"nri","nri, non-residential investment",8.27651,.0924914,1992,4,1992.75
+132,"pi","pi (inflation)",-.441511,-.0740352,1992,4,1992.75
+132,"ri","ri, residential investment",2.99867,.8332279,1992,4,1992.75
+132,"ue","ue (unemployment rate)",-.210256,.0838675,1992,4,1992.75
+133,"3tb","3tb, 3 month t-bills interest rate",-.260777,-.1047529,1993,1,1993
+133,"aaa","aaa, interest rate",-.677704,-.2055394,1993,1,1993
+133,"c","c, consumption",.358729,.3942694,1993,1,1993
+133,"cpi","cpi, cpi inflation",-.638899,-.1201723,1993,1,1993
+133,"gf","gf, federal government spending",-5.08118,-.5933788,1993,1,1993
+133,"gs","gs, state government spending",.183431,.011727,1993,1,1993
+133,"gy","gy (growth rate of output)",-.073732,.1398237,1993,1,1993
+133,"hs","hs (housing starts)",-.026626,-.0102918,1993,1,1993
+133,"ip","ip (industrial production)",-.406717,-.1434795,1993,1,1993
+133,"nri","nri, non-residential investment",7.87997,.7138699,1993,1,1993
+133,"pi","pi (inflation)",-.581627,-.0469,1993,1,1993
+133,"ri","ri, residential investment",.445805,-.7166167,1993,1,1993
+133,"ue","ue (unemployment rate)",-.054121,-.1912587,1993,1,1993
+134,"3tb","3tb, 3 month t-bills interest rate",.038345,-.2320695,1993,2,1993.25
+134,"aaa","aaa, interest rate",-.362269,-.3008701,1993,2,1993.25
+134,"c","c, consumption",.461095,.0175057,1993,2,1993.25
+134,"cpi","cpi, cpi inflation",-.955793,.0961038,1993,2,1993.25
+134,"gf","gf, federal government spending",-4.93058,1.604437,1993,2,1993.25
+134,"gs","gs, state government spending",.482545,.1420782,1993,2,1993.25
+134,"gy","gy (growth rate of output)",.590366,.0074928,1993,2,1993.25
+134,"hs","hs (housing starts)",.02595,-.0230606,1993,2,1993.25
+134,"ip","ip (industrial production)",.477906,-.0399003,1993,2,1993.25
+134,"nri","nri, non-residential investment",6.75854,.2949843,1993,2,1993.25
+134,"pi","pi (inflation)",-.85536,.0819299,1993,2,1993.25
+134,"ri","ri, residential investment",.607855,1.811352,1993,2,1993.25
+134,"ue","ue (unemployment rate)",-.080101,-.0447981,1993,2,1993.25
+135,"3tb","3tb, 3 month t-bills interest rate",.319109,-.0852701,1993,3,1993.5
+135,"aaa","aaa, interest rate",.15204,-.3836666,1993,3,1993.5
+135,"c","c, consumption",.770156,-.3067002,1993,3,1993.5
+135,"cpi","cpi, cpi inflation",-.55206,-.3056774,1993,3,1993.5
+135,"gf","gf, federal government spending",-1.6931,-.308608,1993,3,1993.5
+135,"gs","gs, state government spending",.707198,-.1345511,1993,3,1993.5
+135,"gy","gy (growth rate of output)",1.23671,-.3450165,1993,3,1993.5
+135,"hs","hs (housing starts)",.053431,-.0084146,1993,3,1993.5
+135,"ip","ip (industrial production)",1.64825,-.5312151,1993,3,1993.5
+135,"nri","nri, non-residential investment",7.46398,-.9263685,1993,3,1993.5
+135,"pi","pi (inflation)",-.896204,-.0080336,1993,3,1993.5
+135,"ri","ri, residential investment",1.75715,.9308219,1993,3,1993.5
+135,"ue","ue (unemployment rate)",-.28439,.0899965,1993,3,1993.5
+136,"3tb","3tb, 3 month t-bills interest rate",.749455,-.0867779,1993,4,1993.75
+136,"aaa","aaa, interest rate",.853425,-.3984112,1993,4,1993.75
+136,"c","c, consumption",.797442,.2982646,1993,4,1993.75
+136,"cpi","cpi, cpi inflation",-.346751,-.2698838,1993,4,1993.75
+136,"gf","gf, federal government spending",-4.06984,.2910874,1993,4,1993.75
+136,"gs","gs, state government spending",.791197,-.3327147,1993,4,1993.75
+136,"gy","gy (growth rate of output)",1.545,.2291818,1993,4,1993.75
+136,"hs","hs (housing starts)",.05763,.0143369,1993,4,1993.75
+136,"ip","ip (industrial production)",2.67163,.1139393,1993,4,1993.75
+136,"nri","nri, non-residential investment",7.81923,.6182886,1993,4,1993.75
+136,"pi","pi (inflation)",-.788323,-.1372772,1993,4,1993.75
+136,"ri","ri, residential investment",1.64362,.2049884,1993,4,1993.75
+136,"ue","ue (unemployment rate)",-.338885,-.096271,1993,4,1993.75
+137,"3tb","3tb, 3 month t-bills interest rate",1.04246,.1339935,1994,1,1994
+137,"aaa","aaa, interest rate",1.01212,.103696,1994,1,1994
+137,"c","c, consumption",.164675,.1143761,1994,1,1994
+137,"cpi","cpi, cpi inflation",-.467368,-.0104845,1994,1,1994
+137,"gf","gf, federal government spending",-4.82694,.4933465,1994,1,1994
+137,"gs","gs, state government spending",-.107354,.8541198,1994,1,1994
+137,"gy","gy (growth rate of output)",.42806,.2266964,1994,1,1994
+137,"hs","hs (housing starts)",-.004329,.0345666,1994,1,1994
+137,"ip","ip (industrial production)",2.3557,.3476619,1994,1,1994
+137,"nri","nri, non-residential investment",6.5792,.9026031,1994,1,1994
+137,"pi","pi (inflation)",-.228724,-.235364,1994,1,1994
+137,"ri","ri, residential investment",-3.56515,.5624327,1994,1,1994
+137,"ue","ue (unemployment rate)",-.485251,-.0077009,1994,1,1994
+138,"3tb","3tb, 3 month t-bills interest rate",.734439,.6308503,1994,2,1994.25
+138,"aaa","aaa, interest rate",.224683,.8774444,1994,2,1994.25
+138,"c","c, consumption",-.176986,.1792572,1994,2,1994.25
+138,"cpi","cpi, cpi inflation",-.380562,.0992294,1994,2,1994.25
+138,"gf","gf, federal government spending",-3.34647,.6017487,1994,2,1994.25
+138,"gs","gs, state government spending",.269506,.4380485,1994,2,1994.25
+138,"gy","gy (growth rate of output)",-.209323,.2479795,1994,2,1994.25
+138,"hs","hs (housing starts)",.007748,-.024828,1994,2,1994.25
+138,"ip","ip (industrial production)",1.89244,.0554707,1994,2,1994.25
+138,"nri","nri, non-residential investment",4.30594,1.503538,1994,2,1994.25
+138,"pi","pi (inflation)",-.411596,.0605534,1994,2,1994.25
+138,"ri","ri, residential investment",-6.09527,-1.232616,1994,2,1994.25
+138,"ue","ue (unemployment rate)",-.464837,-.1127943,1994,2,1994.25
+139,"3tb","3tb, 3 month t-bills interest rate",.554759,.3071516,1994,3,1994.5
+139,"aaa","aaa, interest rate",-.015188,.1445799,1994,3,1994.5
+139,"c","c, consumption",.346477,-.1010274,1994,3,1994.5
+139,"cpi","cpi, cpi inflation",-.478149,-.002474,1994,3,1994.5
+139,"gf","gf, federal government spending",-2.37819,.2718029,1994,3,1994.5
+139,"gs","gs, state government spending",.089308,.5914704,1994,3,1994.5
+139,"gy","gy (growth rate of output)",.198041,-.2971831,1994,3,1994.5
+139,"hs","hs (housing starts)",.017807,-.0059284,1994,3,1994.5
+139,"ip","ip (industrial production)",1.42549,.0498964,1994,3,1994.5
+139,"nri","nri, non-residential investment",4.15766,.7120985,1994,3,1994.5
+139,"pi","pi (inflation)",-.779475,.1395398,1994,3,1994.5
+139,"ri","ri, residential investment",-3.72901,-.7943099,1994,3,1994.5
+139,"ue","ue (unemployment rate)",-.32055,-.18927,1994,3,1994.5
+140,"3tb","3tb, 3 month t-bills interest rate",-.288,.8664809,1994,4,1994.75
+140,"aaa","aaa, interest rate",-.943167,.7287771,1994,4,1994.75
+140,"c","c, consumption",-.26337,.4308738,1994,4,1994.75
+140,"cpi","cpi, cpi inflation",-.856146,.0260683,1994,4,1994.75
+140,"gf","gf, federal government spending",-6.33307,-.9793596,1994,4,1994.75
+140,"gs","gs, state government spending",-.277678,.16686,1994,4,1994.75
+140,"gy","gy (growth rate of output)",-.814414,.2911409,1994,4,1994.75
+140,"hs","hs (housing starts)",.005412,.0144453,1994,4,1994.75
+140,"ip","ip (industrial production)",.928876,.2495143,1994,4,1994.75
+140,"nri","nri, non-residential investment",1.63455,1.356382,1994,4,1994.75
+140,"pi","pi (inflation)",-.820415,-.0129106,1994,4,1994.75
+140,"ri","ri, residential investment",.086713,-.5916436,1994,4,1994.75
+140,"ue","ue (unemployment rate)",-.179259,-.1959941,1994,4,1994.75
+141,"3tb","3tb, 3 month t-bills interest rate",-.842377,.3453572,1995,1,1995
+141,"aaa","aaa, interest rate",-.960704,-.2675722,1995,1,1995
+141,"c","c, consumption",-.546162,.1371065,1995,1,1995
+141,"cpi","cpi, cpi inflation",-.610986,-.0919643,1995,1,1995
+141,"gf","gf, federal government spending",-3.85615,1.284084,1995,1,1995
+141,"gs","gs, state government spending",-.889739,.1317918,1995,1,1995
+141,"gy","gy (growth rate of output)",-1.15396,-.0996478,1995,1,1995
+141,"hs","hs (housing starts)",.007996,.008044,1995,1,1995
+141,"ip","ip (industrial production)",-.167176,.4395568,1995,1,1995
+141,"nri","nri, non-residential investment",.778379,1.606897,1995,1,1995
+141,"pi","pi (inflation)",-.518366,-.2110436,1995,1,1995
+141,"ri","ri, residential investment",2.30474,-.3487691,1995,1,1995
+141,"ue","ue (unemployment rate)",.092414,-.2794062,1995,1,1995
+142,"3tb","3tb, 3 month t-bills interest rate",-.680692,-.4145923,1995,2,1995.25
+142,"aaa","aaa, interest rate",-.7,-.3909861,1995,2,1995.25
+142,"c","c, consumption",.294607,-.2193443,1995,2,1995.25
+142,"cpi","cpi, cpi inflation",-.606196,.0181049,1995,2,1995.25
+142,"gf","gf, federal government spending",-.445007,.2737049,1995,2,1995.25
+142,"gs","gs, state government spending",.018153,.1300445,1995,2,1995.25
+142,"gy","gy (growth rate of output)",-.132329,-.0927261,1995,2,1995.25
+142,"hs","hs (housing starts)",.07888,-.0330765,1995,2,1995.25
+142,"ip","ip (industrial production)",1.47219,-.6814225,1995,2,1995.25
+142,"nri","nri, non-residential investment",-.812216,.6291476,1995,2,1995.25
+142,"pi","pi (inflation)",-.766911,-.0344605,1995,2,1995.25
+142,"ri","ri, residential investment",6.1356,.7631483,1995,2,1995.25
+142,"ue","ue (unemployment rate)",-.022157,.1351674,1995,2,1995.25
+143,"3tb","3tb, 3 month t-bills interest rate",-.362494,-.4649552,1995,3,1995.5
+143,"aaa","aaa, interest rate",-.236792,-.5122048,1995,3,1995.5
+143,"c","c, consumption",-.152432,-.1388717,1995,3,1995.5
+143,"cpi","cpi, cpi inflation",-.537565,-.3185218,1995,3,1995.5
+143,"gf","gf, federal government spending",-.333601,-.648349,1995,3,1995.5
+143,"gs","gs, state government spending",.114313,-.227952,1995,3,1995.5
+143,"gy","gy (growth rate of output)",-.289172,.1408796,1995,3,1995.5
+143,"hs","hs (housing starts)",.095896,.0099135,1995,3,1995.5
+143,"ip","ip (industrial production)",1.5548,.1616351,1995,3,1995.5
+143,"nri","nri, non-residential investment",2.08508,.6628695,1995,3,1995.5
+143,"pi","pi (inflation)",-.401894,-.3240247,1995,3,1995.5
+143,"ri","ri, residential investment",4.84566,2.09479,1995,3,1995.5
+143,"ue","ue (unemployment rate)",-.223178,.1218908,1995,3,1995.5
+144,"3tb","3tb, 3 month t-bills interest rate",-.134,-.2972704,1995,4,1995.75
+144,"aaa","aaa, interest rate",.158468,-.4475022,1995,4,1995.75
+144,"c","c, consumption",-.022901,.1420065,1995,4,1995.75
+144,"cpi","cpi, cpi inflation",.0763,-.4351009,1995,4,1995.75
+144,"gf","gf, federal government spending",.766904,-.7602547,1995,4,1995.75
+144,"gs","gs, state government spending",-.022686,.2567436,1995,4,1995.75
+144,"gy","gy (growth rate of output)",-.087624,-.199708,1995,4,1995.75
+144,"hs","hs (housing starts)",.050998,.0459721,1995,4,1995.75
+144,"ip","ip (industrial production)",2.05183,-.394995,1995,4,1995.75
+144,"nri","nri, non-residential investment",2.76507,.1923279,1995,4,1995.75
+144,"pi","pi (inflation)",-.12555,-.4553443,1995,4,1995.75
+144,"ri","ri, residential investment",.938694,1.109534,1995,4,1995.75
+144,"ue","ue (unemployment rate)",-.204091,-.087839,1995,4,1995.75
+145,"3tb","3tb, 3 month t-bills interest rate",.22759,-.3629602,1996,1,1996
+145,"aaa","aaa, interest rate",.477655,-.2403293,1996,1,1996
+145,"c","c, consumption",1.13005,-.3642902,1996,1,1996
+145,"cpi","cpi, cpi inflation",.283797,-.2578454,1996,1,1996
+145,"gf","gf, federal government spending",1.19385,.4164115,1996,1,1996
+145,"gs","gs, state government spending",.559218,-.2893599,1996,1,1996
+145,"gy","gy (growth rate of output)",1.16091,-.4285741,1996,1,1996
+145,"hs","hs (housing starts)",.079036,-.0102367,1996,1,1996
+145,"ip","ip (industrial production)",3.50099,-.658668,1996,1,1996
+145,"nri","nri, non-residential investment",4.36687,-.9225699,1996,1,1996
+145,"pi","pi (inflation)",-.160131,.0557046,1996,1,1996
+145,"ri","ri, residential investment",1.58054,.2747038,1996,1,1996
+145,"ue","ue (unemployment rate)",-.392326,.1144254,1996,1,1996
+146,"3tb","3tb, 3 month t-bills interest rate",-.03039,.3203942,1996,2,1996.25
+146,"aaa","aaa, interest rate",-.003222,.5985008,1996,2,1996.25
+146,"c","c, consumption",.522131,-.0383914,1996,2,1996.25
+146,"cpi","cpi, cpi inflation",-.491582,.2499985,1996,2,1996.25
+146,"gf","gf, federal government spending",1.89345,-.7407017,1996,2,1996.25
+146,"gs","gs, state government spending",.854926,-.0198887,1996,2,1996.25
+146,"gy","gy (growth rate of output)",1.3549,-.0664891,1996,2,1996.25
+146,"hs","hs (housing starts)",.063268,.0240551,1996,2,1996.25
+146,"ip","ip (industrial production)",3.54369,.2521786,1996,2,1996.25
+146,"nri","nri, non-residential investment",5.11286,-.2076191,1996,2,1996.25
+146,"pi","pi (inflation)",-.323731,.0546846,1996,2,1996.25
+146,"ri","ri, residential investment",4.02649,-2.581212,1996,2,1996.25
+146,"ue","ue (unemployment rate)",-.303333,-.2147831,1996,2,1996.25
+147,"3tb","3tb, 3 month t-bills interest rate",-.194207,.1588617,1996,3,1996.5
+147,"aaa","aaa, interest rate",-.21857,.1600054,1996,3,1996.5
+147,"c","c, consumption",1.07383,.1856632,1996,3,1996.5
+147,"cpi","cpi, cpi inflation",-.828482,.1343049,1996,3,1996.5
+147,"gf","gf, federal government spending",-.255582,-.122477,1996,3,1996.5
+147,"gs","gs, state government spending",.378279,-.1019352,1996,3,1996.5
+147,"gy","gy (growth rate of output)",1.34216,.1584617,1996,3,1996.5
+147,"hs","hs (housing starts)",.049214,.0226735,1996,3,1996.5
+147,"ip","ip (industrial production)",3.94504,.1657743,1996,3,1996.5
+147,"nri","nri, non-residential investment",6.91885,1.048888,1996,3,1996.5
+147,"pi","pi (inflation)",-.611996,.0594311,1996,3,1996.5
+147,"ri","ri, residential investment",1.27276,.232718,1996,3,1996.5
+147,"ue","ue (unemployment rate)",-.325155,-.1354955,1996,3,1996.5
+148,"3tb","3tb, 3 month t-bills interest rate",-.101829,-.1263296,1996,4,1996.75
+148,"aaa","aaa, interest rate",-.131312,-.2169613,1996,4,1996.75
+148,"c","c, consumption",1.40221,.1343303,1996,4,1996.75
+148,"cpi","cpi, cpi inflation",-.832178,-.1066107,1996,4,1996.75
+148,"gf","gf, federal government spending",-.315333,.1082816,1996,4,1996.75
+148,"gs","gs, state government spending",.414559,.0759208,1996,4,1996.75
+148,"gy","gy (growth rate of output)",1.7521,.0772018,1996,4,1996.75
+148,"hs","hs (housing starts)",.041555,.0250008,1996,4,1996.75
+148,"ip","ip (industrial production)",5.4864,-.4357999,1996,4,1996.75
+148,"nri","nri, non-residential investment",3.77616,.9585416,1996,4,1996.75
+148,"pi","pi (inflation)",-.829024,-.1481373,1996,4,1996.75
+148,"ri","ri, residential investment",3.38735,.8412973,1996,4,1996.75
+148,"ue","ue (unemployment rate)",-.297222,-.1798176,1996,4,1996.75
+149,"3tb","3tb, 3 month t-bills interest rate",-.065348,-.0513612,1997,1,1997
+149,"aaa","aaa, interest rate",-.202627,-.0486694,1997,1,1997
+149,"c","c, consumption",1.77767,.2760056,1997,1,1997
+149,"cpi","cpi, cpi inflation",-1.3733,-.0555931,1997,1,1997
+149,"gf","gf, federal government spending",-1.66682,.5378243,1997,1,1997
+149,"gs","gs, state government spending",.055191,.1651862,1997,1,1997
+149,"gy","gy (growth rate of output)",1.88925,.1592877,1997,1,1997
+149,"hs","hs (housing starts)",.075286,-.0025863,1997,1,1997
+149,"ip","ip (industrial production)",4.65606,.7304267,1997,1,1997
+149,"nri","nri, non-residential investment",6.11534,.9379292,1997,1,1997
+149,"pi","pi (inflation)",-1.05714,-.1032777,1997,1,1997
+149,"ri","ri, residential investment",6.49114,1.082634,1997,1,1997
+149,"ue","ue (unemployment rate)",-.456526,-.0118421,1997,1,1997
+150,"3tb","3tb, 3 month t-bills interest rate",-.424043,.3207229,1997,2,1997.25
+150,"aaa","aaa, interest rate",-.634582,.2964873,1997,2,1997.25
+150,"c","c, consumption",1.97981,.159729,1997,2,1997.25
+150,"cpi","cpi, cpi inflation",-1.45683,-.2067024,1997,2,1997.25
+150,"gf","gf, federal government spending",1.43992,-.3114771,1997,2,1997.25
+150,"gs","gs, state government spending",-.096869,.0150087,1997,2,1997.25
+150,"gy","gy (growth rate of output)",1.23409,.1695099,1997,2,1997.25
+150,"hs","hs (housing starts)",.083735,.0119503,1997,2,1997.25
+150,"ip","ip (industrial production)",3.46254,.3728341,1997,2,1997.25
+150,"nri","nri, non-residential investment",7.06005,1.264043,1997,2,1997.25
+150,"pi","pi (inflation)",-1.3228,-.1636091,1997,2,1997.25
+150,"ri","ri, residential investment",8.59339,.220602,1997,2,1997.25
+150,"ue","ue (unemployment rate)",-.394851,-.2591119,1997,2,1997.25
+151,"3tb","3tb, 3 month t-bills interest rate",-.299646,-.2308068,1997,3,1997.5
+151,"aaa","aaa, interest rate",-.661253,-.1833257,1997,3,1997.5
+151,"c","c, consumption",2.34749,.3468609,1997,3,1997.5
+151,"cpi","cpi, cpi inflation",-1.04672,-.3624126,1997,3,1997.5
+151,"gf","gf, federal government spending",-.294215,.2562228,1997,3,1997.5
+151,"gs","gs, state government spending",.029453,.3786449,1997,3,1997.5
+151,"gy","gy (growth rate of output)",1.13781,.2942002,1997,3,1997.5
+151,"hs","hs (housing starts)",.099575,.0156823,1997,3,1997.5
+151,"ip","ip (industrial production)",2.83489,.1420974,1997,3,1997.5
+151,"nri","nri, non-residential investment",3.92469,.9123169,1997,3,1997.5
+151,"pi","pi (inflation)",-1.35089,-.2124446,1997,3,1997.5
+151,"ri","ri, residential investment",8.01113,1.852867,1997,3,1997.5
+151,"ue","ue (unemployment rate)",-.300943,-.2239802,1997,3,1997.5
+152,"3tb","3tb, 3 month t-bills interest rate",-.402737,-.1167061,1997,4,1997.75
+152,"aaa","aaa, interest rate",-.536392,-.322081,1997,4,1997.75
+152,"c","c, consumption",2.16582,.0828514,1997,4,1997.75
+152,"cpi","cpi, cpi inflation",-.96884,-.2566285,1997,4,1997.75
+152,"gf","gf, federal government spending",.069728,.435315,1997,4,1997.75
+152,"gs","gs, state government spending",.104492,-.0921313,1997,4,1997.75
+152,"gy","gy (growth rate of output)",1.5042,.0969556,1997,4,1997.75
+152,"hs","hs (housing starts)",.115194,.0247873,1997,4,1997.75
+152,"ip","ip (industrial production)",2.0886,.1714488,1997,4,1997.75
+152,"nri","nri, non-residential investment",3.25041,1.17744,1997,4,1997.75
+152,"pi","pi (inflation)",-1.27401,-.2394481,1997,4,1997.75
+152,"ri","ri, residential investment",10.0447,.5445909,1997,4,1997.75
+152,"ue","ue (unemployment rate)",-.27614,-.1446581,1997,4,1997.75
+153,"3tb","3tb, 3 month t-bills interest rate",-.40603,-.1801891,1998,1,1998
+153,"aaa","aaa, interest rate",-.209834,-.4647848,1998,1,1998
+153,"c","c, consumption",2.5257,.4058518,1998,1,1998
+153,"cpi","cpi, cpi inflation",-.680563,-.5352092,1998,1,1998
+153,"gf","gf, federal government spending",.277541,.0984611,1998,1,1998
+153,"gs","gs, state government spending",1.44386,-.0496895,1998,1,1998
+153,"gy","gy (growth rate of output)",1.68246,-.0087033,1998,1,1998
+153,"hs","hs (housing starts)",.111324,.040287,1998,1,1998
+153,"ip","ip (industrial production)",1.07748,.0289959,1998,1,1998
+153,"nri","nri, non-residential investment",4.24075,.7767458,1998,1,1998
+153,"pi","pi (inflation)",-.994648,-.2336121,1998,1,1998
+153,"ri","ri, residential investment",9.59479,2.042455,1998,1,1998
+153,"ue","ue (unemployment rate)",-.254107,-.1162007,1998,1,1998
+154,"3tb","3tb, 3 month t-bills interest rate",-.587862,.0423395,1998,2,1998.25
+154,"aaa","aaa, interest rate",-.187117,.0058742,1998,2,1998.25
+154,"c","c, consumption",2.19349,.383677,1998,2,1998.25
+154,"cpi","cpi, cpi inflation",-.310186,-.100434,1998,2,1998.25
+154,"gf","gf, federal government spending",2.12477,.2870114,1998,2,1998.25
+154,"gs","gs, state government spending",.919972,.30906,1998,2,1998.25
+154,"gy","gy (growth rate of output)",.910873,.0901052,1998,2,1998.25
+154,"hs","hs (housing starts)",.103768,.0196698,1998,2,1998.25
+154,"ip","ip (industrial production)",.987101,.2157493,1998,2,1998.25
+154,"nri","nri, non-residential investment",1.14315,1.53164,1998,2,1998.25
+154,"pi","pi (inflation)",-.646879,-.3327172,1998,2,1998.25
+154,"ri","ri, residential investment",9.5672,-.9155775,1998,2,1998.25
+154,"ue","ue (unemployment rate)",-.19954,-.154218,1998,2,1998.25
+155,"3tb","3tb, 3 month t-bills interest rate",-.543733,-.1401734,1998,3,1998.5
+155,"aaa","aaa, interest rate",-.002,-.0989848,1998,3,1998.5
+155,"c","c, consumption",1.98527,.1229123,1998,3,1998.5
+155,"cpi","cpi, cpi inflation",-.081403,-.0864206,1998,3,1998.5
+155,"gf","gf, federal government spending",2.23109,.3496249,1998,3,1998.5
+155,"gs","gs, state government spending",1.59435,-.2795806,1998,3,1998.5
+155,"gy","gy (growth rate of output)",1.62036,.0306422,1998,3,1998.5
+155,"hs","hs (housing starts)",.109693,.0204366,1998,3,1998.5
+155,"ip","ip (industrial production)",1.47998,-.2160044,1998,3,1998.5
+155,"nri","nri, non-residential investment",2.24932,-.4980739,1998,3,1998.5
+155,"pi","pi (inflation)",-.614999,-.1341866,1998,3,1998.5
+155,"ri","ri, residential investment",6.50154,1.228865,1998,3,1998.5
+155,"ue","ue (unemployment rate)",-.188604,-.0764116,1998,3,1998.5
+156,"3tb","3tb, 3 month t-bills interest rate",.380687,-.8974947,1998,4,1998.75
+156,"aaa","aaa, interest rate",.745979,-.5840573,1998,4,1998.75
+156,"c","c, consumption",2.72957,-.3641247,1998,4,1998.75
+156,"cpi","cpi, cpi inflation",.242374,-.2615152,1998,4,1998.75
+156,"gf","gf, federal government spending",5.02436,.0365611,1998,4,1998.75
+156,"gs","gs, state government spending",2.14141,.0450095,1998,4,1998.75
+156,"gy","gy (growth rate of output)",2.90095,-.5232992,1998,4,1998.75
+156,"hs","hs (housing starts)",.105254,.026799,1998,4,1998.75
+156,"ip","ip (industrial production)",2.88816,-.9882525,1998,4,1998.75
+156,"nri","nri, non-residential investment",5.13257,-.2028571,1998,4,1998.75
+156,"pi","pi (inflation)",-.349215,-.2902139,1998,4,1998.75
+156,"ri","ri, residential investment",5.56827,.0569577,1998,4,1998.75
+156,"ue","ue (unemployment rate)",-.472727,.1388612,1998,4,1998.75
+157,"3tb","3tb, 3 month t-bills interest rate",.408475,.2475779,1999,1,1999
+157,"aaa","aaa, interest rate",.827378,.2090736,1999,1,1999
+157,"c","c, consumption",3.12252,.5155272,1999,1,1999
+157,"cpi","cpi, cpi inflation",.723055,-.1749219,1999,1,1999
+157,"gf","gf, federal government spending",.76814,.3331411,1999,1,1999
+157,"gs","gs, state government spending",2.80564,.237627,1999,1,1999
+157,"gy","gy (growth rate of output)",2.34813,.5854492,1999,1,1999
+157,"hs","hs (housing starts)",.073125,.0556832,1999,1,1999
+157,"ip","ip (industrial production)",2.34245,.5998493,1999,1,1999
+157,"nri","nri, non-residential investment",4.86763,2.308241,1999,1,1999
+157,"pi","pi (inflation)",.336881,-.3411822,1999,1,1999
+157,"ri","ri, residential investment",3.26208,2.121186,1999,1,1999
+157,"ue","ue (unemployment rate)",-.268739,-.3499999,1999,1,1999
+158,"3tb","3tb, 3 month t-bills interest rate",.538222,.111453,1999,2,1999.25
+158,"aaa","aaa, interest rate",.773455,.320041,1999,2,1999.25
+158,"c","c, consumption",2.42056,.2791826,1999,2,1999.25
+158,"cpi","cpi, cpi inflation",.891342,.1313534,1999,2,1999.25
+158,"gf","gf, federal government spending",3.79183,.053132,1999,2,1999.25
+158,"gs","gs, state government spending",.961254,.0932921,1999,2,1999.25
+158,"gy","gy (growth rate of output)",2.52452,.3456662,1999,2,1999.25
+158,"hs","hs (housing starts)",.01902,.0524733,1999,2,1999.25
+158,"ip","ip (industrial production)",2.38174,.2636519,1999,2,1999.25
+158,"nri","nri, non-residential investment",6.83428,-.0627516,1999,2,1999.25
+158,"pi","pi (inflation)",.215596,.1109611,1999,2,1999.25
+158,"ri","ri, residential investment",2.04324,.438123,1999,2,1999.25
+158,"ue","ue (unemployment rate)",-.228198,-.1600535,1999,2,1999.25
+159,"3tb","3tb, 3 month t-bills interest rate",.537556,.2925693,1999,3,1999.5
+159,"aaa","aaa, interest rate",.356774,.5746067,1999,3,1999.5
+159,"c","c, consumption",2.26774,.2069808,1999,3,1999.5
+159,"cpi","cpi, cpi inflation",.940065,.1690099,1999,3,1999.5
+159,"gf","gf, federal government spending",.872418,.5687372,1999,3,1999.5
+159,"gs","gs, state government spending",1.37709,-.1001552,1999,3,1999.5
+159,"gy","gy (growth rate of output)",2.28847,.2791107,1999,3,1999.5
+159,"hs","hs (housing starts)",.056211,-.028548,1999,3,1999.5
+159,"ip","ip (industrial production)",1.34515,.3822441,1999,3,1999.5
+159,"nri","nri, non-residential investment",6.64442,.7748623,1999,3,1999.5
+159,"pi","pi (inflation)",.176053,.0384881,1999,3,1999.5
+159,"ri","ri, residential investment",.632866,-.8790156,1999,3,1999.5
+159,"ue","ue (unemployment rate)",-.304505,-.014527,1999,3,1999.5
+160,"3tb","3tb, 3 month t-bills interest rate",.568108,.1950093,1999,4,1999.75
+160,"aaa","aaa, interest rate",.197333,.1808418,1999,4,1999.75
+160,"c","c, consumption",1.69404,.3737297,1999,4,1999.75
+160,"cpi","cpi, cpi inflation",.816822,.0745486,1999,4,1999.75
+160,"gf","gf, federal government spending",.3725,.2901054,1999,4,1999.75
+160,"gs","gs, state government spending",1.07898,.1549215,1999,4,1999.75
+160,"gy","gy (growth rate of output)",1.24354,.4421925,1999,4,1999.75
+160,"hs","hs (housing starts)",.0351,.019314,1999,4,1999.75
+160,"ip","ip (industrial production)",.232221,.3747742,1999,4,1999.75
+160,"nri","nri, non-residential investment",2.94413,1.990181,1999,4,1999.75
+160,"pi","pi (inflation)",.40293,-.1565373,1999,4,1999.75
+160,"ri","ri, residential investment",.778337,.215001,1999,4,1999.75
+160,"ue","ue (unemployment rate)",-.238333,-.1697233,1999,4,1999.75
+161,"3tb","3tb, 3 month t-bills interest rate",-.093167,.5695888,2000,1,2000
+161,"aaa","aaa, interest rate",-.207489,.3390114,2000,1,2000
+161,"c","c, consumption",1.12065,.2494712,2000,1,2000
+161,"cpi","cpi, cpi inflation",1.00804,.0232169,2000,1,2000
+161,"gf","gf, federal government spending",-1.16343,-.7427869,2000,1,2000
+161,"gs","gs, state government spending",.927266,.3891121,2000,1,2000
+161,"gy","gy (growth rate of output)",-.011525,.1511971,2000,1,2000
+161,"hs","hs (housing starts)",.025608,.0147321,2000,1,2000
+161,"ip","ip (industrial production)",-2.7276,.4780834,2000,1,2000
+161,"nri","nri, non-residential investment",.795509,.7055557,2000,1,2000
+161,"pi","pi (inflation)",.654393,.0436655,2000,1,2000
+161,"ri","ri, residential investment",2.2053,-.3538191,2000,1,2000
+161,"ue","ue (unemployment rate)",-.068333,-.185119,2000,1,2000
+162,"3tb","3tb, 3 month t-bills interest rate",-.938441,.4169972,2000,2,2000.25
+162,"aaa","aaa, interest rate",-.524513,.2350495,2000,2,2000.25
+162,"c","c, consumption",.005737,.3918053,2000,2,2000.25
+162,"cpi","cpi, cpi inflation",.402353,.394038,2000,2,2000.25
+162,"gf","gf, federal government spending",.648321,.8071637,2000,2,2000.25
+162,"gs","gs, state government spending",.751432,.2546838,2000,2,2000.25
+162,"gy","gy (growth rate of output)",-1.38335,.5682567,2000,2,2000.25
+162,"hs","hs (housing starts)",-.003415,.0307851,2000,2,2000.25
+162,"ip","ip (industrial production)",-5.54952,.9602364,2000,2,2000.25
+162,"nri","nri, non-residential investment",-6.08391,.7993507,2000,2,2000.25
+162,"pi","pi (inflation)",.040218,.3930533,2000,2,2000.25
+162,"ri","ri, residential investment",2.62508,.2826177,2000,2,2000.25
+162,"ue","ue (unemployment rate)",.077892,-.1129902,2000,2,2000.25
+163,"3tb","3tb, 3 month t-bills interest rate",-1.20786,-.2634822,2000,3,2000.5
+163,"aaa","aaa, interest rate",-.274968,-.4003021,2000,3,2000.5
+163,"c","c, consumption",-.199463,.0080177,2000,3,2000.5
+163,"cpi","cpi, cpi inflation",.16398,-.0149948,2000,3,2000.5
+163,"gf","gf, federal government spending",-.804777,-1.19352,2000,3,2000.5
+163,"gs","gs, state government spending",.597695,-.2878622,2000,3,2000.5
+163,"gy","gy (growth rate of output)",-2.2229,-.1673856,2000,3,2000.5
+163,"hs","hs (housing starts)",.035271,-.0249795,2000,3,2000.5
+163,"ip","ip (industrial production)",-7.24112,-.3629866,2000,3,2000.5
+163,"nri","nri, non-residential investment",-10.8212,1.777663,2000,3,2000.5
+163,"pi","pi (inflation)",-.038146,.0514826,2000,3,2000.5
+163,"ri","ri, residential investment",3.20662,-1.148113,2000,3,2000.5
+163,"ue","ue (unemployment rate)",.14811,.0608408,2000,3,2000.5
+164,"3tb","3tb, 3 month t-bills interest rate",-2.09155,.1012002,2000,4,2000.75
+164,"aaa","aaa, interest rate",-.411914,.0095487,2000,4,2000.75
+164,"c","c, consumption",.070318,.1586673,2000,4,2000.75
+164,"cpi","cpi, cpi inflation",-.671053,.114899,2000,4,2000.75
+164,"gf","gf, federal government spending",2.47456,.7098228,2000,4,2000.75
+164,"gs","gs, state government spending",1.67563,.0486953,2000,4,2000.75
+164,"gy","gy (growth rate of output)",-2.00472,.0106465,2000,4,2000.75
+164,"hs","hs (housing starts)",.04827,.000871,2000,4,2000.75
+164,"ip","ip (industrial production)",-7.96462,.0722279,2000,4,2000.75
+164,"nri","nri, non-residential investment",-14.0075,.4515555,2000,4,2000.75
+164,"pi","pi (inflation)",-.492078,.0069366,2000,4,2000.75
+164,"ri","ri, residential investment",1.98228,1.943269,2000,4,2000.75
+164,"ue","ue (unemployment rate)",.416922,-.0277107,2000,4,2000.75
+165,"3tb","3tb, 3 month t-bills interest rate",-1.78582,-1.137647,2001,1,2001
+165,"aaa","aaa, interest rate",.062943,-.6448611,2001,1,2001
+165,"c","c, consumption",.537516,-.487381,2001,1,2001
+165,"cpi","cpi, cpi inflation",-.757363,-.1530303,2001,1,2001
+165,"gf","gf, federal government spending",3.24479,.036325,2001,1,2001
+165,"gs","gs, state government spending",2.11371,-.0223559,2001,1,2001
+165,"gy","gy (growth rate of output)",-.815203,-.8184709,2001,1,2001
+165,"hs","hs (housing starts)",.056474,.0121172,2001,1,2001
+165,"ip","ip (industrial production)",-5.60504,-2.110504,2001,1,2001
+165,"nri","nri, non-residential investment",-12.2236,-3.057614,2001,1,2001
+165,"pi","pi (inflation)",-.465036,-.1006913,2001,1,2001
+165,"ri","ri, residential investment",2.85895,1.288344,2001,1,2001
+165,"ue","ue (unemployment rate)",.479644,.2398318,2001,1,2001
+166,"3tb","3tb, 3 month t-bills interest rate",-1.35813,-1.028152,2001,2,2001.25
+166,"aaa","aaa, interest rate",-.089462,.0920722,2001,2,2001.25
+166,"c","c, consumption",.448518,-.4530121,2001,2,2001.25
+166,"cpi","cpi, cpi inflation",-.962776,.1194081,2001,2,2001.25
+166,"gf","gf, federal government spending",3.87658,-.1584601,2001,2,2001.25
+166,"gs","gs, state government spending",.475008,.018027,2001,2,2001.25
+166,"gy","gy (growth rate of output)",-.716277,-.7656335,2001,2,2001.25
+166,"hs","hs (housing starts)",.044796,.0155985,2001,2,2001.25
+166,"ip","ip (industrial production)",-3.69372,-1.051344,2001,2,2001.25
+166,"nri","nri, non-residential investment",-10.9507,-2.967001,2001,2,2001.25
+166,"pi","pi (inflation)",-.85656,.0721425,2001,2,2001.25
+166,"ri","ri, residential investment",2.03266,-1.274695,2001,2,2001.25
+166,"ue","ue (unemployment rate)",.535758,.1878563,2001,2,2001.25
+167,"3tb","3tb, 3 month t-bills interest rate",-1.40581,-.388871,2001,3,2001.5
+167,"aaa","aaa, interest rate",-.370867,.1137052,2001,3,2001.5
+167,"c","c, consumption",.622574,-.0686822,2001,3,2001.5
+167,"cpi","cpi, cpi inflation",-1.02561,-.0158333,2001,3,2001.5
+167,"gf","gf, federal government spending",4.47181,-.2557449,2001,3,2001.5
+167,"gs","gs, state government spending",-.178478,-.1026445,2001,3,2001.5
+167,"gy","gy (growth rate of output)",-.04145,-.3931692,2001,3,2001.5
+167,"hs","hs (housing starts)",.050138,.006485,2001,3,2001.5
+167,"ip","ip (industrial production)",-1.2923,-1.917114,2001,3,2001.5
+167,"nri","nri, non-residential investment",-6.39814,-3.608674,2001,3,2001.5
+167,"pi","pi (inflation)",-.957621,-.1133149,2001,3,2001.5
+167,"ri","ri, residential investment",1.90875,-1.062028,2001,3,2001.5
+167,"ue","ue (unemployment rate)",.671515,.0613636,2001,3,2001.5
+168,"3tb","3tb, 3 month t-bills interest rate",-.549248,-1.392001,2001,4,2001.75
+168,"aaa","aaa, interest rate",-.15845,-.4070833,2001,4,2001.75
+168,"c","c, consumption",1.82615,-1.623673,2001,4,2001.75
+168,"cpi","cpi, cpi inflation",-.299997,-.6155135,2001,4,2001.75
+168,"gf","gf, federal government spending",3.62298,3.25133,2001,4,2001.75
+168,"gs","gs, state government spending",.576066,-.085963,2001,4,2001.75
+168,"gy","gy (growth rate of output)",1.27883,-1.794538,2001,4,2001.75
+168,"hs","hs (housing starts)",.09348,-.0302041,2001,4,2001.75
+168,"ip","ip (industrial production)",.439445,-2.585194,2001,4,2001.75
+168,"nri","nri, non-residential investment",-1.44387,-7.144448,2001,4,2001.75
+168,"pi","pi (inflation)",-.667843,-.4907763,2001,4,2001.75
+168,"ri","ri, residential investment",5.43349,-2.787578,2001,4,2001.75
+168,"ue","ue (unemployment rate)",-.140821,.9692621,2001,4,2001.75
+169,"3tb","3tb, 3 month t-bills interest rate",-.674561,-.2342619,2002,1,2002
+169,"aaa","aaa, interest rate",-.434474,.081971,2002,1,2002
+169,"c","c, consumption",.711888,-.1565003,2002,1,2002
+169,"cpi","cpi, cpi inflation",.578435,-.1949952,2002,1,2002
+169,"gf","gf, federal government spending",1.52962,.0632217,2002,1,2002
+169,"gs","gs, state government spending",-.719027,-.4814603,2002,1,2002
+169,"gy","gy (growth rate of output)",-.091983,.1557872,2002,1,2002
+169,"hs","hs (housing starts)",.098314,.0106045,2002,1,2002
+169,"ip","ip (industrial production)",-.620774,.4443754,2002,1,2002
+169,"nri","nri, non-residential investment",-3.55586,-.0681039,2002,1,2002
+169,"pi","pi (inflation)",-.237515,-.0379234,2002,1,2002
+169,"ri","ri, residential investment",4.88584,-.0781829,2002,1,2002
+169,"ue","ue (unemployment rate)",-.049323,-.0577117,2002,1,2002
+170,"3tb","3tb, 3 month t-bills interest rate",-1.07902,-.0298808,2002,2,2002.25
+170,"aaa","aaa, interest rate",-.695828,-.0528849,2002,2,2002.25
+170,"c","c, consumption",-.190326,.2653677,2002,2,2002.25
+170,"cpi","cpi, cpi inflation",-.229455,.2530713,2002,2,2002.25
+170,"gf","gf, federal government spending",4.96952,-.3352575,2002,2,2002.25
+170,"gs","gs, state government spending",-1.85938,-.1622982,2002,2,2002.25
+170,"gy","gy (growth rate of output)",-.804853,-.0935774,2002,2,2002.25
+170,"hs","hs (housing starts)",.073194,.0274592,2002,2,2002.25
+170,"ip","ip (industrial production)",-3.17825,.3657597,2002,2,2002.25
+170,"nri","nri, non-residential investment",-3.97513,.5029665,2002,2,2002.25
+170,"pi","pi (inflation)",-.507025,.1515028,2002,2,2002.25
+170,"ri","ri, residential investment",3.88732,-1.709461,2002,2,2002.25
+170,"ue","ue (unemployment rate)",.17033,-.0836148,2002,2,2002.25
+171,"3tb","3tb, 3 month t-bills interest rate",-.846682,-.696709,2002,3,2002.5
+171,"aaa","aaa, interest rate",-.613807,-.3766,2002,3,2002.5
+171,"c","c, consumption",.451375,-.0481108,2002,3,2002.5
+171,"cpi","cpi, cpi inflation",-.078958,-.0818048,2002,3,2002.5
+171,"gf","gf, federal government spending",2.68501,.5856675,2002,3,2002.5
+171,"gs","gs, state government spending",-.820572,-.4815224,2002,3,2002.5
+171,"gy","gy (growth rate of output)",.406221,-.3151075,2002,3,2002.5
+171,"hs","hs (housing starts)",.084693,.0162496,2002,3,2002.5
+171,"ip","ip (industrial production)",-3.49959,-.5021275,2002,3,2002.5
+171,"nri","nri, non-residential investment",-.527118,-1.69139,2002,3,2002.5
+171,"pi","pi (inflation)",-.363813,-.1591095,2002,3,2002.5
+171,"ri","ri, residential investment",6.94219,.5451618,2002,3,2002.5
+171,"ue","ue (unemployment rate)",.119692,.203637,2002,3,2002.5
+172,"3tb","3tb, 3 month t-bills interest rate",-.594788,-.6216098,2002,4,2002.75
+172,"aaa","aaa, interest rate",-.582187,-.2625264,2002,4,2002.75
+172,"c","c, consumption",.680102,-.4564603,2002,4,2002.75
+172,"cpi","cpi, cpi inflation",-.138624,-.112308,2002,4,2002.75
+172,"gf","gf, federal government spending",2.6208,.7065085,2002,4,2002.75
+172,"gs","gs, state government spending",-1.28227,-.2266312,2002,4,2002.75
+172,"gy","gy (growth rate of output)",.702351,-.654377,2002,4,2002.75
+172,"hs","hs (housing starts)",.098337,.0262989,2002,4,2002.75
+172,"ip","ip (industrial production)",-2.28922,-1.441506,2002,4,2002.75
+172,"nri","nri, non-residential investment",1.86344,-1.795295,2002,4,2002.75
+172,"pi","pi (inflation)",-.150451,-.1143263,2002,4,2002.75
+172,"ri","ri, residential investment",8.42558,-.163963,2002,4,2002.75
+172,"ue","ue (unemployment rate)",.224314,.0018697,2002,4,2002.75
+173,"3tb","3tb, 3 month t-bills interest rate",-.609829,-.2784134,2003,1,2003
+173,"aaa","aaa, interest rate",-.682506,-.1486585,2003,1,2003
+173,"c","c, consumption",.844011,-.1597782,2003,1,2003
+173,"cpi","cpi, cpi inflation",.100168,-.0594995,2003,1,2003
+173,"gf","gf, federal government spending",1.24802,1.556615,2003,1,2003
+173,"gs","gs, state government spending",-1.08306,-.5597717,2003,1,2003
+173,"gy","gy (growth rate of output)",1.05704,-.2669873,2003,1,2003
+173,"hs","hs (housing starts)",.113621,.0122522,2003,1,2003
+173,"ip","ip (industrial production)",-1.88983,-.7530684,2003,1,2003
+173,"nri","nri, non-residential investment",1.48491,-.522685,2003,1,2003
+173,"pi","pi (inflation)",-.008742,-.0252465,2003,1,2003
+173,"ri","ri, residential investment",8.23513,-.3484814,2003,1,2003
+173,"ue","ue (unemployment rate)",.078739,.1839626,2003,1,2003
+174,"3tb","3tb, 3 month t-bills interest rate",-.499806,-.3284193,2003,2,2003.25
+174,"aaa","aaa, interest rate",-.516,-.2685217,2003,2,2003.25
+174,"c","c, consumption",.535048,-.0866434,2003,2,2003.25
+174,"cpi","cpi, cpi inflation",.123041,-.1938957,2003,2,2003.25
+174,"gf","gf, federal government spending",1.52502,1.341841,2003,2,2003.25
+174,"gs","gs, state government spending",-.526233,-.2688937,2003,2,2003.25
+174,"gy","gy (growth rate of output)",1.31435,-.3313286,2003,2,2003.25
+174,"hs","hs (housing starts)",.132884,.0070589,2003,2,2003.25
+174,"ip","ip (industrial production)",-1.63244,-1.185259,2003,2,2003.25
+174,"nri","nri, non-residential investment",3.80476,-.9837885,2003,2,2003.25
+174,"pi","pi (inflation)",.21722,-.0142198,2003,2,2003.25
+174,"ri","ri, residential investment",10.388,.2482379,2003,2,2003.25
+174,"ue","ue (unemployment rate)",.001194,.096562,2003,2,2003.25
+175,"3tb","3tb, 3 month t-bills interest rate",-.175429,-.4058208,2003,3,2003.5
+175,"aaa","aaa, interest rate",-.299037,-.2662036,2003,3,2003.5
+175,"c","c, consumption",.251585,.2891898,2003,3,2003.5
+175,"cpi","cpi, cpi inflation",.888631,-.2250669,2003,3,2003.5
+175,"gf","gf, federal government spending",.104785,-1.150591,2003,3,2003.5
+175,"gs","gs, state government spending",-.050349,-.369462,2003,3,2003.5
+175,"gy","gy (growth rate of output)",.905195,.2170246,2003,3,2003.5
+175,"hs","hs (housing starts)",.149602,.0161993,2003,3,2003.5
+175,"ip","ip (industrial production)",-1.52181,-.0001857,2003,3,2003.5
+175,"nri","nri, non-residential investment",3.26996,.6161532,2003,3,2003.5
+175,"pi","pi (inflation)",.396364,-.1163749,2003,3,2003.5
+175,"ri","ri, residential investment",10.2694,-.1892143,2003,3,2003.5
+175,"ue","ue (unemployment rate)",-.288407,.2294031,2003,3,2003.5
+176,"3tb","3tb, 3 month t-bills interest rate",-.000718,-.136893,2003,4,2003.75
+176,"aaa","aaa, interest rate",-.441103,-.0249361,2003,4,2003.75
+176,"c","c, consumption",.313657,-.2176002,2003,4,2003.75
+176,"cpi","cpi, cpi inflation",.984874,.1074844,2003,4,2003.75
+176,"gf","gf, federal government spending",-.385242,.9691373,2003,4,2003.75
+176,"gs","gs, state government spending",-.346381,.0836327,2003,4,2003.75
+176,"gy","gy (growth rate of output)",-.107371,.2695921,2003,4,2003.75
+176,"hs","hs (housing starts)",.128434,.0429667,2003,4,2003.75
+176,"ip","ip (industrial production)",-1.36749,.3364432,2003,4,2003.75
+176,"nri","nri, non-residential investment",.892097,1.297287,2003,4,2003.75
+176,"pi","pi (inflation)",.608285,-.0244689,2003,4,2003.75
+176,"ri","ri, residential investment",6.40347,.7357914,2003,4,2003.75
+176,"ue","ue (unemployment rate)",-.233,-.090907,2003,4,2003.75
+177,"3tb","3tb, 3 month t-bills interest rate",.201333,-.0977982,2004,1,2004
+177,"aaa","aaa, interest rate",-.425573,-.2237448,2004,1,2004
+177,"c","c, consumption",.098333,.1112671,2004,1,2004
+177,"cpi","cpi, cpi inflation",1.38866,-.2976162,2004,1,2004
+177,"gf","gf, federal government spending",-.248756,-.1804875,2004,1,2004
+177,"gs","gs, state government spending",-.20729,.017153,2004,1,2004
+177,"gy","gy (growth rate of output)",-.306932,.266296,2004,1,2004
+177,"hs","hs (housing starts)",.082742,.0703952,2004,1,2004
+177,"ip","ip (industrial production)",-1.6442,.8193498,2004,1,2004
+177,"nri","nri, non-residential investment",-.68739,1.307064,2004,1,2004
+177,"pi","pi (inflation)",1.0595,-.2306467,2004,1,2004
+177,"ri","ri, residential investment",7.34108,.5649194,2004,1,2004
+177,"ue","ue (unemployment rate)",-.041511,-.2059697,2004,1,2004
+178,"3tb","3tb, 3 month t-bills interest rate",.2725,.0298333,2004,2,2004.25
+178,"aaa","aaa, interest rate",-.772733,.1106393,2004,2,2004.25
+178,"c","c, consumption",-.103685,.0630864,2004,2,2004.25
+178,"cpi","cpi, cpi inflation",.677962,.5954589,2004,2,2004.25
+178,"gf","gf, federal government spending",-.96935,.481409,2004,2,2004.25
+178,"gs","gs, state government spending",.07026,.2092892,2004,2,2004.25
+178,"gy","gy (growth rate of output)",-.436844,.0591126,2004,2,2004.25
+178,"hs","hs (housing starts)",.103292,.0154428,2004,2,2004.25
+178,"ip","ip (industrial production)",-1.45897,-.1621599,2004,2,2004.25
+178,"nri","nri, non-residential investment",.163332,.0324155,2004,2,2004.25
+178,"pi","pi (inflation)",.706379,.2922187,2004,2,2004.25
+178,"ri","ri, residential investment",8.38582,1.136928,2004,2,2004.25
+178,"ue","ue (unemployment rate)",-.052915,-.0279372,2004,2,2004.25
+179,"3tb","3tb, 3 month t-bills interest rate",.211293,.1507387,2004,3,2004.5
+179,"aaa","aaa, interest rate",-1.03618,-.074925,2004,3,2004.5
+179,"c","c, consumption",.647121,-.3026029,2004,3,2004.5
+179,"cpi","cpi, cpi inflation",.961886,.4782848,2004,3,2004.5
+179,"gf","gf, federal government spending",.696129,.1057797,2004,3,2004.5
+179,"gs","gs, state government spending",-.306437,-.1421735,2004,3,2004.5
+179,"gy","gy (growth rate of output)",.085885,-.2202035,2004,3,2004.5
+179,"hs","hs (housing starts)",.128946,.0126802,2004,3,2004.5
+179,"ip","ip (industrial production)",-1.5118,-.5735497,2004,3,2004.5
+179,"nri","nri, non-residential investment",-.320039,-.4551678,2004,3,2004.5
+179,"pi","pi (inflation)",.459231,.2901326,2004,3,2004.5
+179,"ri","ri, residential investment",6.0198,1.465217,2004,3,2004.5
+179,"ue","ue (unemployment rate)",-.102533,.0014422,2004,3,2004.5
+180,"3tb","3tb, 3 month t-bills interest rate",.342968,-.015358,2004,4,2004.75
+180,"aaa","aaa, interest rate",-.7946,-.485009,2004,4,2004.75
+180,"c","c, consumption",.074273,-.2419919,2004,4,2004.75
+180,"cpi","cpi, cpi inflation",1.40329,-.0655167,2004,4,2004.75
+180,"gf","gf, federal government spending",-.856172,.3877161,2004,4,2004.75
+180,"gs","gs, state government spending",-.52953,.053588,2004,4,2004.75
+180,"gy","gy (growth rate of output)",-.260541,-.1432562,2004,4,2004.75
+180,"hs","hs (housing starts)",.11147,.0443278,2004,4,2004.75
+180,"ip","ip (industrial production)",-.959014,-.3810582,2004,4,2004.75
+180,"nri","nri, non-residential investment",-1.30217,.2580191,2004,4,2004.75
+180,"pi","pi (inflation)",.961979,-.2082679,2004,4,2004.75
+180,"ri","ri, residential investment",5.94055,-.1828947,2004,4,2004.75
+180,"ue","ue (unemployment rate)",-.138984,.0106676,2004,4,2004.75
+181,"3tb","3tb, 3 month t-bills interest rate",.227291,.2932197,2005,1,2005
+181,"aaa","aaa, interest rate",-.641787,-.3693524,2005,1,2005
+181,"c","c, consumption",.148569,.0978026,2005,1,2005
+181,"cpi","cpi, cpi inflation",1.05861,-.0607926,2005,1,2005
+181,"gf","gf, federal government spending",1.1375,.0398578,2005,1,2005
+181,"gs","gs, state government spending",-.309474,-.1153552,2005,1,2005
+181,"gy","gy (growth rate of output)",.110617,.1435298,2005,1,2005
+181,"hs","hs (housing starts)",.111274,.0296011,2005,1,2005
+181,"ip","ip (industrial production)",-1.3023,-.0009056,2005,1,2005
+181,"nri","nri, non-residential investment",.128002,-.3670173,2005,1,2005
+181,"pi","pi (inflation)",.973991,.0112576,2005,1,2005
+181,"ri","ri, residential investment",5.72065,.3584761,2005,1,2005
+181,"ue","ue (unemployment rate)",-.171538,-.0507511,2005,1,2005
+182,"3tb","3tb, 3 month t-bills interest rate",.237939,.1518724,2005,2,2005.25
+182,"aaa","aaa, interest rate",-.530554,-.1834723,2005,2,2005.25
+182,"c","c, consumption",-.10572,.0801318,2005,2,2005.25
+182,"cpi","cpi, cpi inflation",1.07838,.3216845,2005,2,2005.25
+182,"gf","gf, federal government spending",-.126224,.1330615,2005,2,2005.25
+182,"gs","gs, state government spending",.089313,.1392394,2005,2,2005.25
+182,"gy","gy (growth rate of output)",.194426,-.3003672,2005,2,2005.25
+182,"hs","hs (housing starts)",.066167,.0380712,2005,2,2005.25
+182,"ip","ip (industrial production)",-1.59293,-.2423372,2005,2,2005.25
+182,"nri","nri, non-residential investment",-.496991,.6005465,2005,2,2005.25
+182,"pi","pi (inflation)",.851691,.1740562,2005,2,2005.25
+182,"ri","ri, residential investment",1.57778,.9373249,2005,2,2005.25
+182,"ue","ue (unemployment rate)",-.251517,-.0132264,2005,2,2005.25
+183,"3tb","3tb, 3 month t-bills interest rate",.310768,.1126339,2005,3,2005.5
+183,"aaa","aaa, interest rate",-.29269,-.3031521,2005,3,2005.5
+183,"c","c, consumption",-.283694,.083531,2005,3,2005.5
+183,"cpi","cpi, cpi inflation",1.31068,.2088283,2005,3,2005.5
+183,"gf","gf, federal government spending",-.164553,-.0644835,2005,3,2005.5
+183,"gs","gs, state government spending",-.221114,-.1744912,2005,3,2005.5
+183,"gy","gy (growth rate of output)",-.425403,.1785551,2005,3,2005.5
+183,"hs","hs (housing starts)",.015087,.0313402,2005,3,2005.5
+183,"ip","ip (industrial production)",-1.69836,.0280828,2005,3,2005.5
+183,"nri","nri, non-residential investment",-1.29065,.5839539,2005,3,2005.5
+183,"pi","pi (inflation)",.822717,.0266299,2005,3,2005.5
+183,"ri","ri, residential investment",-4.95798,1.292067,2005,3,2005.5
+183,"ue","ue (unemployment rate)",-.177758,-.1428418,2005,3,2005.5
+184,"3tb","3tb, 3 month t-bills interest rate",.21947,.213326,2005,4,2005.75
+184,"aaa","aaa, interest rate",-.40149,.0050117,2005,4,2005.75
+184,"c","c, consumption",.19493,-.4763049,2005,4,2005.75
+184,"cpi","cpi, cpi inflation",-.400068,.2975982,2005,4,2005.75
+184,"gf","gf, federal government spending",-.825463,.4367617,2005,4,2005.75
+184,"gs","gs, state government spending",-.153244,.0861305,2005,4,2005.75
+184,"gy","gy (growth rate of output)",-.653316,.0143124,2005,4,2005.75
+184,"hs","hs (housing starts)",-.041298,.0138954,2005,4,2005.75
+184,"ip","ip (industrial production)",-.903618,-.0258837,2005,4,2005.75
+184,"nri","nri, non-residential investment",-2.03575,-.1166422,2005,4,2005.75
+184,"pi","pi (inflation)",.350072,.1398149,2005,4,2005.75
+184,"ri","ri, residential investment",-9.48836,.3312519,2005,4,2005.75
+184,"ue","ue (unemployment rate)",-.283851,.0164429,2005,4,2005.75
+185,"3tb","3tb, 3 month t-bills interest rate",.174986,.1419258,2006,1,2006
+185,"aaa","aaa, interest rate",-.389263,-.1806,2006,1,2006
+185,"c","c, consumption",.421572,.0189497,2006,1,2006
+185,"cpi","cpi, cpi inflation",-.040148,-.0390199,2006,1,2006
+185,"gf","gf, federal government spending",-1.87118,1.173442,2006,1,2006
+185,"gs","gs, state government spending",.097221,.1453223,2006,1,2006
+185,"gy","gy (growth rate of output)",-.940396,.1164477,2006,1,2006
+185,"hs","hs (housing starts)",-.098994,.0062474,2006,1,2006
+185,"ip","ip (industrial production)",-1.16376,.1816737,2006,1,2006
+185,"nri","nri, non-residential investment",-2.71859,.5724593,2006,1,2006
+185,"pi","pi (inflation)",.614897,-.0746943,2006,1,2006
+185,"ri","ri, residential investment",-11.2445,-.6877055,2006,1,2006
+185,"ue","ue (unemployment rate)",-.263355,-.1077368,2006,1,2006
+186,"3tb","3tb, 3 month t-bills interest rate",-.108102,.293426,2006,2,2006.25
+186,"aaa","aaa, interest rate",-.583703,.1135503,2006,2,2006.25
+186,"c","c, consumption",-.010901,-.0616136,2006,2,2006.25
+186,"cpi","cpi, cpi inflation",.216546,.2626825,2006,2,2006.25
+186,"gf","gf, federal government spending",-1.14103,-.4041776,2006,2,2006.25
+186,"gs","gs, state government spending",.360823,-.1768833,2006,2,2006.25
+186,"gy","gy (growth rate of output)",-.982521,-.0914204,2006,2,2006.25
+186,"hs","hs (housing starts)",-.161884,.0034232,2006,2,2006.25
+186,"ip","ip (industrial production)",-.810754,.235016,2006,2,2006.25
+186,"nri","nri, non-residential investment",-2.72995,.2473562,2006,2,2006.25
+186,"pi","pi (inflation)",.399813,.1619053,2006,2,2006.25
+186,"ri","ri, residential investment",-12.3034,-1.333149,2006,2,2006.25
+186,"ue","ue (unemployment rate)",-.206712,-.1189176,2006,2,2006.25
+187,"3tb","3tb, 3 month t-bills interest rate",-.36713,.1507333,2006,3,2006.5
+187,"aaa","aaa, interest rate",-.661951,-.0300352,2006,3,2006.5
+187,"c","c, consumption",.077997,-.2529452,2006,3,2006.5
+187,"cpi","cpi, cpi inflation",-.26514,.5004063,2006,3,2006.5
+187,"gf","gf, federal government spending",.717735,.2336237,2006,3,2006.5
+187,"gs","gs, state government spending",-.150909,.1424991,2006,3,2006.5
+187,"gy","gy (growth rate of output)",-.308686,-.200484,2006,3,2006.5
+187,"hs","hs (housing starts)",-.180027,-.0392133,2006,3,2006.5
+187,"ip","ip (industrial production)",-.743546,-.0790589,2006,3,2006.5
+187,"nri","nri, non-residential investment",-1.71562,.3644056,2006,3,2006.5
+187,"pi","pi (inflation)",-.12617,.2661445,2006,3,2006.5
+187,"ri","ri, residential investment",-14.1538,-.479313,2006,3,2006.5
+187,"ue","ue (unemployment rate)",-.260016,.029936,2006,3,2006.5
+188,"3tb","3tb, 3 month t-bills interest rate",-.460637,-.1923171,2006,4,2006.75
+188,"aaa","aaa, interest rate",-.266824,-.4992274,2006,4,2006.75
+188,"c","c, consumption",-.248279,.0241095,2006,4,2006.75
+188,"cpi","cpi, cpi inflation",.626994,-.5792733,2006,4,2006.75
+188,"gf","gf, federal government spending",.427652,.2506065,2006,4,2006.75
+188,"gs","gs, state government spending",-.096194,.159227,2006,4,2006.75
+188,"gy","gy (growth rate of output)",-.47357,-.0990244,2006,4,2006.75
+188,"hs","hs (housing starts)",-.18088,-.0717811,2006,4,2006.75
+188,"ip","ip (industrial production)",-.411614,-.4016777,2006,4,2006.75
+188,"nri","nri, non-residential investment",-1.55693,.2017383,2006,4,2006.75
+188,"pi","pi (inflation)",.277634,-.2977004,2006,4,2006.75
+188,"ri","ri, residential investment",-15.255,-2.417195,2006,4,2006.75
+188,"ue","ue (unemployment rate)",-.157167,-.1184787,2006,4,2006.75
+189,"3tb","3tb, 3 month t-bills interest rate",-1.01785,.030851,2007,1,2007
+189,"aaa","aaa, interest rate",-.146824,-.1713197,2007,1,2007
+189,"c","c, consumption",-1.02772,.2599614,2007,1,2007
+189,"cpi","cpi, cpi inflation",1.62904,-.2094957,2007,1,2007
+189,"gf","gf, federal government spending",.732034,-.374794,2007,1,2007
+189,"gs","gs, state government spending",-.462548,.2526514,2007,1,2007
+189,"gy","gy (growth rate of output)",-.853517,.0447904,2007,1,2007
+189,"hs","hs (housing starts)",-.214262,-.0497762,2007,1,2007
+189,"ip","ip (industrial production)",-1.033,-.1367715,2007,1,2007
+189,"nri","nri, non-residential investment",-.410218,.2134176,2007,1,2007
+189,"pi","pi (inflation)",.555889,-.1738875,2007,1,2007
+189,"ri","ri, residential investment",-19.6623,-.7025865,2007,1,2007
+189,"ue","ue (unemployment rate)",-.007181,-.0933908,2007,1,2007
+190,"3tb","3tb, 3 month t-bills interest rate",-1.67808,.0202152,2007,2,2007.25
+190,"aaa","aaa, interest rate",-.020404,-.1494778,2007,2,2007.25
+190,"c","c, consumption",-1.2948,-.1569535,2007,2,2007.25
+190,"cpi","cpi, cpi inflation",1.53683,.4035967,2007,2,2007.25
+190,"gf","gf, federal government spending",2.89975,.7115282,2007,2,2007.25
+190,"gs","gs, state government spending",-.285793,-.2150353,2007,2,2007.25
+190,"gy","gy (growth rate of output)",-.318274,-.1916692,2007,2,2007.25
+190,"hs","hs (housing starts)",-.224491,-.072572,2007,2,2007.25
+190,"ip","ip (industrial production)",-2.54895,-.4814122,2007,2,2007.25
+190,"nri","nri, non-residential investment",.660382,-.6070814,2007,2,2007.25
+190,"pi","pi (inflation)",-.167932,.1850008,2007,2,2007.25
+190,"ri","ri, residential investment",-18.739,-3.540854,2007,2,2007.25
+190,"ue","ue (unemployment rate)",.19662,-.0765404,2007,2,2007.25
+191,"3tb","3tb, 3 month t-bills interest rate",-2.244,-.0566664,2007,3,2007.5
+191,"aaa","aaa, interest rate",-.263534,.1955092,2007,3,2007.5
+191,"c","c, consumption",-2.05216,-.3489731,2007,3,2007.5
+191,"cpi","cpi, cpi inflation",2.36123,-.1859352,2007,3,2007.5
+191,"gf","gf, federal government spending",4.74953,-.1380538,2007,3,2007.5
+191,"gs","gs, state government spending",-.772792,-.0471108,2007,3,2007.5
+191,"gy","gy (growth rate of output)",-1.51538,-.1797244,2007,3,2007.5
+191,"hs","hs (housing starts)",-.275427,-.0604795,2007,3,2007.5
+191,"ip","ip (industrial production)",-6.1382,-.0006294,2007,3,2007.5
+191,"nri","nri, non-residential investment",-2.17979,-.5455699,2007,3,2007.5
+191,"pi","pi (inflation)",.289403,-.1206779,2007,3,2007.5
+191,"ri","ri, residential investment",-19.3584,-3.546077,2007,3,2007.5
+191,"ue","ue (unemployment rate)",.494969,-.032638,2007,3,2007.5
+192,"3tb","3tb, 3 month t-bills interest rate",-2.18137,-.8829728,2007,4,2007.75
+192,"aaa","aaa, interest rate",-.098671,-.2022221,2007,4,2007.75
+192,"c","c, consumption",-2.92328,-.2704493,2007,4,2007.75
+192,"cpi","cpi, cpi inflation",-.218123,.3460581,2007,4,2007.75
+192,"gf","gf, federal government spending",4.43016,.2085752,2007,4,2007.75
+192,"gs","gs, state government spending",-1.56177,.0964497,2007,4,2007.75
+192,"gy","gy (growth rate of output)",-3.21837,-.4482881,2007,4,2007.75
+192,"hs","hs (housing starts)",-.244055,-.172921,2007,4,2007.75
+192,"ip","ip (industrial production)",-9.51721,-.3618773,2007,4,2007.75
+192,"nri","nri, non-residential investment",-7.73706,-.5165581,2007,4,2007.75
+192,"pi","pi (inflation)",-.014669,-.0497769,2007,4,2007.75
+192,"ri","ri, residential investment",-15.5504,-8.005921,2007,4,2007.75
+192,"ue","ue (unemployment rate)",.723581,.1768773,2007,4,2007.75
+193,"3tb","3tb, 3 month t-bills interest rate",-1.24993,-1.632265,2008,1,2008
+193,"aaa","aaa, interest rate",.397702,-.6136614,2008,1,2008
+193,"c","c, consumption",-2.72425,-.4857071,2008,1,2008
+193,"cpi","cpi, cpi inflation",-1.72383,.0963707,2008,1,2008
+193,"gf","gf, federal government spending",3.35717,.2606087,2008,1,2008
+193,"gs","gs, state government spending",-1.83922,-.4173383,2008,1,2008
+193,"gy","gy (growth rate of output)",-4.26944,-.6493381,2008,1,2008
+193,"hs","hs (housing starts)",-.302475,-.1156702,2008,1,2008
+193,"ip","ip (industrial production)",-13.186,-1.231091,2008,1,2008
+193,"nri","nri, non-residential investment",-16.1703,-1.860051,2008,1,2008
+193,"pi","pi (inflation)",-.230557,.0133744,2008,1,2008
+193,"ri","ri, residential investment",-19.7572,-5.770957,2008,1,2008
+193,"ue","ue (unemployment rate)",1.10556,.2666616,2008,1,2008
+194,"3tb","3tb, 3 month t-bills interest rate",-1.10057,-.603413,2008,2,2008.25
+194,"aaa","aaa, interest rate",.138413,.2229377,2008,2,2008.25
+194,"c","c, consumption",-2.74397,-.7333807,2008,2,2008.25
+194,"cpi","cpi, cpi inflation",-2.5227,.6406991,2008,2,2008.25
+194,"gf","gf, federal government spending",4.4863,-.0153826,2008,2,2008.25
+194,"gs","gs, state government spending",-.62208,-.5293666,2008,2,2008.25
+194,"gy","gy (growth rate of output)",-4.20012,-.977664,2008,2,2008.25
+194,"hs","hs (housing starts)",-.356735,-.1082324,2008,2,2008.25
+194,"ip","ip (industrial production)",-15.0177,-.7236291,2008,2,2008.25
+194,"nri","nri, non-residential investment",-17.1204,-2.352173,2008,2,2008.25
+194,"pi","pi (inflation)",-.909855,.2904509,2008,2,2008.25
+194,"ri","ri, residential investment",-19.8785,-6.030518,2008,2,2008.25
+194,"ue","ue (unemployment rate)",1.77081,.1246921,2008,2,2008.25
+195,"3tb","3tb, 3 month t-bills interest rate",-1.63716,.0662102,2008,3,2008.5
+195,"aaa","aaa, interest rate",-.256437,.2668405,2008,3,2008.5
+195,"c","c, consumption",-2.14235,-.8671565,2008,3,2008.5
+195,"cpi","cpi, cpi inflation",-3.02635,.4588617,2008,3,2008.5
+195,"gf","gf, federal government spending",4.47284,-.14124,2008,3,2008.5
+195,"gs","gs, state government spending",-1.21609,-.1933608,2008,3,2008.5
+195,"gy","gy (growth rate of output)",-4.34883,-.7029322,2008,3,2008.5
+195,"hs","hs (housing starts)",-.452093,-.043944,2008,3,2008.5
+195,"ip","ip (industrial production)",-12.7011,-.9587912,2008,3,2008.5
+195,"nri","nri, non-residential investment",-17.4288,-1.539341,2008,3,2008.5
+195,"pi","pi (inflation)",-1.05672,.1540886,2008,3,2008.5
+195,"ri","ri, residential investment",-16.8062,-4.270551,2008,3,2008.5
+195,"ue","ue (unemployment rate)",2.15381,.3951031,2008,3,2008.5
+196,"3tb","3tb, 3 month t-bills interest rate",-.707729,-1.376121,2008,4,2008.75
+196,"aaa","aaa, interest rate",-.411394,.0477842,2008,4,2008.75
+196,"c","c, consumption",-.396595,-1.385126,2008,4,2008.75
+196,"cpi","cpi, cpi inflation",-1.53035,-1.935461,2008,4,2008.75
+196,"gf","gf, federal government spending",1.88767,-.1181282,2008,4,2008.75
+196,"gs","gs, state government spending",-1.5022,-.2132818,2008,4,2008.75
+196,"gy","gy (growth rate of output)",-1.37379,-2.014921,2008,4,2008.75
+196,"hs","hs (housing starts)",-.39545,-.1713277,2008,4,2008.75
+196,"ip","ip (industrial production)",-6.63795,-3.35877,2008,4,2008.75
+196,"nri","nri, non-residential investment",-11.2002,-6.986184,2008,4,2008.75
+196,"pi","pi (inflation)",-1.55578,-.1851119,2008,4,2008.75
+196,"ri","ri, residential investment",-11.5229,-7.782493,2008,4,2008.75
+196,"ue","ue (unemployment rate)",1.5529,1.24505,2008,4,2008.75
+197,"3tb","3tb, 3 month t-bills interest rate",-.248213,-.6052383,2009,1,2009
+197,"aaa","aaa, interest rate",.081032,-.6054562,2009,1,2009
+197,"c","c, consumption",.463805,-1.048316,2009,1,2009
+197,"cpi","cpi, cpi inflation",.565712,-1.24573,2009,1,2009
+197,"gf","gf, federal government spending",-1.54819,1.751393,2009,1,2009
+197,"gs","gs, state government spending",-2.13795,.24553,2009,1,2009
+197,"gy","gy (growth rate of output)",.897609,-1.806767,2009,1,2009
+197,"hs","hs (housing starts)",-.150186,-.3064881,2009,1,2009
+197,"ip","ip (industrial production)",-.871949,-2.922536,2009,1,2009
+197,"nri","nri, non-residential investment",-2.8502,-5.285295,2009,1,2009
+197,"pi","pi (inflation)",-.508827,-.8938444,2009,1,2009
+197,"ri","ri, residential investment",-8.23559,-8.349009,2009,1,2009
+197,"ue","ue (unemployment rate)",.876231,1.008066,2009,1,2009
+198,"3tb","3tb, 3 month t-bills interest rate",-.272187,-.0923549,2009,2,2009.25
+198,"aaa","aaa, interest rate",-.058686,.0539745,2009,2,2009.25
+198,"c","c, consumption",-.135519,.0079241,2009,2,2009.25
+198,"cpi","cpi, cpi inflation",.227479,-.0071461,2009,2,2009.25
+198,"gf","gf, federal government spending",.727462,.3487643,2009,2,2009.25
+198,"gs","gs, state government spending",-1.83174,-.1109523,2009,2,2009.25
+198,"gy","gy (growth rate of output)",1.1056,-.1101926,2009,2,2009.25
+198,"hs","hs (housing starts)",-.079472,-.121347,2009,2,2009.25
+198,"ip","ip (industrial production)",4.06821,-1.854769,2009,2,2009.25
+198,"nri","nri, non-residential investment",8.22766,-2.341406,2009,2,2009.25
+198,"pi","pi (inflation)",-.788203,.151222,2009,2,2009.25
+198,"ri","ri, residential investment",.023029,-3.230098,2009,2,2009.25
+198,"ue","ue (unemployment rate)",.124179,.8152964,2009,2,2009.25
+199,"3tb","3tb, 3 month t-bills interest rate",-.38078,-.0290622,2009,3,2009.5
+199,"aaa","aaa, interest rate",-.583857,.3010578,2009,3,2009.5
+199,"c","c, consumption",.202691,-.0362228,2009,3,2009.5
+199,"cpi","cpi, cpi inflation",-.267983,.095071,2009,3,2009.5
+199,"gf","gf, federal government spending",-.184964,-.0028925,2009,3,2009.5
+199,"gs","gs, state government spending",-2.54356,-.5255961,2009,3,2009.5
+199,"gy","gy (growth rate of output)",.365024,.7064404,2009,3,2009.5
+199,"hs","hs (housing starts)",-.182848,.029456,2009,3,2009.5
+199,"ip","ip (industrial production)",3.64063,1.833151,2009,3,2009.5
+199,"nri","nri, non-residential investment",7.15438,.9950788,2009,3,2009.5
+199,"pi","pi (inflation)",-.619997,-.1119858,2009,3,2009.5
+199,"ri","ri, residential investment",-7.51849,-.9655927,2009,3,2009.5
+199,"ue","ue (unemployment rate)",-.016827,.1107378,2009,3,2009.5
+200,"3tb","3tb, 3 month t-bills interest rate",-.301191,-.252464,2009,4,2009.75
+200,"aaa","aaa, interest rate",-.332063,-.3979664,2009,4,2009.75
+200,"c","c, consumption",.472725,-.1082171,2009,4,2009.75
+200,"cpi","cpi, cpi inflation",-.166509,-.1259162,2009,4,2009.75
+200,"gf","gf, federal government spending",-1.20321,-.3362456,2009,4,2009.75
+200,"gs","gs, state government spending",-2.76014,-.3601414,2009,4,2009.75
+200,"gy","gy (growth rate of output)",.288367,.1199872,2009,4,2009.75
+200,"hs","hs (housing starts)",-.245246,-.0394932,2009,4,2009.75
+200,"ip","ip (industrial production)",1.71978,1.019481,2009,4,2009.75
+200,"nri","nri, non-residential investment",6.99049,-.4483163,2009,4,2009.75
+200,"pi","pi (inflation)",-.215086,-.2150783,2009,4,2009.75
+200,"ri","ri, residential investment",-13.7448,1.478148,2009,4,2009.75
+200,"ue","ue (unemployment rate)",-.364441,.3794031,2009,4,2009.75
+201,"3tb","3tb, 3 month t-bills interest rate",-.406499,-.1009824,2010,1,2010
+201,"aaa","aaa, interest rate",-.45434,.0206105,2010,1,2010
+201,"c","c, consumption",.212499,.1584838,2010,1,2010
+201,"cpi","cpi, cpi inflation",.02326,.0636916,2010,1,2010
+201,"gf","gf, federal government spending",-2.61151,-.2352278,2010,1,2010
+201,"gs","gs, state government spending",-2.76739,-.1710285,2010,1,2010
+201,"gy","gy (growth rate of output)",-.705414,.0772004,2010,1,2010
+201,"hs","hs (housing starts)",-.237233,-.0864234,2010,1,2010
+201,"ip","ip (industrial production)",.549349,.8802261,2010,1,2010
+201,"nri","nri, non-residential investment",4.8388,1.24594,2010,1,2010
+201,"pi","pi (inflation)",.255793,-.0205443,2010,1,2010
+201,"ri","ri, residential investment",-14.2757,-1.302753,2010,1,2010
+201,"ue","ue (unemployment rate)",-.217083,-.2381642,2010,1,2010
+202,"3tb","3tb, 3 month t-bills interest rate",-.508179,-.1686423,2010,2,2010.25
+202,"aaa","aaa, interest rate",-.556837,-.0648363,2010,2,2010.25
+202,"c","c, consumption",-.472263,.3575582,2010,2,2010.25
+202,"cpi","cpi, cpi inflation",.916735,-.0369109,2010,2,2010.25
+202,"gf","gf, federal government spending",-2.24166,.2154691,2010,2,2010.25
+202,"gs","gs, state government spending",-1.94246,-.6396834,2010,2,2010.25
+202,"gy","gy (growth rate of output)",-1.42572,.2201973,2010,2,2010.25
+202,"hs","hs (housing starts)",-.279523,-.0578981,2010,2,2010.25
+202,"ip","ip (industrial production)",-.885654,.3787676,2010,2,2010.25
+202,"nri","nri, non-residential investment",3.2913,1.007342,2010,2,2010.25
+202,"pi","pi (inflation)",.596595,-.0347874,2010,2,2010.25
+202,"ri","ri, residential investment",-11.3536,-1.885467,2010,2,2010.25
+202,"ue","ue (unemployment rate)",-.034894,-.1781919,2010,2,2010.25
+203,"3tb","3tb, 3 month t-bills interest rate",-.319059,-.4226864,2010,3,2010.5
+203,"aaa","aaa, interest rate",-.197428,-.6114646,2010,3,2010.5
+203,"c","c, consumption",-.302634,-.297124,2010,3,2010.5
+203,"cpi","cpi, cpi inflation",1.59166,-.3663883,2010,3,2010.5
+203,"gf","gf, federal government spending",-4.20692,.3234437,2010,3,2010.5
+203,"gs","gs, state government spending",-2.70348,.0015379,2010,3,2010.5
+203,"gy","gy (growth rate of output)",-1.19387,-.3082572,2010,3,2010.5
+203,"hs","hs (housing starts)",-.210122,-.1421636,2010,3,2010.5
+203,"ip","ip (industrial production)",-1.10332,-.3432115,2010,3,2010.5
+203,"nri","nri, non-residential investment",1.81666,1.383615,2010,3,2010.5
+203,"pi","pi (inflation)",.878266,-.1510328,2010,3,2010.5
+203,"ri","ri, residential investment",-13.2448,-4.238829,2010,3,2010.5
+203,"ue","ue (unemployment rate)",-.126557,.1393037,2010,3,2010.5
+204,"3tb","3tb, 3 month t-bills interest rate",-.264723,-.2088698,2010,4,2010.75
+204,"aaa","aaa, interest rate",-.013236,-.4706723,2010,4,2010.75
+204,"c","c, consumption",-.432652,-.0767533,2010,4,2010.75
+204,"cpi","cpi, cpi inflation",1.52273,.0116057,2010,4,2010.75
+204,"gf","gf, federal government spending",-5.43079,-.0445754,2010,4,2010.75
+204,"gs","gs, state government spending",-2.45897,-.4595992,2010,4,2010.75
+204,"gy","gy (growth rate of output)",-.844134,-.2430418,2010,4,2010.75
+204,"hs","hs (housing starts)",-.164082,-.0849756,2010,4,2010.75
+204,"ip","ip (industrial production)",-1.00291,-.6478534,2010,4,2010.75
+204,"nri","nri, non-residential investment",1.97324,-.4290167,2010,4,2010.75
+204,"pi","pi (inflation)",.614171,.0374761,2010,4,2010.75
+204,"ri","ri, residential investment",-4.61692,-3.63719,2010,4,2010.75
+204,"ue","ue (unemployment rate)",-.308007,.1561029,2010,4,2010.75
+205,"3tb","3tb, 3 month t-bills interest rate",-.25335,-.1295422,2011,1,2011
+205,"aaa","aaa, interest rate",-.746706,.4455134,2011,1,2011
+205,"c","c, consumption",-1.13038,.5422133,2011,1,2011
+205,"cpi","cpi, cpi inflation",1.21287,.109202,2011,1,2011
+205,"gf","gf, federal government spending",-4.69843,-.8606339,2011,1,2011
+205,"gs","gs, state government spending",-2.24864,-.2903659,2011,1,2011
+205,"gy","gy (growth rate of output)",-1.55489,.5913147,2011,1,2011
+205,"hs","hs (housing starts)",-.08207,-.0950668,2011,1,2011
+205,"ip","ip (industrial production)",-.622135,.2900314,2011,1,2011
+205,"nri","nri, non-residential investment",.13498,1.978841,2011,1,2011
+205,"pi","pi (inflation)",.62728,-.102925,2011,1,2011
+205,"ri","ri, residential investment",-3.36109,-.5820659,2011,1,2011
+205,"ue","ue (unemployment rate)",-.216429,-.2095816,2011,1,2011
+206,"3tb","3tb, 3 month t-bills interest rate",-.372338,-.0420112,2011,2,2011.25
+206,"aaa","aaa, interest rate",-1.15997,.0475927,2011,2,2011.25
+206,"c","c, consumption",-1.09214,-.1237686,2011,2,2011.25
+206,"cpi","cpi, cpi inflation",.14727,.7277565,2011,2,2011.25
+206,"gf","gf, federal government spending",-2.73502,-.165007,2011,2,2011.25
+206,"gs","gs, state government spending",-1.71918,-.2168684,2011,2,2011.25
+206,"gy","gy (growth rate of output)",-1.20648,-.1120943,2011,2,2011.25
+206,"hs","hs (housing starts)",-.001038,-.1042114,2011,2,2011.25
+206,"ip","ip (industrial production)",-.467481,.2670316,2011,2,2011.25
+206,"nri","nri, non-residential investment",.58116,.159069,2011,2,2011.25
+206,"pi","pi (inflation)",.056522,.4098684,2011,2,2011.25
+206,"ri","ri, residential investment",.233452,-3.7298,2011,2,2011.25
+206,"ue","ue (unemployment rate)",.135158,-.369658,2011,2,2011.25
+207,"3tb","3tb, 3 month t-bills interest rate",-.210797,-.2968874,2011,3,2011.5
+207,"aaa","aaa, interest rate",-1.07325,-.5192,2011,3,2011.5
+207,"c","c, consumption",-.353795,-.6139423,2011,3,2011.5
+207,"cpi","cpi, cpi inflation",-.125059,-.1461572,2011,3,2011.5
+207,"gf","gf, federal government spending",-.014432,-1.07794,2011,3,2011.5
+207,"gs","gs, state government spending",-.799599,-.5313433,2011,3,2011.5
+207,"gy","gy (growth rate of output)",-.220428,-.7581776,2011,3,2011.5
+207,"hs","hs (housing starts)",.084125,-.0801792,2011,3,2011.5
+207,"ip","ip (industrial production)",.614312,-1.069616,2011,3,2011.5
+207,"nri","nri, non-residential investment",.518908,-1.567566,2011,3,2011.5
+207,"pi","pi (inflation)",.098269,.0011483,2011,3,2011.5
+207,"ri","ri, residential investment",5.05721,-4.903996,2011,3,2011.5
+207,"ue","ue (unemployment rate)",-.421391,.4874842,2011,3,2011.5
+208,"3tb","3tb, 3 month t-bills interest rate",-.086559,-.1766971,2011,4,2011.75
+208,"aaa","aaa, interest rate",-.61472,-.74309,2011,4,2011.75
+208,"c","c, consumption",-.459006,.0520999,2011,4,2011.75
+208,"cpi","cpi, cpi inflation",-.219448,-.0332802,2011,4,2011.75
+208,"gf","gf, federal government spending",-1.95725,-.1480348,2011,4,2011.75
+208,"gs","gs, state government spending",-.158045,-.5756234,2011,4,2011.75
+208,"gy","gy (growth rate of output)",-.452495,-.0312844,2011,4,2011.75
+208,"hs","hs (housing starts)",.124487,-.0120071,2011,4,2011.75
+208,"ip","ip (industrial production)",.460975,-.5363637,2011,4,2011.75
+208,"nri","nri, non-residential investment",-.453166,-.6641788,2011,4,2011.75
+208,"pi","pi (inflation)",-.364589,.0575517,2011,4,2011.75
+208,"ri","ri, residential investment",8.07745,-1.368601,2011,4,2011.75
+208,"ue","ue (unemployment rate)",-.664069,.1067827,2011,4,2011.75
+209,"3tb","3tb, 3 month t-bills interest rate",.005155,-.1048614,2012,1,2012
+209,"aaa","aaa, interest rate",-.403305,-.3245752,2012,1,2012
+209,"c","c, consumption",-.518901,.084409,2012,1,2012
+209,"cpi","cpi, cpi inflation",-.348239,-.0119222,2012,1,2012
+209,"gf","gf, federal government spending",-2.92903,.2774782,2012,1,2012
+209,"gs","gs, state government spending",-.544474,-.0779991,2012,1,2012
+209,"gy","gy (growth rate of output)",-1.07312,.0067988,2012,1,2012
+209,"hs","hs (housing starts)",.107577,.0414055,2012,1,2012
+209,"ip","ip (industrial production)",-.26235,.6436301,2012,1,2012
+209,"nri","nri, non-residential investment",-3.64259,.4791442,2012,1,2012
+209,"pi","pi (inflation)",-.170397,-.0322481,2012,1,2012
+209,"ri","ri, residential investment",5.91265,.498686,2012,1,2012
+209,"ue","ue (unemployment rate)",-.215886,-.5429072,2012,1,2012
+210,"3tb","3tb, 3 month t-bills interest rate",-.03101,.0106641,2012,2,2012.25
+210,"aaa","aaa, interest rate",-.38716,-.111289,2012,2,2012.25
+210,"c","c, consumption",-.565816,-.1142488,2012,2,2012.25
+210,"cpi","cpi, cpi inflation",-.684157,-.0111434,2012,2,2012.25
+210,"gf","gf, federal government spending",-3.3139,1.153613,2012,2,2012.25
+210,"gs","gs, state government spending",-.368506,.0912374,2012,2,2012.25
+210,"gy","gy (growth rate of output)",-.987031,-.0816293,2012,2,2012.25
+210,"hs","hs (housing starts)",.109707,-.0063421,2012,2,2012.25
+210,"ip","ip (industrial production)",-.509343,-.4098572,2012,2,2012.25
+210,"nri","nri, non-residential investment",-4.52791,.597063,2012,2,2012.25
+210,"pi","pi (inflation)",-.455918,.0114604,2012,2,2012.25
+210,"ri","ri, residential investment",4.86926,-1.025807,2012,2,2012.25
+210,"ue","ue (unemployment rate)",-.06575,-.1920866,2012,2,2012.25
+211,"3tb","3tb, 3 month t-bills interest rate",-.081255,.0137735,2012,3,2012.5
+211,"aaa","aaa, interest rate",.093912,-.4666965,2012,3,2012.5
+211,"c","c, consumption",-.222417,-.3500161,2012,3,2012.5
+211,"cpi","cpi, cpi inflation",-.416837,-.1737912,2012,3,2012.5
+211,"gf","gf, federal government spending",-2.7163,-.3132413,2012,3,2012.5
+211,"gs","gs, state government spending",.456149,-.6152931,2012,3,2012.5
+211,"gy","gy (growth rate of output)",.162565,-.7171524,2012,3,2012.5
+211,"hs","hs (housing starts)",.069975,.0365835,2012,3,2012.5
+211,"ip","ip (industrial production)",-.434285,-.4483017,2012,3,2012.5
+211,"nri","nri, non-residential investment",-2.96366,-1.216982,2012,3,2012.5
+211,"pi","pi (inflation)",-.477839,.0022179,2012,3,2012.5
+211,"ri","ri, residential investment",3.68574,.4422576,2012,3,2012.5
+211,"ue","ue (unemployment rate)",-.352101,.1979209,2012,3,2012.5
+212,"3tb","3tb, 3 month t-bills interest rate",-.066092,-.0472479,2012,4,2012.75
+212,"aaa","aaa, interest rate",.305653,-.1106942,2012,4,2012.75
+212,"c","c, consumption",.03653,-.0895878,2012,4,2012.75
+212,"cpi","cpi, cpi inflation",-.719738,.0728518,2012,4,2012.75
+212,"gf","gf, federal government spending",-6.22189,-.67888,2012,4,2012.75
+212,"gs","gs, state government spending",.120176,-.1159054,2012,4,2012.75
+212,"gy","gy (growth rate of output)",-.131488,.0524872,2012,4,2012.75
+212,"hs","hs (housing starts)",.039396,.0472556,2012,4,2012.75
+212,"ip","ip (industrial production)",.258319,-.1579669,2012,4,2012.75
+212,"nri","nri, non-residential investment",-1.30423,-.8707779,2012,4,2012.75
+212,"pi","pi (inflation)",-.574778,-.0795434,2012,4,2012.75
+212,"ri","ri, residential investment",-3.23583,2.003425,2012,4,2012.75
+212,"ue","ue (unemployment rate)",-.338145,-.1402799,2012,4,2012.75
+213,"3tb","3tb, 3 month t-bills interest rate",-.066879,-.0237094,2013,1,2013
+213,"aaa","aaa, interest rate",.349322,.0179245,2013,1,2013
+213,"c","c, consumption",.272744,-.1060371,2013,1,2013
+213,"cpi","cpi, cpi inflation",-.657072,-.1413406,2013,1,2013
+213,"gf","gf, federal government spending",-4.01111,.6958727,2013,1,2013
+213,"gs","gs, state government spending",-.246393,.0436697,2013,1,2013
+213,"gy","gy (growth rate of output)",-.441304,.100843,2013,1,2013
+213,"hs","hs (housing starts)",-.068232,.073078,2013,1,2013
+213,"ip","ip (industrial production)",.184969,.1832625,2013,1,2013
+213,"nri","nri, non-residential investment",-3.84821,-.3933743,2013,1,2013
+213,"pi","pi (inflation)",-.509666,-.0951804,2013,1,2013
+213,"ri","ri, residential investment",-8.76548,.7264844,2013,1,2013
+213,"ue","ue (unemployment rate)",-.400494,-.0899071,2013,1,2013
+214,"3tb","3tb, 3 month t-bills interest rate",-.074461,-.0195397,2013,2,2013.25
+214,"aaa","aaa, interest rate",.347149,-.0378254,2013,2,2013.25
+214,"c","c, consumption",.169404,.0432807,2013,2,2013.25
+214,"cpi","cpi, cpi inflation",-.177407,-.2483995,2013,2,2013.25
+214,"gf","gf, federal government spending",-1.57328,-.879253,2013,2,2013.25
+214,"gs","gs, state government spending",.222023,-.3697217,2013,2,2013.25
+214,"gy","gy (growth rate of output)",-.12382,-.1479774,2013,2,2013.25
+214,"hs","hs (housing starts)",-.122411,.0353353,2013,2,2013.25
+214,"ip","ip (industrial production)",.400962,-.0400928,2013,2,2013.25
+214,"nri","nri, non-residential investment",-2.6959,.0098895,2013,2,2013.25
+214,"pi","pi (inflation)",-.386287,-.1612771,2013,2,2013.25
+214,"ri","ri, residential investment",-11.04,.8245602,2013,2,2013.25
+214,"ue","ue (unemployment rate)",-.471453,-.1122819,2013,2,2013.25
+215,"3tb","3tb, 3 month t-bills interest rate",-.045357,-.0367092,2013,3,2013.5
+215,"aaa","aaa, interest rate",.015676,.3697,2013,3,2013.5
+215,"c","c, consumption",.390935,-.0997266,2013,3,2013.5
+215,"cpi","cpi, cpi inflation",.183589,-.2051683,2013,3,2013.5
+215,"gf","gf, federal government spending",-2.53181,-.4698907,2013,3,2013.5
+215,"gs","gs, state government spending",-.02472,-.0367591,2013,3,2013.5
+215,"gy","gy (growth rate of output)",-.222873,-.1679854,2013,3,2013.5
+215,"hs","hs (housing starts)",-.046347,-.0737103,2013,3,2013.5
+215,"ip","ip (industrial production)",1.26366,-.4913857,2013,3,2013.5
+215,"nri","nri, non-residential investment",-2.56105,-.8052821,2013,3,2013.5
+215,"pi","pi (inflation)",-.124438,-.1046796,2013,3,2013.5
+215,"ri","ri, residential investment",-12.5549,-2.076869,2013,3,2013.5
+215,"ue","ue (unemployment rate)",-.510739,-.0567573,2013,3,2013.5
+216,"3tb","3tb, 3 month t-bills interest rate",-.033247,-.0184435,2013,4,2013.75
+216,"aaa","aaa, interest rate",-.227376,.1817463,2013,4,2013.75
+216,"c","c, consumption",.766519,-.0424711,2013,4,2013.75
+216,"cpi","cpi, cpi inflation",.27595,-.0170837,2013,4,2013.75
+216,"gf","gf, federal government spending",-4.30623,-.1318609,2013,4,2013.75
+216,"gs","gs, state government spending",-.88566,.0051905,2013,4,2013.75
+216,"gy","gy (growth rate of output)",-.815078,-.2285243,2013,4,2013.75
+216,"hs","hs (housing starts)",.002255,-.0340324,2013,4,2013.75
+216,"ip","ip (industrial production)",1.53021,.2488192,2013,4,2013.75
+216,"nri","nri, non-residential investment",-3.13729,-.6201669,2013,4,2013.75
+216,"pi","pi (inflation)",-.411105,.0394836,2013,4,2013.75
+216,"ri","ri, residential investment",-19.063,1.691144,2013,4,2013.75
+216,"ue","ue (unemployment rate)",-.493613,-.1265528,2013,4,2013.75
+217,"3tb","3tb, 3 month t-bills interest rate",-.037083,-.0075292,2014,1,2014
+217,"aaa","aaa, interest rate",-.334606,-.0327429,2014,1,2014
+217,"c","c, consumption",.401749,.089629,2014,1,2014
+217,"cpi","cpi, cpi inflation",.748001,-.1206695,2014,1,2014
+217,"gf","gf, federal government spending",-1.792,.9037054,2014,1,2014
+217,"gs","gs, state government spending",-1.66439,.1700118,2014,1,2014
+217,"gy","gy (growth rate of output)",-1.9195,-.0868493,2014,1,2014
+217,"hs","hs (housing starts)",-.059718,.0208485,2014,1,2014
+217,"ip","ip (industrial production)",1.35147,.1319574,2014,1,2014
+217,"nri","nri, non-residential investment",-6.79192,.5291983,2014,1,2014
+217,"pi","pi (inflation)",-.536736,-.0275918,2014,1,2014
+217,"ri","ri, residential investment",-17.7308,-.2360481,2014,1,2014
+217,"ue","ue (unemployment rate)",-.189009,-.4132043,2014,1,2014
+218,"3tb","3tb, 3 month t-bills interest rate",-.02874,-.031252,2014,2,2014.25
+218,"aaa","aaa, interest rate",-.178734,-.2660232,2014,2,2014.25
+218,"c","c, consumption",,.0458235,2014,2,2014.25
+218,"cpi","cpi, cpi inflation",1.05549,.0085312,2014,2,2014.25
+218,"gf","gf, federal government spending",,.5832822,2014,2,2014.25
+218,"gs","gs, state government spending",,.0703829,2014,2,2014.25
+218,"gy","gy (growth rate of output)",,.1320884,2014,2,2014.25
+218,"hs","hs (housing starts)",.049587,-.0537139,2014,2,2014.25
+218,"ip","ip (industrial production)",1.09425,.4690699,2014,2,2014.25
+218,"nri","nri, non-residential investment",,.1626222,2014,2,2014.25
+218,"pi","pi (inflation)",,-.0242402,2014,2,2014.25
+218,"ri","ri, residential investment",,-1.697374,2014,2,2014.25
+218,"ue","ue (unemployment rate)",-.147367,-.1693928,2014,2,2014.25
+219,"3tb","3tb, 3 month t-bills interest rate",,-.027042,2014,3,2014.5
+219,"aaa","aaa, interest rate",,-.1635122,2014,3,2014.5
+219,"c","c, consumption",,-.0204177,2014,3,2014.5
+219,"cpi","cpi, cpi inflation",,.211099,2014,3,2014.5
+219,"gf","gf, federal government spending",,.4539708,2014,3,2014.5
+219,"gs","gs, state government spending",,-.3482159,2014,3,2014.5
+219,"gy","gy (growth rate of output)",,,2014,3,2014.5
+219,"hs","hs (housing starts)",,,2014,3,2014.5
+219,"ip","ip (industrial production)",,,2014,3,2014.5
+219,"nri","nri, non-residential investment",,.236839,2014,3,2014.5
+219,"pi","pi (inflation)",,,2014,3,2014.5
+219,"ri","ri, residential investment",,-1.101262,2014,3,2014.5
+219,"ue","ue (unemployment rate)",,,2014,3,2014.5
