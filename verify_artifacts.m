@@ -10,35 +10,34 @@ function passed = verify_artifacts()
 setup_paths();
 paths = struct('results', fullfile(pwd, 'results'));
 
-% Daily empirics: per-spec forecastResults / OOSResults plus aggregates.
+% Daily empirics: canonical forecastResults plus the 7 OOS files that
+% displayResults consumes (table3 needs sgn=1/2/3 canonical, tableA2 needs
+% the sgn=2 window-robustness sweep, table2/figure2/computeSignifCell need
+% the canonical sgn=1 forecast).
 checks = struct('relPath', {}, 'requiredVars', {});
 
-dailySpecs = {
-    {0, 0, 2.7, 1};   {0, 0, 2.5, 0.5}; {0, 0, 2.5, 1.5};
-    {0, 0, 2,   1};   {0, 0, 3,   1};
-    {1, 0, 2.7, 1};   {1, 0, 2.5, 0.5}; {1, 0, 2.5, 1.5};
-    {1, 0, 2,   1};   {1, 0, 3,   1};
-    {1, 1, 2.7, 1};   {1, 1, 2.5, 0.5}; {1, 1, 2.5, 1.5};
-    {1, 1, 2,   1};   {1, 1, 3,   1}};
-for k = 1:numel(dailySpecs)
-    spec = dailySpecs{k};
-    [eLabel, dmLabel, rLabel] = buildSpecLabels(cell2mat(spec));
-    forecastFile = sprintf('forecastResults%s%s%s_1S_pm.mat', rLabel, eLabel, dmLabel);
-    oosFile      = sprintf('OOSResults%s%s%s.mat',       rLabel, eLabel, dmLabel);
-    checks(end+1) = struct('relPath', fullfile('daily', forecastFile), ...
-        'requiredVars', {{'yF1Mat', 'yF2Mat', 'pocketIndMat', 'integralR2Mat', 'durationMat'}}); %#ok<AGROW>
-    checks(end+1) = struct('relPath', fullfile('daily', oosFile), ...
+checks(end+1) = struct('relPath', fullfile('daily', 'forecastResults_1_2.5yE_1yDM_1S_pm.mat'), ...
+    'requiredVars', {{'yF1Mat', 'yF2Mat', 'pocketIndMat', 'integralR2Mat', 'durationMat'}});
+
+dailyOosFiles = {
+    'OOSResults_1_2.5yE_1yDM.mat'    % sgn=1 canonical (table3)
+    'OOSResults_2_2.5yE_1yDM.mat'    % sgn=2 canonical (table3, aggregates)
+    'OOSResults_2_2.5yE_6mDM.mat'    % sgn=2 windowed (tableA2)
+    'OOSResults_2_2.5yE_1.5yDM.mat'  % sgn=2 windowed (tableA2)
+    'OOSResults_2_2yE_1yDM.mat'      % sgn=2 windowed (tableA2)
+    'OOSResults_2_3yE_1yDM.mat'      % sgn=2 windowed (tableA2)
+    'OOSResults_3_2.5yE_1yDM.mat'};  % sgn=3 canonical (table3)
+for k = 1:numel(dailyOosFiles)
+    checks(end+1) = struct('relPath', fullfile('daily', dailyOosFiles{k}), ...
         'requiredVars', {{'statMat', 'statDiffMat', 'econMat'}}); %#ok<AGROW>
 end
 
-% Monthly empirics
-monthlySpecs = {{0, 0}, {1, 0}, {1, 1}};
-for k = 1:numel(monthlySpecs)
-    sr = monthlySpecs{k}{1}; cr = monthlySpecs{k}{2};
-    sgn = sr*1 + cr*1 + 1;   % 1, 2, 3
-    checks(end+1) = struct('relPath', fullfile('monthly', sprintf( ...
-        'forecastResultsMonthly_%d_2.5yE_1yDM_1S_pm.mat', sgn)), ...
-        'requiredVars', {{'durationMat', 'integralR2Mat', 'pocketIndMat'}}); %#ok<AGROW>
+% Monthly empirics: only the sgn=1 forecast file (consumed by tableA5);
+% all 3 OOS files (consumed by tableA6).
+checks(end+1) = struct('relPath', fullfile('monthly', ...
+    'forecastResultsMonthly_1_2.5yE_1yDM_1S_pm.mat'), ...
+    'requiredVars', {{'durationMat', 'integralR2Mat', 'pocketIndMat'}});
+for sgn = 1:3
     checks(end+1) = struct('relPath', fullfile('monthly', sprintf( ...
         'OOSResultsMonthly_%d_2.5yE_1yDM.mat', sgn)), ...
         'requiredVars', {{'statMat', 'statDiffMat', 'econMat'}}); %#ok<AGROW>
@@ -57,15 +56,11 @@ for g = [1, 3]
         'requiredVars', {{'statMat', 'statDiffMat', 'econMat'}}); %#ok<AGROW>
 end
 
-% Hyperparameter sweep (signSpec ∈ {1, 2})
-for s = [1, 2]
-    checks(end+1) = struct('relPath', fullfile('hyperparameters', sprintf( ...
-        'forecastResults_%d_2.5yE_1yDM_1S_pm_HyperR1.mat', s)), ...
-        'requiredVars', {{'yActual', 'yF1PMMat', 'yF2All', 'pocketIndAll', 'paramCombs'}}); %#ok<AGROW>
-    checks(end+1) = struct('relPath', fullfile('hyperparameters', sprintf( ...
-        'OOSResults_%d_HyperR1_ExpandingC.mat', s)), ...
-        'requiredVars', {{'alphMatExpanding', 'tStatAlphMatExpanding'}}); %#ok<AGROW>
-end
+% Hyperparameter sweep intermediates (forecastResults_*_HyperR1.mat,
+% OOSResults_*_HyperR1_ExpandingC.mat) are produced by Hyperparameters1/2,
+% consumed by HyperparametersMarginals to build aggregates/topKbotK.mat,
+% and then no longer needed. They are intentionally absent from the public
+% archive; verify_artifacts checks the downstream aggregates only.
 
 % Aggregates
 checks(end+1) = struct('relPath', fullfile('aggregates', 'tab1Results.mat'), ...
@@ -79,8 +74,8 @@ checks(end+1) = struct('relPath', fullfile('aggregates', 'topKbotK.mat'), ...
 checks(end+1) = struct('relPath', fullfile('aggregates', 'signifCell.mat'), ...
     'requiredVars', {{'signifCell'}});
 
-% Asset-pricing model bootstraps
-apModels = {'BY', 'CC', 'GP', 'W', 'W_nd'};
+% Asset-pricing model bootstraps (table4 consumes BY/CC/DT/GP/W/W_nd)
+apModels = {'BY', 'CC', 'DT', 'GP', 'W', 'W_nd'};
 for k = 1:numel(apModels)
     checks(end+1) = struct('relPath', fullfile('assetPricing', sprintf( ...
         '%s_asset_pricing_sims_signRestriction_0_coefRestriction_0_25ybandwidth_1yDM_OOS.mat', apModels{k})), ...

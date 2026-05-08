@@ -24,12 +24,12 @@ publish a new archive so replicators can tell which version they have.
 
 The archives are hosted at:
 
-> **`[DROPBOX URL FOR pop_results_2026-05.zip TBD]`**
+> **[`pop_results_2026-05.zip`](https://www.dropbox.com/scl/fi/3e2bxtgbjuxpokki52p9r/pop_results_2026-05.zip?rlkey=rrcdpvaletckwsk2amum9mo4h&st=gd24t0hn&dl=0)** (~0.81 GB)
 >
-> **`[DROPBOX URL FOR pop_data_external_2026-05.zip TBD]`**
+> **[`pop_data_external_2026-05.zip`](https://www.dropbox.com/scl/fi/7qtodtzp7fm5gevxhvxc3/pop_data_external_2026-05.zip?rlkey=r2y18d49bmksaqf8arrks57d7&st=12doj945&dl=0)** (~7.82 GB)
 
-Replace these placeholders with the published Dropbox links once the
-zips are uploaded.
+Both links open the Dropbox preview page. Append `&dl=1` (or change `dl=0`
+to `dl=1`) on either URL to trigger a direct download instead.
 
 ## Creating the archives (author workflow)
 

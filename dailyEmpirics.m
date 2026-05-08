@@ -136,8 +136,13 @@ for iSpec = specsToRun
     R.coefRestriction   = coefRestriction;
     R.pocketIndicesLPM  = pocketIndicesLPM;
 
-    % forecastResults persists the un-trimmed, un-scaled forecast matrices.
-    saveForecastResults(fileName, R);
+    % Persist the un-trimmed, un-scaled forecast matrices only for the
+    % canonical spec (sgn=1, 2.5yE_1yDM). The forecast file is consumed by
+    % table2, figure2, and computeSignifCell — all of which load only the
+    % canonical spec. Non-canonical forecast files are over-output.
+    if isequal(spec, [0 0 2.7 1])
+        saveForecastResults(fileName, R);
+    end
 
     %% Forecast combination (build the three combination panels)
     R = trimAndAlignResults(R, 100);

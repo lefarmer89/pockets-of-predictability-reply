@@ -122,10 +122,13 @@ for iSpec = specsToRun
     R.coefRestriction   = coefRestriction;
     R.pocketIndicesLPM  = pocketIndicesLPM;
 
-    % forecastResults persists the un-trimmed, un-scaled forecast
-    % matrices (column-wise leading NaNs aligned to each variable's
-    % predictor history).
-    saveForecastResults(fileName, R);
+    % Persist the un-trimmed, un-scaled forecast matrices only for the
+    % canonical sgn=1 spec. tableA5 reads only the sgn=1 monthly forecast;
+    % tableA6 reads only the OOS files (sgn=1, 2, 3). Non-sgn=1 forecast
+    % files are over-output.
+    if (signRestriction == 0) && (coefRestriction == 0)
+        saveForecastResults(fileName, R);
+    end
 
     %% Forecast combination
     R = trimAndAlignResults(R, 100, ...

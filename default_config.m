@@ -59,9 +59,13 @@ function cfg = default_config()
 %                      dailyEmpiricsHyperparameters1/2/Marginals is invoked.
 %                      Set to a scalar (e.g. 2) to run only the
 %                      published-baseline signSpec.
-%   dailySpecsSubset   [] (default) = run all 15 specs in dailyEmpirics.
-%                      Set to a vector of row indices into the spec grid
-%                      (e.g. [7]) for shakeout.
+%   dailySpecsSubset   Default [1, 6, 7, 8, 9, 10, 11] runs only the 7
+%                      spec rows whose outputs displayResults consumes:
+%                      row 1 (sgn=1 canonical), 6-10 (sgn=2 with all 5
+%                      kernel/DM combos for the window-robustness sweep),
+%                      and 11 (sgn=3 canonical). Set to a vector of row
+%                      indices for shakeout (e.g. [7]) or to 1:15 for the
+%                      full sweep.
 %   monthlySpecsSubset [] (default) = run all 3 specs in monthlyEmpirics.
 %                      Vector of row indices for shakeout.
 %   useParallel        [] (auto-detect via useParfor) | true | false
@@ -91,7 +95,7 @@ cfg.resultsSubdir             = '';
 cfg.hyperparameterComboSubset = [];
 cfg.hyperparameterSpecs       = [];
 cfg.bootstrapReps             = [];
-cfg.dailySpecsSubset          = [];
+cfg.dailySpecsSubset          = [1, 6, 7, 8, 9, 10, 11];
 cfg.monthlySpecsSubset        = [];
 
 cfg.useParallel = [];
