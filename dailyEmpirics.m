@@ -168,21 +168,25 @@ for iSpec = specsToRun
     [fDMCell, fCWCell, pIndCell] = appendCombinationTestCells( ...
         fDMCell, fCWCell, pIndCell, R, yComb1, yComb2, yComb3, combPocket);
 
-    % Append the *S (trimmed/scaled) panels used by figure2. The -append
-    % to a freshly written file occasionally races Dropbox's incremental
-    % sync and lands a "file appears to be corrupt" error; retry once
-    % with a short pause to let Dropbox release the file handle.
-    yF2MatS       = [R.yF2Mat, yComb1, yComb2, yComb3];
-    pocketIndMatS = [R.pocketIndMat, combPocket, combPocket, combPocket];
-    dateVecS      = R.dateVec;
-    try
-        save(fileName, 'yF2MatS', 'pocketIndMatS', 'dateVecS', '-append');
-    catch ME
-        if contains(ME.message, 'corrupt')
-            pause(2);
+    % Append the *S (trimmed/scaled) panels used by figure2. Only the
+    % canonical spec writes a forecast file (see guard above), so the
+    % append is conditioned on the same spec. The -append to a freshly
+    % written file occasionally races Dropbox's incremental sync and
+    % lands a "file appears to be corrupt" error; retry once with a
+    % short pause to let Dropbox release the file handle.
+    if isequal(spec, [0 0 2.7 1])
+        yF2MatS       = [R.yF2Mat, yComb1, yComb2, yComb3];
+        pocketIndMatS = [R.pocketIndMat, combPocket, combPocket, combPocket];
+        dateVecS      = R.dateVec;
+        try
             save(fileName, 'yF2MatS', 'pocketIndMatS', 'dateVecS', '-append');
-        else
-            rethrow(ME);
+        catch ME
+            if contains(ME.message, 'corrupt')
+                pause(2);
+                save(fileName, 'yF2MatS', 'pocketIndMatS', 'dateVecS', '-append');
+            else
+                rethrow(ME);
+            end
         end
     end
 
