@@ -1,7 +1,7 @@
 function dailyAssetPricingBootstrap(cfg)
 % DAILYASSETPRICINGBOOTSTRAP  Bootstrap on simulated returns from five
-% asset-pricing models (Bansal-Yaron, Campbell-Cochrane, Duffie-Tomz,
-% Gabaix-Postemski, Wachter, plus a Wachter-no-disasters variant). Drives
+% asset-pricing models (Bansal-Yaron, Campbell-Cochrane, Di Tella,
+% Garleanu-Panageas, Wachter, plus a Wachter-no-disasters variant). Drives
 % the model-comparison statistics in Table 4.
 %
 % Inputs (read from cfg.paths.csvSims):

@@ -35,7 +35,7 @@ dailyEmpiricsHyperparametersMarginals(cfg, 2);   % results/aggregates/topKbotK.m
 
 % --- Bootstraps and asset-pricing sims.
 % data/csv_sims/{BY,CC,DT,GP,W}_sim.csv are external simulation outputs
-% (Bansal-Yaron, Campbell-Cochrane, Duffie-Tomz, Gabaix-Postemski,
+% (Bansal-Yaron, Campbell-Cochrane, Di Tella, Garleanu-Panageas,
 % Wachter); they are inputs, not regenerated here.
 dailyBootstrap(cfg);                             % results/bootstrap/
 generateStickyExpectationsData(cfg);             % results/simulatedPaths/
