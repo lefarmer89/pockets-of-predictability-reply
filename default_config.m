@@ -69,6 +69,14 @@ function cfg = default_config()
 %   monthlySpecsSubset [] (default) = run all 3 specs in monthlyEmpirics.
 %                      Vector of row indices for shakeout.
 %   useParallel        [] (auto-detect via useParfor) | true | false
+%   marginalsParforWorkers
+%                      [] (default = 6) cap on parfor workers for
+%                      dailyEmpiricsHyperparametersMarginals only. The
+%                      Marginals stage broadcasts ~620 MB per worker
+%                      and OOMs at 12 workers on 32 GB machines. Other
+%                      stages run at full pool size. The function
+%                      shrinks the pool on entry and restores it on
+%                      exit via onCleanup.
 %   rngSeed            integer seed for any RNG-dependent step
 %
 % Defaults below match the published reply.
@@ -98,6 +106,7 @@ cfg.bootstrapReps             = [];
 cfg.dailySpecsSubset          = [1, 6, 7, 8, 9, 10, 11];
 cfg.monthlySpecsSubset        = [];
 
-cfg.useParallel = [];
-cfg.rngSeed     = 20240101;
+cfg.useParallel            = [];
+cfg.marginalsParforWorkers = [];
+cfg.rngSeed                = 20240101;
 end

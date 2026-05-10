@@ -41,11 +41,66 @@ if nargin < 2 || isempty(signSpec)
     end
 end
 
+% Marginals broadcasts ~620 MB per parfor worker (T x nCombos slices for
+% rmseAll, alphMat, tAlphMat, yF2Ext). The default 8-16 worker pool can
+% OOM during deserialization on 32 GB machines. Cap the pool at
+% cfg.marginalsParforWorkers (default 6) for the duration of this
+% function and restore the original size on exit.
+marginalsCap = 6;
+if isfield(cfg, 'marginalsParforWorkers') && ~isempty(cfg.marginalsParforWorkers)
+    marginalsCap = cfg.marginalsParforWorkers;
+end
+
+if useParfor(cfg) > 0
+    [poolWasResized, originalSize] = capParpoolForMarginals(marginalsCap);
+    poolGuard = onCleanup(@() restoreParpoolAfterMarginals( ...
+        poolWasResized, originalSize)); %#ok<NASGU>
+end
+
 for s = signSpec(:)'
     fprintf('dailyEmpiricsHyperparametersMarginals: signSpec %d (sweep %s)\n', ...
         s, mat2str(signSpec(:)'));
     runOneSignSpec(cfg, s);
 end
+end
+
+
+function [poolWasResized, originalSize] = capParpoolForMarginals(cap)
+% Ensure the active parpool has at most `cap` workers. Returns
+% poolWasResized = true if we created or shrunk the pool (so the caller's
+% onCleanup can undo it on exit), and originalSize = the pre-existing
+% pool size (0 if no pool was active).
+poolWasResized = false;
+originalSize   = 0;
+p = gcp('nocreate');
+if isempty(p)
+    fprintf('Marginals: creating parpool of %d workers\n', cap);
+    parpool('local', cap);
+    poolWasResized = true;   % we created it; restore = delete
+    originalSize   = 0;
+elseif p.NumWorkers > cap
+    originalSize = p.NumWorkers;
+    fprintf('Marginals: shrinking parpool from %d to %d workers (avoid OOM during broadcast)\n', ...
+        originalSize, cap);
+    delete(p);
+    parpool('local', cap);
+    poolWasResized = true;
+end
+end
+
+
+function restoreParpoolAfterMarginals(poolWasResized, originalSize)
+% onCleanup callback: restore the parpool to whatever was active before
+% capParpoolForMarginals ran. Fires whether the function returned
+% normally or errored out.
+if ~poolWasResized; return; end
+p = gcp('nocreate');
+if ~isempty(p); delete(p); end
+if originalSize > 0
+    fprintf('Marginals: restoring parpool to %d workers\n', originalSize);
+    parpool('local', originalSize);
+end
+% if originalSize == 0, leave with no pool (caller had no pool when we entered)
 end
 
 

@@ -299,6 +299,11 @@ takes ~2 hours; the bottleneck is the multi-GB CSV reads in
   summation order, so expect drift around 1e-10 in some cells across
   worker counts. Bootstrap loops pre-generate per-replication seeds
   before each parfor, so the bootstrap distribution is unaffected.
+- **Memory-constrained machines.** The hyperparameter Marginals stage
+  broadcasts ~620 MB per parfor worker and can OOM at 12 workers on
+  32 GB machines. `dailyEmpiricsHyperparametersMarginals` self-caps
+  the pool at 6 workers (set `cfg.marginalsParforWorkers` to override)
+  and restores the original pool size on exit.
 
 ## Cached `.mat` archive
 

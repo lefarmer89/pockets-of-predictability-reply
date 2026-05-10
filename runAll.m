@@ -33,6 +33,13 @@ dailyEmpiricsHyperparameters2(cfg);              % results/hyperparameters/
 dailyEmpiricsHyperparametersMarginals(cfg, 1);   % results/aggregates/topKbotK_signSpec1.mat
 dailyEmpiricsHyperparametersMarginals(cfg, 2);   % results/aggregates/topKbotK.mat (default)
 
+% Marginals self-protects via cfg.marginalsParforWorkers (default 6) and
+% restores the prior pool size on exit, so the explicit reset below is
+% redundant but harmless; left in place for belt-and-suspenders on
+% machines that previously hit the OOM.
+delete(gcp('nocreate'));
+parpool('local', 12);
+
 % --- Bootstraps and asset-pricing sims.
 % data/csv_sims/{BY,CC,DT,GP,W}_sim.csv are external simulation outputs
 % (Bansal-Yaron, Campbell-Cochrane, Di Tella, Garleanu-Panageas,
