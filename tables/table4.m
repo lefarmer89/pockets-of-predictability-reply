@@ -43,7 +43,7 @@ for ii = 1:5
     tab4(:, (ii-1)*3+2:ii*3+1) = [meanMat(:), seMat(:), pMat(:)];
 end
 
-rowLabels = repmat({'$CW_{FS}$', '$CW_{IP}$', '$CS_{OOP}$', '$CW_{DIFF}$', ...
+rowLabels = repmat({'$CW_{FS}$', '$CW_{IP}$', '$CW_{OOP}$', '$CW_{DIFF}$', ...
     '$\hat{\alpha}$', '$t_{\hat{\alpha}}$', 'SR'}, 1, 3);
 colLabels = [{'Stats', 'Sample'}, repmat({'Avg.', 'Std. err.', 'p-val'}, 1, 5)];
 
